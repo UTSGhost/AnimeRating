@@ -31,7 +31,25 @@ export default function App() {
             sortierteListe.sort((a, b) => isAscending ? a.alt_name.localeCompare(b.alt_name) : b.alt_name.localeCompare(a.alt_name));
         }
         else if (e1 === 'season') {
-            sortierteListe.sort((a, b) => isAscending ? a.season.localeCompare(b.season) : b.season.localeCompare(a.season));
+            const seasonWeights = { 'Winter': 1, 'Spring': 2, 'Summer': 3, 'Fall': 4 };
+
+            sortierteListe.sort((a, b) => {
+                const getSeasonData = (seasonStr) => {
+                    if (!seasonStr) return { year: 0, weight: 0 };
+                    
+                    const parts = seasonStr.split(' ');
+                    const season = parts[0]; 
+                    const year = parseInt(parts[1]) || 0; 
+                    
+                    return { year: year, weight: seasonWeights[season] || 0 };
+                };
+                const dataA = getSeasonData(a.season);
+                const dataB = getSeasonData(b.season);
+                if (dataA.year !== dataB.year) {
+                    return isAscending ? dataA.year - dataB.year : dataB.year - dataA.year;
+                }
+                return isAscending ? dataA.weight - dataB.weight : dataB.weight - dataA.weight;
+            });
         }
         else if (e1 === 'type') {
             sortierteListe.sort((a, b) => isAscending ? a.type.localeCompare(b.type) : b.type.localeCompare(a.type));
@@ -104,10 +122,8 @@ export default function App() {
             <div className="container">
                 <Header isDarkMode={isDarkMode} onToggle={toggleTheme} />
                 
-                <p>Mean Score: {meanScore}</p>
-                
                 <Infobox />
-                <SortMenu onSort={handleSort} />
+                <SortMenu onSort={handleSort} meanScore={meanScore} />
                 
                 <main className="anime-grid">
                     {animes.map((anime) => (

@@ -6,11 +6,12 @@
     --card-bg: #1e293b;      
     --text-color: #f1f5f9;   
     --text-muted: #94a3b8;    
-    --accent-color: #818cf8;   
+    --accent-color: #6d79eb;   
     --border-color: #334155;  
     --button-bg: #334155;
     --button-hover: #475569;
     --score-text: #ffffff;
+    --highlight-color: #a487f4;
 }
 
 .light-mode {
@@ -22,6 +23,17 @@
     --border-color: #e2e8f0;   
     --button-bg: #f1f5f9;
     --button-hover: #322f64a7;
+    --highlight-color: #443178;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('./assets/fonts/Nunito-VariableFont_wght.woff2') format('woff2 supports variations'),
+         url('./assets/fonts/Nunito-VariableFont_wght.woff2') format('woff2-variations');
+    src: url('./assets/fonts/Nunito-VariableFont_wght.woff') format('woff');
+    font-weight: 300 900;
+    font-style: normal;
+    font-display: swap;
 }
 
 
@@ -87,6 +99,9 @@ header h1 {
     background: var(--card-bg);
     border-radius: 10px;
     border: 1px solid var(--border-color);
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: bold;
 }
 
 select, .theme-toggle, .toggle-btn, .flip-btn {
@@ -115,6 +130,9 @@ select:hover, button:hover {
     display: flex;
     align-items: center;
     gap: 5px;
+    min-width: 89px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .direction-toggle:hover {
@@ -176,6 +194,7 @@ select:hover, button:hover {
 .anime-card.is-expanded {
     border-color: var(--accent-color);
     box-shadow: 0 0 15px rgba(169, 182, 255, 0.3);
+    grid-column: 1 / -1;
 }
 
 .card-header {
@@ -257,8 +276,6 @@ select:hover, button:hover {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    margin-top: 15px;
-    padding-top: 15px;
     border-top: 1px dashed var(--border-color);
 }
 
@@ -269,6 +286,11 @@ select:hover, button:hover {
     .criteria-column {
         flex: 1;
     }
+}
+
+.criteria-column h3{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .sub-cat-block ul {
@@ -283,17 +305,24 @@ select:hover, button:hover {
     border-bottom: 1px solid rgba(128,128,128,0.1);
 }
 
+.cat-total-score {
+    font-weight: normal;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-left: 8px;
+}
+
 .anime-card.flipped {
     background-color: var(--card-bg);
-    min-height: 400px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    max-height: 365px;
     border: 2px solid var(--accent-color);
 }
 
 .review-text {
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 15px;
     background: rgba(0, 0, 0, 0.2);
     border-radius: 8px;
@@ -301,24 +330,9 @@ select:hover, button:hover {
     max-height: 500px;
     font-size: 0.95rem;
     line-height: 1.7;
-}
-
-.back-btn {
-    align-self: flex-start;
-    background: var(--border-color);
-    color: var(--text-color);
-    border: none;
-    padding: 5px 15px;
-    border-radius: 4px;
-    cursor: pointer;
+    flex: 1; 
     margin-bottom: 10px;
 }
-
-.back-btn:hover {
-    background: var(--accent-color);
-    color: var(--card-bg);
-}
-
 
 /* =========================================
    6. UTILS (Modal, ToTop)
@@ -333,10 +347,40 @@ select:hover, button:hover {
     border: 2px solid var(--accent-color);
     padding: 25px;
     width: 90%;
-    max-width: 600px;
+    max-width: 800px;
     max-height: 80vh;
     overflow-y: auto;
     border-radius: 15px;
+}
+
+.infobox-content h2 {
+    margin-bottom: 1.5rem;
+    color: var(--text-color);
+    font-size: 1.8rem;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 15px;
+}
+
+.infobox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.6); 
+    z-index: 999;
+    backdrop-filter: blur(3px); 
+}
+
+.info-paragraph {
+    margin-bottom: 1.2rem; 
+    line-height: 1.6;   
+    white-space: pre-line; 
+}
+
+.info-paragraph:last-child {
+    margin-bottom: 0;  
 }
 
 .back-to-top {
@@ -358,4 +402,42 @@ select:hover, button:hover {
 
 .back-to-top:hover {
     transform: translateY(-5px) scale(1.1);
+}
+
+.theme-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1100; 
+}
+
+.infobox-container {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1100;
+}
+
+.mean-score-box {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--bg-color);
+    padding: 8px 15px;
+    border-radius: 5px;
+    border: 1px solid var(--border-color);
+    font-weight: bold;
+    margin-left: auto;
+}
+
+.mean-score-box .label {
+    color: var(--text-color);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.mean-score-box .value {
+    color: var(--highlight-color);
+    font-size: 1.1rem;
 }

@@ -15,7 +15,7 @@ const kategorien = {
     }
 };
 
-export default function SortMenu({ onSort }) {
+export default function SortMenu({ onSort, meanScore }) {
     const [ebene1, setEbene1] = useState('id');
     const [ebene2, setEbene2] = useState('all');
     const [ebene3, setEbene3] = useState('all');
@@ -51,11 +51,11 @@ export default function SortMenu({ onSort }) {
     return (
         <div className="sort-menu">
             
+            <label>Sort:</label>
+            
             <button onClick={handleDirectionToggle} className="direction-toggle">
                 {isAscending ? '⬆️' : '⬇️'} {isAscending ? 'Asc' : 'Desc'}
             </button>
-
-            <label style={{ marginRight: '10px' }}>Sort:</label>
 
             <select value={ebene1} onChange={handleEbene1}>
                 <optgroup label="Info">
@@ -91,6 +91,11 @@ export default function SortMenu({ onSort }) {
                     ))}
                 </select>
             )}
+
+            <div className="mean-score-box">
+                <span className="label">Mean Score:</span>
+                <span className="value">{meanScore}</span>
+            </div>
         </div>
     );
 }
