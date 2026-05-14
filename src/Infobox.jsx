@@ -35,7 +35,7 @@ export default function Infobox() {
                         ))}
 
                         <p className="info-paragraph">
-                            <strong>Quick Navigation Guide:</strong> Expand the anime cards to see the detailed scores, and click "Review lesen" to read my actual thoughts. Use the sort menu at the top to filter the grid however you like. Clicking the main title on the top left takes you to my MyAnimeList profile, while the <a target="_blank" href="https://www.colorhexa.com/a9b6ff">blue</a> ID numbers will take you straight to the MAL entry of that specific anime. 
+                            <strong>Quick Navigation Guide:</strong> Expand the anime cards to see the detailed scores, and click "Review lesen" to read my actual thoughts. Use the sort menu at the top to filter the grid however you like. Clicking the main title on the top left takes you to my MyAnimeList profile, while the <a target="_blank" href="https://www.colorhexa.com/6d79eb">blue</a> ID numbers will take you straight to the MAL entry of that specific anime. 
                         </p>
 
                         <p className="info-paragraph">
