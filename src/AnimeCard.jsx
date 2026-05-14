@@ -111,7 +111,7 @@ export default function AnimeCard({ anime }) {
                 </div>
 
                 <button className="toggle-btn" onClick={() => setShowAdvanced(!showAdvanced)}>
-                    {showAdvanced ? 'Details ausblenden ▲' : 'Alle Kriterien anzeigen ▼'}
+                    {showAdvanced ? 'Hide details ▲' : 'Show all criteria ▼'}
                 </button>
 
                 {showAdvanced && (
@@ -130,7 +130,7 @@ export default function AnimeCard({ anime }) {
                 )}
 
                 <button className="flip-btn" onClick={() => setIsFlipped(true)}>
-                    Review lesen
+                    Read review
                 </button>
             </>
         ) : (
@@ -140,7 +140,7 @@ export default function AnimeCard({ anime }) {
                     <div dangerouslySetInnerHTML={{ __html: anime.rating.explain }} />
                 </div>
                 <button className="flip-btn" onClick={() => setIsFlipped(false)}>
-                    Zurück zur Info
+                    Back to info
                 </button>
             </>
         )}
