@@ -12,6 +12,7 @@
     --button-hover: #475569;
     --score-text: #ffffff;
     --highlight-color: #a487f4;
+    --sticky-bg: rgba(30, 41, 59, 0.9); 
 }
 
 .light-mode {
@@ -24,6 +25,7 @@
     --button-bg: #f1f5f9;
     --button-hover: #322f64a7;
     --highlight-color: #443178;
+    --sticky-bg: rgba(255, 255, 255, 0.9); 
 }
 
 @font-face {
@@ -36,7 +38,6 @@
     font-display: swap;
 }
 
-
 /* =========================================
    2. GLOBAL STYLES
    ========================================= */
@@ -46,13 +47,13 @@
     padding: 0;
 }
 
+html, body {
+    max-width: 100%;
+}
+
 body {
     font-family: 'Nunito', sans-serif;
     transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-html, body {
-    max-width: 100%;
 }
 
 .theme-wrapper {
@@ -78,7 +79,6 @@ a:hover {
     opacity: 0.7;
     text-decoration: underline;
 }
-
 
 /* =========================================
    3. HEADER & MENÜS
@@ -106,6 +106,30 @@ header h1 {
     align-items: center;
     font-size: 1.2rem;
     font-weight: bold;
+}
+
+.mean-score-box {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--bg-color);
+    padding: 8px 15px;
+    border-radius: 5px;
+    border: 1px solid var(--border-color);
+    font-weight: bold;
+    margin-left: auto;
+}
+
+.mean-score-box .label {
+    color: var(--text-color);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.mean-score-box .value {
+    color: var(--highlight-color);
+    font-size: 1.1rem;
 }
 
 select, .theme-toggle, .toggle-btn, .flip-btn {
@@ -144,25 +168,6 @@ select:hover, button:hover {
     transform: scale(1.05);
 }
 
-.info-btn {
-    background: none;
-    border: 2px solid var(--accent-color);
-    color: var(--accent-color);
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    font-weight: bold;
-    cursor: pointer;
-    margin-left: 10px;
-    transition: all 0.2s;
-}
-
-.info-btn:hover {
-    background: var(--accent-color);
-    color: var(--card-bg);
-}
-
-
 /* =========================================
    4. ANIME GRID & CARDS
    ========================================= */
@@ -199,6 +204,15 @@ select:hover, button:hover {
     border-color: var(--accent-color);
     box-shadow: 0 0 15px rgba(169, 182, 255, 0.3);
     grid-column: 1 / -1;
+}
+
+.anime-card.flipped {
+    background-color: var(--card-bg);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-height: 365px;
+    border: 2px solid var(--accent-color);
 }
 
 .card-header {
@@ -259,7 +273,6 @@ select:hover, button:hover {
     color: #fff;
 }
 
-
 /* =========================================
    5. DETAILS & REVIEW
    ========================================= */
@@ -316,15 +329,6 @@ select:hover, button:hover {
     margin-left: 8px;
 }
 
-.anime-card.flipped {
-    background-color: var(--card-bg);
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    max-height: 365px;
-    border: 2px solid var(--accent-color);
-}
-
 .review-text {
     margin-top: 10px;
     padding: 15px;
@@ -341,6 +345,49 @@ select:hover, button:hover {
 /* =========================================
    6. UTILS (Modal, ToTop)
    ========================================= */
+.theme-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1100; 
+}
+
+.infobox-container {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1100;
+}
+
+.info-btn {
+    background: none;
+    border: 2px solid var(--accent-color);
+    color: var(--accent-color);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: all 0.2s;
+}
+
+.info-btn:hover {
+    background: var(--accent-color);
+    color: var(--card-bg);
+}
+
+.infobox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.6); 
+    z-index: 999;
+    backdrop-filter: blur(3px); 
+}
+
 .infobox-content {
     position: fixed;
     z-index: 1000;
@@ -364,17 +411,6 @@ select:hover, button:hover {
     text-align: center;
     border-bottom: 1px solid var(--border-color);
     padding-bottom: 15px;
-}
-
-.infobox-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, 0.6); 
-    z-index: 999;
-    backdrop-filter: blur(3px); 
 }
 
 .info-paragraph {
@@ -408,51 +444,10 @@ select:hover, button:hover {
     transform: translateY(-5px) scale(1.1);
 }
 
-.theme-toggle {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    z-index: 1100; 
-}
-
-.infobox-container {
-    position: fixed;
-    top: 20px;
-    left: 20px;
-    z-index: 1100;
-}
-
-.mean-score-box {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    background: var(--bg-color);
-    padding: 8px 15px;
-    border-radius: 5px;
-    border: 1px solid var(--border-color);
-    font-weight: bold;
-    margin-left: auto;
-}
-
-.mean-score-box .label {
-    color: var(--text-color);
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-
-.mean-score-box .value {
-    color: var(--highlight-color);
-    font-size: 1.1rem;
-}
-
-
 /* =========================================
    7. Mobile Support
    ========================================= */
-
 @media (max-width: 600px) {
-
     .theme-toggle {
         top: 10px;
         right: 10px;
@@ -492,11 +487,9 @@ select:hover, button:hover {
         top: 0;
         z-index: 1050;
         backdrop-filter: blur(8px);
-        background-color: rgba(30, 41, 59, 0.9);
-        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
-        
+        background-color: var(--sticky-bg); 
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
         border: 1px solid var(--border-color);
+        transition: background-color 0.3s ease;
     }
 }
-
-
