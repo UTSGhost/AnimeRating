@@ -457,6 +457,10 @@ select:focus {
    7. Mobile Support
    ========================================= */
 @media (max-width: 600px) {
+    html, body {
+        overflow-x: hidden;
+    }
+    
     .theme-toggle {
         top: 10px;
         right: 10px;
