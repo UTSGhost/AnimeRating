@@ -142,9 +142,18 @@ select, .theme-toggle, .toggle-btn, .flip-btn {
     transition: 0.2s;
 }
 
-select:hover, button:hover {
+button:hover {
     background: var(--button-hover);
     color: #000;
+}
+
+select:hover {
+    border-color: var(--accent-color);
+}
+
+select:focus {
+    outline: none;
+    border-color: var(--accent-color);
 }
 
 .direction-toggle {

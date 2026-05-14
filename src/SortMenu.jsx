@@ -60,23 +60,23 @@ export default function SortMenu({ onSort, meanScore }) {
             <select value={ebene1} onChange={handleEbene1}>
                 <optgroup label="Info">
                     <option value="id">MAL ID</option>
-                    <option value="title">Titel</option>
-                    <option value="alt_name">Alternativer Titel</option>
+                    <option value="title">Title</option>
+                    <option value="alt_name">Alternative title</option>
                     <option value="season">Season</option>
-                    <option value="type">Typ (TV, Movie...)</option>
-                    <option value="mal_rating">MAL Rating (Gesamt-Score)</option>
-                    <option value="review_length">Review Länge</option>
+                    <option value="type">Type (TV, Movie...)</option>
+                    <option value="mal_rating">MAL Score</option>
+                    <option value="review_length">Review length</option>
                 </optgroup>
 
                 <optgroup label="Rating details">
-                    <option value="objective">Objective (Objektiv)</option>
-                    <option value="subjective">Subjective (Subjektiv)</option>
+                    <option value="objective">Objective</option>
+                    <option value="subjective">Subjective</option>
                 </optgroup>
             </select>
 
             {(ebene1 === 'objective' || ebene1 === 'subjective') && (
                 <select value={ebene2} onChange={handleEbene2} style={{ marginLeft: '10px' }}>
-                    <option value="all">🏆 Gesamten {ebene1}-Score</option>
+                    <option value="all">Full {ebene1}-Score</option>
                     {Object.keys(kategorien[ebene1]).map((sub) => (
                         <option key={sub} value={sub}>{sub}</option>
                     ))}
@@ -85,7 +85,7 @@ export default function SortMenu({ onSort, meanScore }) {
 
             {ebene2 !== 'all' && (ebene1 === 'objective' || ebene1 === 'subjective') && (
                 <select value={ebene3} onChange={handleEbene3} style={{ marginLeft: '10px' }}>
-                    <option value="all">📝 Gesamten {ebene2}-Score</option>
+                    <option value="all">Full {ebene2}-Score</option>
                     {kategorien[ebene1][ebene2].map((krit) => (
                         <option key={krit} value={krit}>{krit}</option>
                     ))}
