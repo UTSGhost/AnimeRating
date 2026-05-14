@@ -2,16 +2,16 @@ import { useState } from 'react';
 
 const kategorien = {
     objective: {
-        characters: ["protagonist", "antagonist", "side_characters", "realistic"],
-        writing: ["ending", "logical", "plot"],
-        music_sound: ["ost_bgm", "voiceacting", "op_ed", "soundeffects"],
-        animation_art: ["fight_scenes_general_smooth_movement", "character_design", "world_building"]
+        characters: ["Protagonist", "Antagonist", "Side Characters", "Realistic"],
+        writing: ["Ending", "Logical", "Plot"],
+        music_sound: ["OST/BGM", "Voiceacting", "OP/ED", "SFX"],
+        animation_art: ["Animation", "Character Design", "Worldbuilding"]
     },
     subjective: {
-        emotions: ["comedic_sad_thrilling", "vibe", "climax"],
-        story: ["satisfying_ending", "no_unnecessary_scenes", "enjoyable_content"],
-        characters: ["likeable", "waifus", "relationships"],
-        memory: ["aftertaste", "addictive", "nostalgia"]
+        emotions: ["Strong emotions", "Vibe", "Climax"],
+        story: ["Satisfying Ending", "No unnecessary scenes", "Enjoyable Content"],
+        characters: ["Likeable", "Waifus", "Relationships"],
+        memory: ["Aftertaste", "Addictiveness", "Nostalgia"]
     }
 };
 
@@ -76,7 +76,7 @@ export default function SortMenu({ onSort, meanScore }) {
 
             {(ebene1 === 'objective' || ebene1 === 'subjective') && (
                 <select value={ebene2} onChange={handleEbene2} style={{ marginLeft: '10px' }}>
-                    <option value="all">Full {ebene1}-Score</option>
+                    <option value="all">Full {ebene1} score</option>
                     {Object.keys(kategorien[ebene1]).map((sub) => (
                         <option key={sub} value={sub}>{sub}</option>
                     ))}
@@ -85,7 +85,7 @@ export default function SortMenu({ onSort, meanScore }) {
 
             {ebene2 !== 'all' && (ebene1 === 'objective' || ebene1 === 'subjective') && (
                 <select value={ebene3} onChange={handleEbene3} style={{ marginLeft: '10px' }}>
-                    <option value="all">Full {ebene2}-Score</option>
+                    <option value="all">Full {ebene2} score</option>
                     {kategorien[ebene1][ebene2].map((krit) => (
                         <option key={krit} value={krit}>{krit}</option>
                     ))}
