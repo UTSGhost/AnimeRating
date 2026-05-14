@@ -7,19 +7,20 @@ export default function AnimeCard({ anime }) {
     const obj = anime.rating.objective;
     const subj = anime.rating.subjective;
 
-    const sumValues = (obj) => Object.values(obj).reduce((a, b) => a + b, 0);
+    // FIX: Rundet jede berechnete Summe sofort auf max. 2 Nachkommastellen
+    const sumValues = (obj) => Math.round(Object.values(obj).reduce((a, b) => a + b, 0) * 100) / 100;
 
     const scoreCharacters = sumValues(obj.characters);
     const scoreWriting = sumValues(obj.writing);
     const scoreSound = sumValues(obj.music_sound);
     const scoreArt = sumValues(obj.animation_art);
-    const totalObjective = scoreCharacters + scoreWriting + scoreSound + scoreArt;
+    const totalObjective = Math.round((scoreCharacters + scoreWriting + scoreSound + scoreArt) * 100) / 100;
 
     const scoreEmotions = sumValues(subj.emotions);
     const scoreStory = sumValues(subj.story);
     const scoreSubjChars = sumValues(subj.characters);
     const scoreMemory = sumValues(subj.memory);
-    const totalSubjective = scoreEmotions + scoreStory + scoreSubjChars + scoreMemory;
+    const totalSubjective = Math.round((scoreEmotions + scoreStory + scoreSubjChars + scoreMemory) * 100) / 100;
 
     const malRate = Math.round(((totalObjective + totalSubjective) / 10) * 100) / 100;
 
