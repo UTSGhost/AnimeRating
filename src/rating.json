@@ -14146,48 +14146,48 @@
       "rating": {
         "objective": {
           "characters": {
-            "Protagonist": 0,
-            "Antagonist": 0,
-            "Side Characters": 0,
+            "Protagonist": 3.9,
+            "Antagonist": 3,
+            "Side Characters": 4,
             "Realistic": 0
           },
           "writing": {
-            "Ending": 0,
-            "Logical": 0,
-            "Plot": 0
+            "Ending": 2,
+            "Logical": 2,
+            "Plot": 4
           },
           "music_sound": {
             "OST/BGM": 0,
             "Voiceacting": 0,
-            "OP/ED": 0,
-            "SFX": 0
+            "OP/ED": 6.4,
+            "SFX": 1
           },
           "animation_art": {
-            "Animation": 0,
-            "Character Design": 0,
-            "Worldbuilding": 0
+            "Animation": 5,
+            "Character Design": 2,
+            "Worldbuilding": 2
           }
         },
         "subjective": {
           "emotions": {
-            "Strong emotions": 0,
-            "Vibe": 0,
-            "Climax": 0
+            "Strong emotions": 2,
+            "Vibe": 4,
+            "Climax": 4
           },
           "story": {
-            "Satisfying Ending": 0,
-            "No unnecessary scenes": 0,
-            "Enjoyable Content": 0
+            "Satisfying Ending": 3,
+            "No unnecessary scenes": 1.9,
+            "Enjoyable Content": 3.2
           },
           "characters": {
-            "Likeable": 0,
+            "Likeable": 3,
             "Waifus": 0,
-            "Relationships": 0
+            "Relationships": 4
           },
           "memory": {
-            "Aftertaste": 0,
-            "Addictiveness": 0,
-            "Nostalgia": 0
+            "Aftertaste": 3,
+            "Addictiveness": 3,
+            "Nostalgia": 1
           }
         },
         "explain": "No review written yet"
@@ -17779,6 +17779,63 @@
             "Aftertaste": 0,
             "Addictiveness": 0,
             "Nostalgia": 0
+          }
+        },
+        "explain": "No review written yet"
+      }
+    },
+    {
+      "img": "https://cdn.myanimelist.net/images/anime/1121/119044.jpg",
+      "name": "Jujutsu Kaisen 0 Movie",
+      "alt_name": "Jujutsu Kaisen 0",
+      "id": 48561,
+      "season": "Fall 2021",
+      "type": "Movie",
+      "rating": {
+        "objective": {
+          "characters": {
+            "Protagonist": 3.5,
+            "Antagonist": 3.5,
+            "Side Characters": 3.5,
+            "Realistic": 1.5
+          },
+          "writing": {
+            "Ending": 3,
+            "Logical": 2,
+            "Plot": 4
+          },
+          "music_sound": {
+            "OST/BGM": 0,
+            "Voiceacting": 0,
+            "OP/ED": 1.5,
+            "SFX": 2
+          },
+          "animation_art": {
+            "Animation": 3.3,
+            "Character Design": 1.5,
+            "Worldbuilding": 3
+          }
+        },
+        "subjective": {
+          "emotions": {
+            "Strong emotions": 3,
+            "Vibe": 2.9,
+            "Climax": 4.3
+          },
+          "story": {
+            "Satisfying Ending": 2,
+            "No unnecessary scenes": 2,
+            "Enjoyable Content": 3.5
+          },
+          "characters": {
+            "Likeable": 3,
+            "Waifus": 0,
+            "Relationships": 1.5
+          },
+          "memory": {
+            "Aftertaste": 0.6,
+            "Addictiveness": 1.8,
+            "Nostalgia": 1
           }
         },
         "explain": "No review written yet"

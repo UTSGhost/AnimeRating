@@ -333,7 +333,6 @@ select:focus {
 
 .cat-total-score {
     font-weight: normal;
-    color: var(--text-muted);
     font-size: 0.9em;
     margin-left: 8px;
 }
