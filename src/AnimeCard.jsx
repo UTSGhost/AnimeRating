@@ -10,32 +10,32 @@ export default function AnimeCard({ anime }) {
     // FIX: Rundet jede berechnete Summe sofort auf max. 2 Nachkommastellen
     const sumValues = (obj) => Math.round(Object.values(obj).reduce((a, b) => a + b, 0) * 100) / 100;
 
-    const scoreCharacters = sumValues(obj.characters);
-    const scoreWriting = sumValues(obj.writing);
-    const scoreSound = sumValues(obj.music_sound);
-    const scoreArt = sumValues(obj.animation_art);
+    const scoreCharacters = sumValues(obj.Characters);
+    const scoreWriting = sumValues(obj.Writing);
+    const scoreSound = sumValues(obj.Sound);
+    const scoreArt = sumValues(obj.Animation);
     const totalObjective = Math.round((scoreCharacters + scoreWriting + scoreSound + scoreArt) * 100) / 100;
 
-    const scoreEmotions = sumValues(subj.emotions);
-    const scoreStory = sumValues(subj.story);
-    const scoreSubjChars = sumValues(subj.characters);
-    const scoreMemory = sumValues(subj.memory);
+    const scoreEmotions = sumValues(subj.Emotions);
+    const scoreStory = sumValues(subj.Story);
+    const scoreSubjChars = sumValues(subj.Characters);
+    const scoreMemory = sumValues(subj.Memory);
     const totalSubjective = Math.round((scoreEmotions + scoreStory + scoreSubjChars + scoreMemory) * 100) / 100;
 
     const malRate = Math.round(((totalObjective + totalSubjective) / 10) * 100) / 100;
 
     const objScores = {
-        characters: { score: scoreCharacters, max: 15 },
-        writing: { score: scoreWriting, max: 15 },
-        music_sound: { score: scoreSound, max: 10 },
-        animation_art: { score: scoreArt, max: 10 }
+        Characters: { score: scoreCharacters, max: 15 },
+        Writing: { score: scoreWriting, max: 15 },
+        Sound: { score: scoreSound, max: 10 },
+        Animation: { score: scoreArt, max: 10 }
     };
 
     const subjScores = {
-        emotions: { score: scoreEmotions, max: 15 },
-        story: { score: scoreStory, max: 15 },
-        characters: { score: scoreSubjChars, max: 10 },
-        memory: { score: scoreMemory, max: 10 }
+        Emotions: { score: scoreEmotions, max: 15 },
+        Story: { score: scoreStory, max: 15 },
+        Characters: { score: scoreSubjChars, max: 10 },
+        Memory: { score: scoreMemory, max: 10 }
     };
 
     const renderSubCategory = (title, data, scoreMap) => {

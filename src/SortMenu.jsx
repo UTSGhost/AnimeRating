@@ -2,16 +2,16 @@ import { useState } from 'react';
 
 const kategorien = {
     objective: {
-        characters: ["Protagonist", "Antagonist", "Side Characters", "Realistic"],
-        writing: ["Ending", "Logical", "Plot"],
-        music_sound: ["OST/BGM", "Voiceacting", "OP/ED", "SFX"],
-        animation_art: ["Animation", "Character Design", "Worldbuilding"]
+        Characters: ["Protagonist", "Antagonist", "Side Characters", "Realistic"],
+        Writing: ["Ending", "Logical", "Plot"],
+        Sound: ["OST/BGM", "Voiceacting", "OP/ED", "SFX"],
+        Animation: ["Animation", "Character Design", "Worldbuilding"]
     },
     subjective: {
-        emotions: ["Strong emotions", "Vibe", "Climax"],
-        story: ["Satisfying Ending", "No unnecessary scenes", "Enjoyable Content"],
-        characters: ["Likeable", "Waifus", "Relationships"],
-        memory: ["Aftertaste", "Addictiveness", "Nostalgia"]
+        Emotions: ["Strong emotions", "Vibe", "Climax"],
+        Story: ["Satisfying Ending", "No unnecessary scenes", "Enjoyable Content"],
+        Characters: ["Likeable", "Waifus", "Relationships"],
+        Memory: ["Aftertaste", "Addictiveness", "Nostalgia"]
     }
 };
 
