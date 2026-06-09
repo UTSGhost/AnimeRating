@@ -83,7 +83,7 @@ export default function AnimeCard({ anime }) {
         {!isFlipped ? (
             <>
                 <div className="card-header">
-                    <img src={anime.img} alt={anime.name} className="card-img" />
+                    <img src={anime.img} alt={anime.name} className="card-img" referrerPolicy="no-referrer"/>
                     <div className="title-area">
                         <span className="mal-id">
                             <a href={`https://myanimelist.net/anime/${anime.id}`} target="_blank" rel="noreferrer">
