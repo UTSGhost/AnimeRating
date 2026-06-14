@@ -21897,46 +21897,46 @@
       "type": "TV",
       "rating": {
         "objective": {
-          "characters": {
+          "Characters": {
             "Protagonist": 0,
             "Antagonist": 0,
             "Side Characters": 0,
             "Realistic": 0
           },
-          "writing": {
+          "Writing": {
             "Ending": 0,
             "Logical": 0,
             "Plot": 0
           },
-          "music_sound": {
+          "Sound": {
             "OST/BGM": 0,
             "Voiceacting": 0,
             "OP/ED": 0,
             "SFX": 0
           },
-          "animation_art": {
+          "Animation": {
             "Animation": 0,
             "Character Design": 0,
             "Worldbuilding": 0
           }
         },
         "subjective": {
-          "emotions": {
+          "Emotions": {
             "Strong emotions": 0,
             "Vibe": 0,
             "Climax": 0
           },
-          "story": {
+          "Story": {
             "Satisfying Ending": 0,
             "No unnecessary scenes": 0,
             "Enjoyable Content": 0
           },
-          "characters": {
+          "Characters": {
             "Likeable": 0,
             "Waifus": 0,
             "Relationships": 0
           },
-          "memory": {
+          "Memory": {
             "Aftertaste": 0,
             "Addictiveness": 0,
             "Nostalgia": 0
