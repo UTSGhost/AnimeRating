@@ -62,7 +62,7 @@ def get_anime_data(anime_id):
                 "Writing": {
                     "Ending": 0, "Logical": 0, "Plot": 0
                 },
-                "Music": {
+                "Sound": {
                     "OST/BGM": 0, "Voiceacting": 0, "OP/ED": 0, "SFX": 0
                 },
                 "Animation": {

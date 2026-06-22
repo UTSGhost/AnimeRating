@@ -20122,6 +20122,63 @@
       }
     },
     {
+      "img": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
+      "name": "Tongari Boushi no Atelier",
+      "alt_name": "Witch Hat Atelier",
+      "id": 51553,
+      "season": "Spring 2026",
+      "type": "TV",
+      "rating": {
+        "objective": {
+          "Characters": {
+            "Protagonist": 3,
+            "Antagonist": 3,
+            "Side Characters": 2,
+            "Realistic": 0
+          },
+          "Writing": {
+            "Ending": 2.5,
+            "Logical": 2,
+            "Plot": 3
+          },
+          "Sound": {
+            "OST/BGM": 1,
+            "Voiceacting": 0,
+            "OP/ED": 6.6,
+            "SFX": 1
+          },
+          "Animation": {
+            "Animation": 6,
+            "Character Design": 2,
+            "Worldbuilding": 2
+          }
+        },
+        "subjective": {
+          "Emotions": {
+            "Strong emotions": 3,
+            "Vibe": 2,
+            "Climax": 2.5
+          },
+          "Story": {
+            "Satisfying Ending": 3,
+            "No unnecessary scenes": 0.5,
+            "Enjoyable Content": 2
+          },
+          "Characters": {
+            "Likeable": 1,
+            "Waifus": 0,
+            "Relationships": 3
+          },
+          "Memory": {
+            "Aftertaste": 0.2,
+            "Addictiveness": 2,
+            "Nostalgia": 1
+          }
+        },
+        "explain": "No review written yet"
+      }
+    },
+    {
       "img": "https://cdn.myanimelist.net/images/anime/1932/131464.jpg",
       "name": "Isekai wa Smartphone to Tomo ni. 2",
       "alt_name": "In Another World With My Smartphone 2",
