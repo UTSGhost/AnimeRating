@@ -7933,48 +7933,48 @@
       "rating": {
         "objective": {
           "Characters": {
-            "Protagonist": 0,
-            "Antagonist": 0,
-            "Side Characters": 0,
-            "Realistic": 0
+            "Protagonist": 6,
+            "Antagonist": 3,
+            "Side Characters": 2,
+            "Realistic": 4
           },
           "Writing": {
-            "Ending": 0,
-            "Logical": 0,
-            "Plot": 0
+            "Ending": 3.5,
+            "Logical": 4,
+            "Plot": 5
           },
           "Sound": {
-            "OST/BGM": 0,
-            "Voiceacting": 0,
-            "OP/ED": 0,
+            "OST/BGM": 1,
+            "Voiceacting": 6,
+            "OP/ED": 3,
             "SFX": 0
           },
           "Animation": {
-            "Animation": 0,
-            "Character Design": 0,
-            "Worldbuilding": 0
+            "Animation": 3.5,
+            "Character Design": 3,
+            "Worldbuilding": 3.5
           }
         },
         "subjective": {
           "Emotions": {
-            "Strong emotions": 0,
-            "Vibe": 0,
-            "Climax": 0
+            "Strong emotions": 6,
+            "Vibe": 4,
+            "Climax": 4
           },
           "Story": {
-            "Satisfying Ending": 0,
-            "No unnecessary scenes": 0,
-            "Enjoyable Content": 0
+            "Satisfying Ending": 3.5,
+            "No unnecessary scenes": 2.5,
+            "Enjoyable Content": 4
           },
           "Characters": {
-            "Likeable": 0,
+            "Likeable": 3,
             "Waifus": 0,
-            "Relationships": 0
+            "Relationships": 4
           },
           "Memory": {
-            "Aftertaste": 0,
-            "Addictiveness": 0,
-            "Nostalgia": 0
+            "Aftertaste": 2,
+            "Addictiveness": 2,
+            "Nostalgia": 1
           }
         },
         "explain": "No review written yet"
@@ -13291,48 +13291,48 @@
       "rating": {
         "objective": {
           "Characters": {
-            "Protagonist": 0,
-            "Antagonist": 0,
-            "Side Characters": 0,
-            "Realistic": 0
+            "Protagonist": 6,
+            "Antagonist": 4,
+            "Side Characters": 3.5,
+            "Realistic": 1.5
           },
           "Writing": {
-            "Ending": 0,
-            "Logical": 0,
-            "Plot": 0
+            "Ending": 4,
+            "Logical": 3.5,
+            "Plot": 4
           },
           "Sound": {
             "OST/BGM": 0,
-            "Voiceacting": 0,
-            "OP/ED": 0,
+            "Voiceacting": 5,
+            "OP/ED": 5,
             "SFX": 0
           },
           "Animation": {
-            "Animation": 0,
-            "Character Design": 0,
-            "Worldbuilding": 0
+            "Animation": 3,
+            "Character Design": 2,
+            "Worldbuilding": 2.5
           }
         },
         "subjective": {
           "Emotions": {
-            "Strong emotions": 0,
-            "Vibe": 0,
-            "Climax": 0
+            "Strong emotions": 5,
+            "Vibe": 4,
+            "Climax": 5
           },
           "Story": {
-            "Satisfying Ending": 0,
-            "No unnecessary scenes": 0,
-            "Enjoyable Content": 0
+            "Satisfying Ending": 3.5,
+            "No unnecessary scenes": 4,
+            "Enjoyable Content": 5
           },
           "Characters": {
-            "Likeable": 0,
+            "Likeable": 5,
             "Waifus": 0,
-            "Relationships": 0
+            "Relationships": 4
           },
           "Memory": {
-            "Aftertaste": 0,
-            "Addictiveness": 0,
-            "Nostalgia": 0
+            "Aftertaste": 2,
+            "Addictiveness": 4,
+            "Nostalgia": 2
           }
         },
         "explain": "No review written yet"
@@ -22117,6 +22117,63 @@
       }
     },
     {
+      "img": "https://cdn.myanimelist.net/images/anime/1176/153626.jpg",
+      "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "alt_name": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "id": 59708,
+      "season": "Spring 2026",
+      "type": "TV",
+      "rating": {
+        "objective": {
+          "Characters": {
+            "Protagonist": 7,
+            "Antagonist": 4,
+            "Side Characters": 3,
+            "Realistic": 1
+          },
+          "Writing": {
+            "Ending": 6,
+            "Logical": 2,
+            "Plot": 4
+          },
+          "Sound": {
+            "OST/BGM": 1,
+            "Voiceacting": 1,
+            "OP/ED": 6.2,
+            "SFX": 0
+          },
+          "Animation": {
+            "Animation": 2,
+            "Character Design": 1,
+            "Worldbuilding": 2
+          }
+        },
+        "subjective": {
+          "Emotions": {
+            "Strong emotions": 5,
+            "Vibe": 6,
+            "Climax": 6
+          },
+          "Story": {
+            "Satisfying Ending": 5,
+            "No unnecessary scenes": 4,
+            "Enjoyable Content": 5
+          },
+          "Characters": {
+            "Likeable": 4,
+            "Waifus": 0,
+            "Relationships": 3.5
+          },
+          "Memory": {
+            "Aftertaste": 2,
+            "Addictiveness": 8,
+            "Nostalgia": 1
+          }
+        },
+        "explain": "No review written yet"
+      }
+    },
+    {
       "img": "https://myanimelist.net/images/anime/1921/154528.jpg",
       "name": "Sousou no Frieren 2nd Season",
       "alt_name": "Frieren: Beyond Journey's End Season 2",
@@ -22339,6 +22396,63 @@
             "Aftertaste": 0,
             "Addictiveness": 0,
             "Nostalgia": 0
+          }
+        },
+        "explain": "No review written yet"
+      }
+    },
+    {
+      "img": "https://cdn.myanimelist.net/images/anime/1540/155824.jpg",
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "alt_name": "Re:ZERO -Starting Life in Another World- Season 4",
+      "id": 61316,
+      "season": "Spring 2026",
+      "type": "TV",
+      "rating": {
+        "objective": {
+          "Characters": {
+            "Protagonist": 5,
+            "Antagonist": 4,
+            "Side Characters": 4,
+            "Realistic": 3
+          },
+          "Writing": {
+            "Ending": 6,
+            "Logical": 4,
+            "Plot": 5
+          },
+          "Sound": {
+            "OST/BGM": 1,
+            "Voiceacting": 6,
+            "OP/ED": 1.5,
+            "SFX": 0
+          },
+          "Animation": {
+            "Animation": 3,
+            "Character Design": 3,
+            "Worldbuilding": 4
+          }
+        },
+        "subjective": {
+          "Emotions": {
+            "Strong emotions": 7.2,
+            "Vibe": 3,
+            "Climax": 5.4
+          },
+          "Story": {
+            "Satisfying Ending": 4,
+            "No unnecessary scenes": 4.5,
+            "Enjoyable Content": 5
+          },
+          "Characters": {
+            "Likeable": 3,
+            "Waifus": 0,
+            "Relationships": 5
+          },
+          "Memory": {
+            "Aftertaste": 3,
+            "Addictiveness": 4,
+            "Nostalgia": 3
           }
         },
         "explain": "No review written yet"
