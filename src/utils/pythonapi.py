@@ -4,11 +4,10 @@ import tkinter as tk
 from tkinter import messagebox
 from jikanpy import Jikan
 
-# --- SICHERHEIT 1: Pfad relativ zur Script-Datei ---
+# Resolve path to rating.json in the parent directory (assuming script is in /utils)
 script_dir = os.path.dirname(os.path.abspath(__file__))
-# Falls deine rating.json in einem Unterordner wie 'src' oder 'public' liegt, 
-# müsstest du das hier anpassen, z.B. os.path.join(script_dir, 'src', 'rating.json')
-existing_json_file = os.path.join(script_dir, 'rating.json')
+parent_dir = os.path.dirname(script_dir)
+existing_json_file = os.path.join(parent_dir, 'rating.json')
 
 print(f"Script Location: {script_dir}")
 print(f"JSON Target: {existing_json_file}")
@@ -16,25 +15,25 @@ print(f"JSON Target: {existing_json_file}")
 def get_anime_data(anime_id):
     jikan = Jikan()
     
-    # --- SICHERHEIT 2: API Fehler abfangen ---
+    # Handle API fetch errors
     try:
         anime_data = jikan.anime(anime_id)
     except Exception as e:
-        messagebox.showerror("API Error", f"Konnte ID {anime_id} nicht laden.\nFehler: {e}")
+        messagebox.showerror("API Error", f"Failed to fetch ID {anime_id}.\nError: {e}")
         return None
 
     data = anime_data.get('data', {})
     
-    # Daten holen mit Fallbacks
+    # Extract data with fallbacks
     img = data.get('images', {}).get('jpg', {}).get('image_url', 'Image Not Found')
     name = data.get('title', 'Title Not Found')
-    alt_name = data.get('title_english') # Kann None sein
+    alt_name = data.get('title_english') # Can be None
     mal_id = data.get('mal_id', anime_id)
     season = data.get('season')
     year = data.get('year')
     anime_type = data.get('type', 'Type Not Found')
 
-    # Formatting
+    # Format season string
     if alt_name is None:
         alt_name = name
     
@@ -46,7 +45,7 @@ def get_anime_data(anime_id):
 
     print(f"Fetched: {name} ({season_str})")
 
-    # WICHTIG: Die exakte NEUE JSON Struktur (angepasst an dein SortMenu)
+    # Define target JSON structure
     anime_dict = {
         "img": img,
         "name": name,
@@ -92,33 +91,29 @@ def get_anime_data(anime_id):
 def add_anime():
     user_input = entry_anime_id.get()
     if not user_input.isdigit():
-        messagebox.showwarning("Input Error", "Bitte eine gültige Nummer eingeben.")
+        messagebox.showwarning("Input Error", "Please enter a valid number.")
         return
 
     anime_id_to_add = int(user_input)
     
-    # Deaktiviere Button während des Ladens (einfacher Freeze-Schutz)
+    # Disable button during fetch to prevent duplicate requests
     btn_add_anime.config(state="disabled", text="Loading...")
     window.update()
 
     new_anime_data = get_anime_data(anime_id_to_add)
     
-    # Button wieder aktivieren
+    # Re-enable button
     btn_add_anime.config(state="normal", text="Add Anime")
     
     if new_anime_data is None:
-        return # Abbruch bei Fehler
+        return 
 
-    # --- SICHERHEIT 3: UTF-8 Encoding ---
-    # Lesen
+    # Read existing JSON data
     if os.path.exists(existing_json_file):
         with open(existing_json_file, 'r', encoding='utf-8') as file:
-            # Falls deine JSON einfach nur ein Array ist statt {"animes": [...]},
-            # checke kurz, ob du existing_data direkt als Liste lädst.
-            # Hier gehe ich von deinem alten Format aus.
             try:
                 existing_data = json.load(file)
-                # Fallback für React: Oft ist die JSON direkt ein Array. 
+                # Normalize structure if the root is a list
                 if isinstance(existing_data, list):
                     existing_data = {"animes": existing_data}
             except json.JSONDecodeError:
@@ -131,24 +126,21 @@ def add_anime():
     if existing_anime_index is not None:
         current_entry = existing_data['animes'][existing_anime_index]
         if 'alt_name' not in current_entry or not current_entry['alt_name']:
-            # Behalte alte Ratings, update nur Metadaten
+            # Preserve existing ratings, update metadata
             new_anime_data['rating'] = current_entry.get('rating', new_anime_data['rating'])
             existing_data['animes'][existing_anime_index] = new_anime_data
-            feedback_message = f"Updated Metadata for ID {new_anime_data['id']}."
+            feedback_message = f"Updated metadata for ID {new_anime_data['id']}."
         else:
-            feedback_message = f"Anime ID {new_anime_data['id']} exists. No changes made."
+            feedback_message = f"Anime ID {new_anime_data['id']} already exists. No changes made."
     else:
         existing_data['animes'].append(new_anime_data)
-        feedback_message = f"Added NEW Anime: {new_anime_data['name']}"
+        feedback_message = f"Added new anime: {new_anime_data['name']}"
     
-    # Sortieren
+    # Sort array by ID
     existing_data['animes'] = sorted(existing_data['animes'], key=lambda x: x['id'])
     
-    # Schreiben mit UTF-8
+    # Write updated data to JSON
     with open(existing_json_file, 'w', encoding='utf-8') as file:
-        # Falls dein React Code ein reines Array erwartet, speichere es so:
-        # json.dump(existing_data['animes'], file, indent=2, ensure_ascii=False)
-        # Ansonsten wie gehabt:
         json.dump(existing_data, file, indent=2, ensure_ascii=False) 
     
     print(feedback_message)
