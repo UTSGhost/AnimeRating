@@ -85,7 +85,7 @@ header h1 {
 .sort-menu {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 15px;
     justify-content: center;
     margin-bottom: 30px;
     padding: 15px;
@@ -131,6 +131,10 @@ select, .theme-toggle, .toggle-btn, .flip-btn {
     transition: 0.2s;
 }
 
+.flip-btn {
+    margin-top: auto;
+}
+
 button:hover {
     background: var(--button-hover);
     color: #000;
@@ -147,7 +151,7 @@ select:focus {
 
 .direction-toggle {
     background: var(--accent-color);
-    color: var(--card-bg) !important;
+    color: var(--card-bg);
     font-weight: bold;
     border: none;
     padding: 8px 15px;
@@ -156,9 +160,7 @@ select:focus {
     display: flex;
     align-items: center;
     gap: 5px;
-    min-width: 89px;
-    margin-left: 10px;
-    margin-right: 10px;
+    min-width: 90px;
 }
 
 .direction-toggle:hover {
@@ -185,11 +187,9 @@ select:focus {
     background-color: var(--card-bg);
     border: 1px solid var(--border-color);
     border-radius: 12px;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
@@ -205,12 +205,38 @@ select:focus {
 }
 
 .anime-card.flipped {
-    background-color: var(--card-bg);
+    border: 1px solid var(--accent-color);
+}
+
+.card-front, .card-back {
+    padding: 20px;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    max-height: 365px;
-    border: 2px solid var(--accent-color);
+    gap: 15px;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.card-back {
+    position: absolute;
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none; 
+}
+
+.anime-card.flipped .card-front {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.anime-card.flipped .card-back {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
 }
 
 .card-header {
@@ -327,16 +353,13 @@ select:focus {
 }
 
 .review-text {
-    margin-top: 10px;
     padding: 15px;
     background: rgba(0, 0, 0, 0.2);
     border-radius: 8px;
     overflow-y: auto;
-    max-height: 500px;
     font-size: 0.95rem;
     line-height: 1.7;
     flex: 1; 
-    margin-bottom: 10px;
 }
 
 /* =========================================
@@ -478,6 +501,9 @@ select:focus {
 
     select {
         width: 100%;      
+    }
+    .anime-card.is-expanded{
+        height: 1300px;
     }
 }
 

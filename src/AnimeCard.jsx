@@ -8,7 +8,7 @@ export default function AnimeCard({ anime }) {
     const obj = anime.rating.objective;
     const subj = anime.rating.subjective;
 
-    // FIX: Rundet jede berechnete Summe sofort auf max. 2 Nachkommastellen
+    // instantly round everything
     const sumValues = (obj) => Math.round(Object.values(obj).reduce((a, b) => a + b, 0) * 100) / 100;
 
     const scoreCharacters = sumValues(obj.Characters);
@@ -81,71 +81,73 @@ export default function AnimeCard({ anime }) {
 
     return (
     <div className={`anime-card ${isFlipped ? 'flipped' : ''} ${showAdvanced ? 'is-expanded' : ''}`}>
-        {!isFlipped ? (
-            <>
-                <div className="card-header">
-                    <img src={anime.img} alt={anime.name} className="card-img" referrerPolicy="no-referrer"/>
-                    <div className="title-area">
-                        <span className="mal-id">
-                            <a href={`https://myanimelist.net/anime/${anime.id}`} target="_blank" rel="noreferrer">
-                                #{anime.id}
-                            </a>
-                        </span>
-                        <h2>{anime.name}</h2>
-                        <p className="alt-title">{anime.alt_name}</p>
-                    </div>
-                    <div className="main-score" style={{ backgroundColor: dynamicColor }}>
-                        {malRate}
-                    </div>
+        
+        {/*Front side, card always uses this height*/}
+        <div className="card-front">
+            <div className="card-header">
+                <img src={anime.img} alt={anime.name} className="card-img" />
+                <div className="title-area">
+                    <span className="mal-id">
+                        <a href={`https://myanimelist.net/anime/${anime.id}`} target="_blank" rel="noreferrer">
+                            #{anime.id}
+                        </a>
+                    </span>
+                    <h2>{anime.name}</h2>
+                    <p className="alt-title">{anime.alt_name}</p>
                 </div>
-
-                <div className="card-meta">
-                    <span>{anime.season}</span> • <span>{anime.type}</span>
+                <div className="main-score" style={{ backgroundColor: dynamicColor }}>
+                    {malRate}
                 </div>
+            </div>
 
-                <div className="summary-scores">
-                    <div className="score-block">
-                        <strong>Objective:</strong> {totalObjective}/50
-                    </div>
-                    <div className="score-block">
-                        <strong>Subjective:</strong> {totalSubjective}/50
-                    </div>
+            <div className="card-meta">
+                <span>{anime.season}</span> • <span>{anime.type}</span>
+            </div>
+
+            <div className="summary-scores">
+                <div className="score-block">
+                    <strong>Objective:</strong> {totalObjective}/50
                 </div>
+                <div className="score-block">
+                    <strong>Subjective:</strong> {totalSubjective}/50
+                </div>
+            </div>
 
-                <button className="toggle-btn" onClick={() => setShowAdvanced(!showAdvanced)}>
-                    {showAdvanced ? 'Hide details ▲' : 'Show all criteria ▼'}
-                </button>
+            <button className="toggle-btn" onClick={() => setShowAdvanced(!showAdvanced)}>
+                {showAdvanced ? 'Hide details ▲' : 'Show all criteria ▼'}
+            </button>
 
-                {showAdvanced && (
-                    <div className="advanced-details">
-                        <div className="full-criteria-list">
-                            <div className="criteria-column">
-                                <h3>OBJECTIVE DETAILS</h3>
-                                {Object.entries(obj).map(([key, val]) => renderSubCategory(key, val, objScores))}
-                            </div>
-                            <div className="criteria-column">
-                                <h3>SUBJECTIVE DETAILS</h3>
-                                {Object.entries(subj).map(([key, val]) => renderSubCategory(key, val, subjScores))}
-                            </div>
+            {showAdvanced && (
+                <div className="advanced-details">
+                    <div className="full-criteria-list">
+                        <div className="criteria-column">
+                            <h3>OBJECTIVE DETAILS</h3>
+                            {Object.entries(obj).map(([key, val]) => renderSubCategory(key, val, objScores))}
+                        </div>
+                        <div className="criteria-column">
+                            <h3>SUBJECTIVE DETAILS</h3>
+                            {Object.entries(subj).map(([key, val]) => renderSubCategory(key, val, subjScores))}
                         </div>
                     </div>
-                )}
-
-                <button className="flip-btn" onClick={() => setIsFlipped(true)}>
-                    Read review
-                </button>
-            </>
-        ) : (
-            <>
-                <div className="review-text">
-                    <h3>Review: {anime.name}</h3>
-                    <div dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(anime.rating.explain) }} />
                 </div>
-                <button className="flip-btn" onClick={() => setIsFlipped(false)}>
-                    Back to info
-                </button>
-            </>
-        )}
+            )}
+
+            <button className="flip-btn" onClick={() => setIsFlipped(true)}>
+                Read review
+            </button>
+        </div>
+
+        {/*flipped side, might overflow auto with scroll bar*/}
+        <div className="card-back">
+            <div className="review-text">
+                <h3>Review: {anime.name}</h3>
+                <div dangerouslySetInnerHTML={{ __html: anime.rating.explain }} />
+            </div>
+            <button className="flip-btn" onClick={() => setIsFlipped(false)}>
+                Back to info
+            </button>
+        </div>
+
     </div>
-);
+    );
 }
