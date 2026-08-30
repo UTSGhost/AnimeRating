@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import DOMPurify from 'dompurify';
 
 export default function AnimeCard({ anime }) {
     const [showAdvanced, setShowAdvanced] = useState(false);
@@ -138,7 +139,7 @@ export default function AnimeCard({ anime }) {
             <>
                 <div className="review-text">
                     <h3>Review: {anime.name}</h3>
-                    <div dangerouslySetInnerHTML={{ __html: anime.rating.explain }} />
+                    <div dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(anime.rating.explain) }} />
                 </div>
                 <button className="flip-btn" onClick={() => setIsFlipped(false)}>
                     Back to info
