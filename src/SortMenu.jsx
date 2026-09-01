@@ -19,7 +19,7 @@ export default function SortMenu({ onSort, meanScore }) {
     const [ebene1, setEbene1] = useState('id');
     const [ebene2, setEbene2] = useState('all');
     const [ebene3, setEbene3] = useState('all');
-    const [isAscending, setIsAscending] = useState(false);
+    const [isAscending, setIsAscending] = useState(true);
 
     const handleDirectionToggle = () => {
         const neueRichtung = !isAscending;
@@ -54,7 +54,7 @@ export default function SortMenu({ onSort, meanScore }) {
             <label>Sort:</label>
             
             <button onClick={handleDirectionToggle} className="direction-toggle">
-                {isAscending ? '⬆️' : '⬇️'} {isAscending ? 'Asc' : 'Desc'}
+                {isAscending ?  '⬇️' : '⬆️'} {isAscending ? 'Desc' : 'Asc'}
             </button>
 
             <select value={ebene1} onChange={handleEbene1}>
