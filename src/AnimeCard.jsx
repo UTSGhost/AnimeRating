@@ -141,7 +141,7 @@ export default function AnimeCard({ anime }) {
         <div className="card-back">
             <div className="review-text">
                 <h3>Review: {anime.name}</h3>
-                <div dangerouslySetInnerHTML={{ __html: anime.rating.explain }} />
+                <div dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(anime.rating.explain) }} />
             </div>
             <button className="flip-btn" onClick={() => setIsFlipped(false)}>
                 Back to info
