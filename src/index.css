@@ -502,9 +502,7 @@ select:focus {
     select {
         width: 100%;      
     }
-    .anime-card.is-expanded{
-        height: 1300px;
-    }
+
 }
 
 @media (min-width: 601px) {
