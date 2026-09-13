@@ -22251,7 +22251,7 @@
             "Plot": 4
           },
           "Sound": {
-            "OST/BGM": 2,
+            "OST/BGM": 2.5,
             "Voiceacting": 0,
             "OP/ED": 7.7,
             "SFX": 0
@@ -22453,6 +22453,63 @@
             "Aftertaste": 3,
             "Addictiveness": 4,
             "Nostalgia": 3
+          }
+        },
+        "explain": "No review written yet"
+      }
+    },
+    {
+      "img": "https://cdn.myanimelist.net/images/anime/1143/158409.jpg",
+      "name": "Seihantai na Kimi to Boku 2nd Season",
+      "alt_name": "You and I Are Polar Opposites Season 2",
+      "id": 63832,
+      "season": "Summer 2026",
+      "type": "TV",
+      "rating": {
+        "objective": {
+          "Characters": {
+            "Protagonist": 2,
+            "Antagonist": 0,
+            "Side Characters": 8,
+            "Realistic": 5
+          },
+          "Writing": {
+            "Ending": 0,
+            "Logical": 4,
+            "Plot": 4
+          },
+          "Sound": {
+            "OST/BGM": 3,
+            "Voiceacting": 0,
+            "OP/ED": 7.25,
+            "SFX": 0
+          },
+          "Animation": {
+            "Animation": 3,
+            "Character Design": 3,
+            "Worldbuilding": 3
+          }
+        },
+        "subjective": {
+          "Emotions": {
+            "Strong emotions": 5,
+            "Vibe": 5,
+            "Climax": 5
+          },
+          "Story": {
+            "Satisfying Ending": 3,
+            "No unnecessary scenes": 5,
+            "Enjoyable Content": 6
+          },
+          "Characters": {
+            "Likeable": 5,
+            "Waifus": 0,
+            "Relationships": 5
+          },
+          "Memory": {
+            "Aftertaste": 3,
+            "Addictiveness": 2,
+            "Nostalgia": 4
           }
         },
         "explain": "No review written yet"
