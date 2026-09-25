@@ -22174,6 +22174,63 @@
       }
     },
     {
+      "img": "https://cdn.myanimelist.net/images/anime/1695/156389.jpg",
+      "name": "Tensei shitara Slime Datta Ken 4th Season",
+      "alt_name": "That Time I Got Reincarnated as a Slime Season 4",
+      "id": 59970,
+      "season": "Spring 2026",
+      "type": "TV",
+      "rating": {
+        "objective": {
+          "Characters": {
+            "Protagonist": 4,
+            "Antagonist": 1.5,
+            "Side Characters": 2,
+            "Realistic": 0
+          },
+          "Writing": {
+            "Ending": 3,
+            "Logical": 2,
+            "Plot": 2.5
+          },
+          "Sound": {
+            "OST/BGM": 1,
+            "Voiceacting": 2,
+            "OP/ED": 2,
+            "SFX": 0
+          },
+          "Animation": {
+            "Animation": 2,
+            "Character Design": 1,
+            "Worldbuilding": 2
+          }
+        },
+        "subjective": {
+          "Emotions": {
+            "Strong emotions": 3,
+            "Vibe": 2,
+            "Climax": 3.5
+          },
+          "Story": {
+            "Satisfying Ending": 3,
+            "No unnecessary scenes": 0,
+            "Enjoyable Content": 3
+          },
+          "Characters": {
+            "Likeable": 3,
+            "Waifus": 0,
+            "Relationships": 1
+          },
+          "Memory": {
+            "Aftertaste": 1,
+            "Addictiveness": 3.5,
+            "Nostalgia": 2
+          }
+        },
+        "explain": "No review written yet"
+      }
+    },
+    {
       "img": "https://myanimelist.net/images/anime/1921/154528.jpg",
       "name": "Sousou no Frieren 2nd Season",
       "alt_name": "Frieren: Beyond Journey's End Season 2",
