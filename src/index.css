@@ -97,6 +97,14 @@ header h1 {
     font-weight: bold;
 }
 
+.Sortmenu-right-div {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+    gap: 15px;
+    flex-direction: row;
+}
+
 .mean-score-box {
     display: flex;
     align-items: center;
@@ -106,7 +114,6 @@ header h1 {
     border-radius: 5px;
     border: 1px solid var(--border-color);
     font-weight: bold;
-    margin-left: auto;
 }
 
 .mean-score-box .label {
@@ -297,6 +304,16 @@ select:focus {
     color: #fff;
 }
 
+.highlight {
+    background-color: var(--accent-color);
+    font-weight: bold;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+.subcategory-row {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
 /* =========================================
    5. DETAILS & REVIEW
    ========================================= */
@@ -502,6 +519,14 @@ select:focus {
     select {
         width: 100%;      
     }
+
+    .Sortmenu-right-div {
+        margin-left: auto;
+        margin-right: auto;
+        flex-direction: column;
+        align-items: center;
+    }
+
 
 }
 

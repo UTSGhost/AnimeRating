@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import { sortAnimes } from './utils/sortUtils';
 import { getScore } from './utils/scoreUtils';
 import ratingData from './rating.json';
@@ -13,11 +13,40 @@ import BackToTop from './BackToTop';
 export default function App() {
     const [animes, setAnimes] = useState(ratingData.animes);
     const [isDarkMode, setIsDarkMode] = useState(true);
+    const [expandedCards, setExpandedCards] = useState({});
+    const [activeSort, setActiveSort] = useState(['id']);
 
     const toggleTheme = () => setIsDarkMode(!isDarkMode);
 
+    const handleToggleIndividual = (animeId) => {
+        setExpandedCards(prev => ({
+            ...prev,
+            [animeId]: !prev[animeId]
+        }));
+    };
+
+    const areAllExpanded = useMemo(() => {
+        if (animes.length === 0) return false;
+        return animes.every(anime => expandedCards[anime.id] === true);
+    }, [animes, expandedCards]);
+
+
+    const handleToggleGlobal = () => {
+        if (areAllExpanded) {
+            setExpandedCards({});
+        } else {
+            const allOpened = {};
+            animes.forEach(anime => {
+                allOpened[anime.id] = true;
+            });
+            setExpandedCards(allOpened);
+        }
+    };
+
     const handleSort = (layers, isAscending) => {
-        setAnimes(sortAnimes(animes,layers,isAscending));
+        setActiveSort(layers);
+        setAnimes(sortAnimes(animes, layers, isAscending));
+        setExpandedCards({}); 
     };
 
     const totalScore = animes.reduce((acc, anime) => acc + getScore(anime), 0);
@@ -29,11 +58,17 @@ export default function App() {
                 <Header isDarkMode={isDarkMode} onToggle={toggleTheme} />
                 
                 <Infobox />
-                <SortMenu onSort={handleSort} meanScore={meanScore} />
+                <SortMenu onSort={handleSort} meanScore={meanScore} areAllExpanded={areAllExpanded} onToggleGlobal={handleToggleGlobal}/>
                 
                 <main className="anime-grid">
                     {animes.map((anime) => (
-                        <AnimeCard key={anime.id} anime={anime} />
+                        <AnimeCard 
+                            key={anime.id} 
+                            anime={anime} 
+                            showAdvanced={expandedCards[anime.id] || false} 
+                            onToggle={() => handleToggleIndividual(anime.id)}
+                            activeSort={activeSort}
+                        />
                     ))}
                 </main>
                 

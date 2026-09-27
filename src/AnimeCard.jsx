@@ -1,9 +1,11 @@
 import { useState } from 'react';
 import DOMPurify from 'dompurify';
 
-export default function AnimeCard({ anime }) {
-    const [showAdvanced, setShowAdvanced] = useState(false);
+export default function AnimeCard({ anime, showAdvanced, onToggle, activeSort }) {
+
     const [isFlipped, setIsFlipped] = useState(false);
+
+
 
     const obj = anime.rating.objective;
     const subj = anime.rating.subjective;
@@ -39,24 +41,36 @@ export default function AnimeCard({ anime }) {
         Memory: { score: scoreMemory, max: 10 }
     };
 
-    const renderSubCategory = (title, data, scoreMap) => {
+    const renderSubCategory = (title, data, scoreMap, type) => {
         const info = scoreMap[title];
+        const isHeaderHighlighted = 
+        activeSort && 
+        activeSort[0] === type && 
+        activeSort[1] === title && 
+        activeSort[2] === "all";
 
         return (
             <div className="sub-cat-block" key={title}>
-                <h4>
+                <h4 className={isHeaderHighlighted ? 'highlight' : ''}>
                     {title.replace('_', ' ').toUpperCase()} 
                     <span className="cat-total-score">
                         ({info.score}/{info.max})
                     </span>
                 </h4>
                 <ul>
-                    {Object.entries(data).map(([key, value]) => (
-                        <li key={key}>
-                            <span className="attr-name">{key.replace(/_/g, ' ')}:</span>
-                            <span className="attr-value">{value}</span>
-                        </li>
-                    ))}
+                    {Object.entries(data).map(([key, value]) => {
+                        const isItemHighlighted = 
+                        activeSort && 
+                        activeSort[0] === type && 
+                        activeSort[1] === title && 
+                        activeSort[2] === key;
+                        return (
+                            <li key={key} className={isItemHighlighted ? 'highlight subcategory-row' : 'subcategory-row'}>
+                                <span className="attr-name">{key.replace(/_/g, ' ')}:</span>
+                                <span className="attr-value">{value}</span>
+                            </li>
+                        );
+                    })}
                 </ul>
             </div>
         );
@@ -113,7 +127,7 @@ export default function AnimeCard({ anime }) {
                 </div>
             </div>
 
-            <button className="toggle-btn" onClick={() => setShowAdvanced(!showAdvanced)}>
+            <button className="toggle-btn" onClick={onToggle}>
                 {showAdvanced ? 'Hide details ▲' : 'Show all criteria ▼'}
             </button>
 
@@ -122,11 +136,11 @@ export default function AnimeCard({ anime }) {
                     <div className="full-criteria-list">
                         <div className="criteria-column">
                             <h3>OBJECTIVE DETAILS</h3>
-                            {Object.entries(obj).map(([key, val]) => renderSubCategory(key, val, objScores))}
+                            {Object.entries(obj).map(([key, val]) => renderSubCategory(key, val, objScores, 'objective'))}
                         </div>
                         <div className="criteria-column">
                             <h3>SUBJECTIVE DETAILS</h3>
-                            {Object.entries(subj).map(([key, val]) => renderSubCategory(key, val, subjScores))}
+                            {Object.entries(subj).map(([key, val]) => renderSubCategory(key, val, subjScores, 'subjective'))}
                         </div>
                     </div>
                 </div>
