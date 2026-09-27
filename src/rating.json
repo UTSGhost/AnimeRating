@@ -22117,6 +22117,63 @@
       }
     },
     {
+      "img": "https://cdn.myanimelist.net/images/anime/1527/158340.jpg",
+      "name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "alt_name": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "id": 59193,
+      "season": "Summer 2026",
+      "type": "TV",
+      "rating": {
+        "objective": {
+          "Characters": {
+            "Protagonist": 3.75,
+            "Antagonist": 4,
+            "Side Characters": 4,
+            "Realistic": 1.5
+          },
+          "Writing": {
+            "Ending": 4,
+            "Logical": 4,
+            "Plot": 4
+          },
+          "Sound": {
+            "OST/BGM": 1,
+            "Voiceacting": 2,
+            "OP/ED": 5,
+            "SFX": 0
+          },
+          "Animation": {
+            "Animation": 3,
+            "Character Design": 3,
+            "Worldbuilding": 4
+          }
+        },
+        "subjective": {
+          "Emotions": {
+            "Strong emotions": 3,
+            "Vibe": 4,
+            "Climax": 5.4
+          },
+          "Story": {
+            "Satisfying Ending": 4,
+            "No unnecessary scenes": 2.5,
+            "Enjoyable Content": 4
+          },
+          "Characters": {
+            "Likeable": 3.5,
+            "Waifus": 0,
+            "Relationships": 3
+          },
+          "Memory": {
+            "Aftertaste": 2,
+            "Addictiveness": 3,
+            "Nostalgia": 2.75
+          }
+        },
+        "explain": "No review written yet"
+      }
+    },
+    {
       "img": "https://cdn.myanimelist.net/images/anime/1176/153626.jpg",
       "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "alt_name": "Classroom of the Elite 4th Season: Second Year, First Semester",
@@ -22531,7 +22588,7 @@
             "Realistic": 5
           },
           "Writing": {
-            "Ending": 0,
+            "Ending": 2,
             "Logical": 4,
             "Plot": 4
           },
@@ -22549,7 +22606,7 @@
         },
         "subjective": {
           "Emotions": {
-            "Strong emotions": 5,
+            "Strong emotions": 5.5,
             "Vibe": 5,
             "Climax": 5
           },
