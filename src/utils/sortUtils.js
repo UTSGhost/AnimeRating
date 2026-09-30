@@ -1,4 +1,5 @@
-import { getScore } from './scoreUtils';
+import { getScore, sumValues, getObjectiveScore, getSubjectiveScore } from './scoreUtils';
+
 export const sortAnimes = (animeList, layers, isAscending) => {
     const listCopy = [...animeList];
         
@@ -63,11 +64,11 @@ export const sortAnimes = (animeList, layers, isAscending) => {
                     scoreA = a.rating[e1][e2][e3];
                     scoreB = b.rating[e1][e2][e3];
                 } else if (e2 !== 'all') {
-                    scoreA = Object.values(a.rating[e1][e2]).reduce((sum, val) => sum + val, 0);
-                    scoreB = Object.values(b.rating[e1][e2]).reduce((sum, val) => sum + val, 0);
+                    scoreA = sumValues(a.rating[e1][e2]);
+                    scoreB = sumValues(b.rating[e1][e2]);
                 } else {
-                    Object.values(a.rating[e1]).forEach(sub => scoreA += Object.values(sub).reduce((s, w) => s + w, 0));
-                    Object.values(b.rating[e1]).forEach(sub => scoreB += Object.values(sub).reduce((s, w) => s + w, 0));
+                    scoreA = e1 === 'objective' ? getObjectiveScore(a) : getSubjectiveScore(a);
+                    scoreB = e1 === 'objective' ? getObjectiveScore(b) : getSubjectiveScore(b);
                 }
                 return isAscending ? scoreA - scoreB : scoreB - scoreA;
             });
