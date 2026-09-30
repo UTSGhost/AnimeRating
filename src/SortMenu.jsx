@@ -1,51 +1,34 @@
 import { useState } from 'react';
 
-const kategorien = {
-    objective: {
-        Characters: ["Protagonist", "Antagonist", "Side Characters", "Realistic"],
-        Writing: ["Ending", "Logical", "Plot"],
-        Sound: ["OST/BGM", "Voiceacting", "OP/ED", "SFX"],
-        Animation: ["Animation", "Character Design", "Worldbuilding"]
-    },
-    subjective: {
-        Emotions: ["Strong emotions", "Vibe", "Climax"],
-        Story: ["Satisfying Ending", "No unnecessary scenes", "Enjoyable Content"],
-        Characters: ["Likeable", "Waifus", "Relationships"],
-        Memory: ["Aftertaste", "Addictiveness", "Nostalgia"]
-    }
-};
-
-export default function SortMenu({ onSort, meanScore, areAllExpanded, onToggleGlobal }) {
-    const [ebene1, setEbene1] = useState('id');
-    const [ebene2, setEbene2] = useState('all');
-    const [ebene3, setEbene3] = useState('all');
+export default function SortMenu({ onSort, meanScore, areAllExpanded, onToggleGlobal, config }) {
+    const [layers, setLayers] = useState(['id', 'all', 'all']);
     const [isAscending, setIsAscending] = useState(true);
 
     const handleDirectionToggle = () => {
         const neueRichtung = !isAscending;
         setIsAscending(neueRichtung);
-        onSort([ebene1, ebene2, ebene3], neueRichtung);
+        onSort(layers, neueRichtung);
     };
 
     const handleEbene1 = (e) => {
-        const wahl = e.target.value;
-        setEbene1(wahl);
-        setEbene2('all');
-        setEbene3('all');
-        onSort([wahl, 'all', 'all'], isAscending);
+        const sortValue = e.target.value;
+        const newLayers = [sortValue, 'all', 'all'];
+        setLayers(newLayers);
+        onSort(newLayers, isAscending);
     };
 
     const handleEbene2 = (e) => {
-        const wahl = e.target.value;
-        setEbene2(wahl);
-        setEbene3('all');
-        onSort([ebene1, wahl, 'all'], isAscending);
+        const sortValue = e.target.value;
+        const newLayers = [layers[0], sortValue, 'all'];
+        setLayers(newLayers);
+        onSort(newLayers, isAscending);
     };
 
     const handleEbene3 = (e) => {
-        const wahl = e.target.value;
-        setEbene3(wahl);
-        onSort([ebene1, ebene2, wahl], isAscending);
+        const sortValue = e.target.value;
+        const newLayers = [layers[0], layers[1], sortValue];
+        setLayers(newLayers);
+        onSort(newLayers, isAscending);
     };
 
     return (
@@ -57,7 +40,7 @@ export default function SortMenu({ onSort, meanScore, areAllExpanded, onToggleGl
                 {isAscending ?  '▼' : '▲'} {isAscending ? 'Desc' : 'Asc'}
             </button>
 
-            <select value={ebene1} onChange={handleEbene1}>
+            <select value={layers[0]} onChange={handleEbene1}>
                 <optgroup label="Info">
                     <option value="id">MAL ID</option>
                     <option value="title">Title</option>
@@ -74,20 +57,20 @@ export default function SortMenu({ onSort, meanScore, areAllExpanded, onToggleGl
                 </optgroup>
             </select>
 
-            {(ebene1 === 'objective' || ebene1 === 'subjective') && (
-                <select value={ebene2} onChange={handleEbene2} style={{ marginLeft: '10px' }}>
-                    <option value="all">Full {ebene1} score</option>
-                    {Object.keys(kategorien[ebene1]).map((sub) => (
+            {(layers[0] === 'objective' || layers[0] === 'subjective') && (
+                <select value={layers[1]} onChange={handleEbene2} style={{ marginLeft: '10px' }}>
+                    <option value="all">Full {layers[0]} score</option>
+                    {Object.keys(config[layers[0]]).map((sub) => (
                         <option key={sub} value={sub}>{sub}</option>
                     ))}
                 </select>
             )}
 
-            {ebene2 !== 'all' && (ebene1 === 'objective' || ebene1 === 'subjective') && (
-                <select value={ebene3} onChange={handleEbene3} style={{ marginLeft: '10px' }}>
-                    <option value="all">Full {ebene2} score</option>
-                    {kategorien[ebene1][ebene2].map((krit) => (
-                        <option key={krit} value={krit}>{krit}</option>
+            {layers[1] !== 'all' && (layers[0] === 'objective' || layers[0] === 'subjective') && (
+                <select value={layers[2]} onChange={handleEbene3} style={{ marginLeft: '10px' }}>
+                    <option value="all">Full {layers[1]} score</option>
+                    {config[layers[0]][layers[1]].criteria.map((criteria) => (
+                        <option key={criteria} value={criteria}>{criteria}</option>
                     ))}
                 </select>
             )}

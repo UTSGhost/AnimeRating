@@ -1,4 +1,42 @@
 {
+  "config": {
+    "objective": {
+      "Characters": {
+        "max_score": 15,
+        "criteria": ["Protagonist", "Antagonist", "Side Characters", "Realistic"]
+      },
+      "Writing": {
+        "max_score": 15,
+        "criteria": ["Ending", "Logical", "Plot"]
+      },
+      "Sound": {
+        "max_score": 10,
+        "criteria": ["OST/BGM", "Voiceacting", "OP/ED", "SFX"]
+      },
+      "Animation": {
+        "max_score": 10,
+        "criteria": ["Animation", "Character Design", "Worldbuilding"]
+      }
+    },
+    "subjective": {
+      "Emotions": {
+        "max_score": 15,
+        "criteria": ["Strong emotions", "Vibe", "Climax"]
+      },
+      "Story": {
+        "max_score": 15,
+        "criteria": ["Satisfying Ending", "No unnecessary scenes", "Enjoyable Content"]
+      },
+      "Characters": {
+        "max_score": 10,
+        "criteria": ["Likeable", "Waifus", "Relationships"]
+      },
+      "Memory": {
+        "max_score": 10,
+        "criteria": ["Aftertaste", "Addictiveness", "Nostalgia"]
+      }
+    }
+  },
   "animes": [
     {
       "img": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",

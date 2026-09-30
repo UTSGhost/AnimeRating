@@ -1,48 +1,33 @@
 import { useState } from 'react';
 import DOMPurify from 'dompurify';
 
-export default function AnimeCard({ anime, showAdvanced, onToggle, activeSort }) {
+export default function AnimeCard({ anime, showAdvanced, onToggle, activeSort, config }) {
 
     const [isFlipped, setIsFlipped] = useState(false);
 
 
 
-    const obj = anime.rating.objective;
-    const subj = anime.rating.subjective;
+    const json_objective_data = anime.rating.objective;
+    const json_subjective_data = anime.rating.subjective;
 
-    // instantly round everything
-    const sumValues = (obj) => Math.round(Object.values(obj).reduce((a, b) => a + b, 0) * 100) / 100;
+    // adds all values in an object and instantly round everything
+    const sumValues = (object) => Math.round(Object.values(object).reduce((a, b) => a + b, 0) * 100) / 100;
 
-    const scoreCharacters = sumValues(obj.Characters);
-    const scoreWriting = sumValues(obj.Writing);
-    const scoreSound = sumValues(obj.Sound);
-    const scoreArt = sumValues(obj.Animation);
+    const scoreCharacters = sumValues(json_objective_data.Characters);
+    const scoreWriting = sumValues(json_objective_data.Writing);
+    const scoreSound = sumValues(json_objective_data.Sound);
+    const scoreArt = sumValues(json_objective_data.Animation);
     const totalObjective = Math.round((scoreCharacters + scoreWriting + scoreSound + scoreArt) * 100) / 100;
 
-    const scoreEmotions = sumValues(subj.Emotions);
-    const scoreStory = sumValues(subj.Story);
-    const scoreSubjChars = sumValues(subj.Characters);
-    const scoreMemory = sumValues(subj.Memory);
+    const scoreEmotions = sumValues(json_subjective_data.Emotions);
+    const scoreStory = sumValues(json_subjective_data.Story);
+    const scoreSubjChars = sumValues(json_subjective_data.Characters);
+    const scoreMemory = sumValues(json_subjective_data.Memory);
     const totalSubjective = Math.round((scoreEmotions + scoreStory + scoreSubjChars + scoreMemory) * 100) / 100;
 
     const malRate = Math.round(((totalObjective + totalSubjective) / 10) * 100) / 100;
 
-    const objScores = {
-        Characters: { score: scoreCharacters, max: 15 },
-        Writing: { score: scoreWriting, max: 15 },
-        Sound: { score: scoreSound, max: 10 },
-        Animation: { score: scoreArt, max: 10 }
-    };
-
-    const subjScores = {
-        Emotions: { score: scoreEmotions, max: 15 },
-        Story: { score: scoreStory, max: 15 },
-        Characters: { score: scoreSubjChars, max: 10 },
-        Memory: { score: scoreMemory, max: 10 }
-    };
-
-    const renderSubCategory = (title, data, scoreMap, type) => {
-        const info = scoreMap[title];
+    const renderSubCategory = (title, data, type) => {
         const isHeaderHighlighted = 
         activeSort && 
         activeSort[0] === type && 
@@ -54,7 +39,7 @@ export default function AnimeCard({ anime, showAdvanced, onToggle, activeSort })
                 <h4 className={isHeaderHighlighted ? 'highlight' : ''}>
                     {title.replace('_', ' ').toUpperCase()} 
                     <span className="cat-total-score">
-                        ({info.score}/{info.max})
+                        ({sumValues(data)}/{config[type][title].max_score})
                     </span>
                 </h4>
                 <ul>
@@ -136,11 +121,11 @@ export default function AnimeCard({ anime, showAdvanced, onToggle, activeSort })
                     <div className="full-criteria-list">
                         <div className="criteria-column">
                             <h3>OBJECTIVE DETAILS</h3>
-                            {Object.entries(obj).map(([key, val]) => renderSubCategory(key, val, objScores, 'objective'))}
+                            {Object.entries(json_objective_data).map(([key, val]) => renderSubCategory(key, val, 'objective'))}
                         </div>
                         <div className="criteria-column">
                             <h3>SUBJECTIVE DETAILS</h3>
-                            {Object.entries(subj).map(([key, val]) => renderSubCategory(key, val, subjScores, 'subjective'))}
+                            {Object.entries(json_subjective_data).map(([key, val]) => renderSubCategory(key, val, 'subjective'))}
                         </div>
                     </div>
                 </div>

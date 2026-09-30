@@ -16,6 +16,8 @@ export default function App() {
     const [expandedCards, setExpandedCards] = useState({});
     const [activeSort, setActiveSort] = useState(['id']);
 
+    const globalConfig = ratingData.config;
+
     const toggleTheme = () => setIsDarkMode(!isDarkMode);
 
     const handleToggleIndividual = (animeId) => {
@@ -58,7 +60,13 @@ export default function App() {
                 <Header isDarkMode={isDarkMode} onToggle={toggleTheme} />
                 
                 <Infobox />
-                <SortMenu onSort={handleSort} meanScore={meanScore} areAllExpanded={areAllExpanded} onToggleGlobal={handleToggleGlobal}/>
+                <SortMenu 
+                    onSort={handleSort} 
+                    meanScore={meanScore} 
+                    areAllExpanded={areAllExpanded} 
+                    onToggleGlobal={handleToggleGlobal}
+                    config={globalConfig}
+                />
                 
                 <main className="anime-grid">
                     {animes.map((anime) => (
@@ -68,6 +76,7 @@ export default function App() {
                             showAdvanced={expandedCards[anime.id] || false} 
                             onToggle={() => handleToggleIndividual(anime.id)}
                             activeSort={activeSort}
+                            config={globalConfig}
                         />
                     ))}
                 </main>
