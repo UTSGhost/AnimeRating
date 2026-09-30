@@ -22526,18 +22526,18 @@
         "objective": {
           "Characters": {
             "Protagonist": 5,
-            "Antagonist": 4,
+            "Antagonist": 3.5,
             "Side Characters": 4,
             "Realistic": 3
           },
           "Writing": {
-            "Ending": 6,
+            "Ending": 7,
             "Logical": 4,
-            "Plot": 5
+            "Plot": 4
           },
           "Sound": {
             "OST/BGM": 1,
-            "Voiceacting": 6,
+            "Voiceacting": 5,
             "OP/ED": 1.5,
             "SFX": 0
           },
@@ -22551,21 +22551,21 @@
           "Emotions": {
             "Strong emotions": 7.2,
             "Vibe": 3,
-            "Climax": 5.4
+            "Climax": 5.7
           },
           "Story": {
-            "Satisfying Ending": 4,
-            "No unnecessary scenes": 4.5,
-            "Enjoyable Content": 5
+            "Satisfying Ending": 7,
+            "No unnecessary scenes": 3.5,
+            "Enjoyable Content": 4.5
           },
           "Characters": {
             "Likeable": 3,
             "Waifus": 0,
-            "Relationships": 5
+            "Relationships": 6
           },
           "Memory": {
-            "Aftertaste": 3,
-            "Addictiveness": 4,
+            "Aftertaste": 4,
+            "Addictiveness": 3,
             "Nostalgia": 3
           }
         },
