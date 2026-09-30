@@ -10,21 +10,21 @@ export default function SortMenu({ onSort, meanScore, areAllExpanded, onToggleGl
         onSort(layers, neueRichtung);
     };
 
-    const handleEbene1 = (e) => {
+    const handleLayer1 = (e) => {
         const sortValue = e.target.value;
         const newLayers = [sortValue, 'all', 'all'];
         setLayers(newLayers);
         onSort(newLayers, isAscending);
     };
 
-    const handleEbene2 = (e) => {
+    const handleLayer2 = (e) => {
         const sortValue = e.target.value;
         const newLayers = [layers[0], sortValue, 'all'];
         setLayers(newLayers);
         onSort(newLayers, isAscending);
     };
 
-    const handleEbene3 = (e) => {
+    const handleLayer3 = (e) => {
         const sortValue = e.target.value;
         const newLayers = [layers[0], layers[1], sortValue];
         setLayers(newLayers);
@@ -40,7 +40,7 @@ export default function SortMenu({ onSort, meanScore, areAllExpanded, onToggleGl
                 {isAscending ?  '▼' : '▲'} {isAscending ? 'Desc' : 'Asc'}
             </button>
 
-            <select value={layers[0]} onChange={handleEbene1}>
+            <select value={layers[0]} onChange={handleLayer1}>
                 <optgroup label="Info">
                     <option value="id">MAL ID</option>
                     <option value="title">Title</option>
@@ -58,7 +58,7 @@ export default function SortMenu({ onSort, meanScore, areAllExpanded, onToggleGl
             </select>
 
             {(layers[0] === 'objective' || layers[0] === 'subjective') && (
-                <select value={layers[1]} onChange={handleEbene2} style={{ marginLeft: '10px' }}>
+                <select value={layers[1]} onChange={handleLayer2} style={{ marginLeft: '10px' }}>
                     <option value="all">Full {layers[0]} score</option>
                     {Object.keys(config[layers[0]]).map((sub) => (
                         <option key={sub} value={sub}>{sub}</option>
@@ -67,7 +67,7 @@ export default function SortMenu({ onSort, meanScore, areAllExpanded, onToggleGl
             )}
 
             {layers[1] !== 'all' && (layers[0] === 'objective' || layers[0] === 'subjective') && (
-                <select value={layers[2]} onChange={handleEbene3} style={{ marginLeft: '10px' }}>
+                <select value={layers[2]} onChange={handleLayer3} style={{ marginLeft: '10px' }}>
                     <option value="all">Full {layers[1]} score</option>
                     {config[layers[0]][layers[1]].criteria.map((criteria) => (
                         <option key={criteria} value={criteria}>{criteria}</option>
