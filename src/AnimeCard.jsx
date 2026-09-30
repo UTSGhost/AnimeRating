@@ -1,31 +1,18 @@
 import { useState } from 'react';
+import { sumValues, round2decimals, getObjectiveScore, getSubjectiveScore, getScore } from './utils/scoreUtils.js';
+import { getDynamicHue } from './utils/colorUtils.js';
 import DOMPurify from 'dompurify';
 
 export default function AnimeCard({ anime, showAdvanced, onToggle, activeSort, config }) {
 
     const [isFlipped, setIsFlipped] = useState(false);
 
-
-
     const json_objective_data = anime.rating.objective;
     const json_subjective_data = anime.rating.subjective;
 
-    // adds all values in an object and instantly round everything
-    const sumValues = (object) => Math.round(Object.values(object).reduce((a, b) => a + b, 0) * 100) / 100;
-
-    const scoreCharacters = sumValues(json_objective_data.Characters);
-    const scoreWriting = sumValues(json_objective_data.Writing);
-    const scoreSound = sumValues(json_objective_data.Sound);
-    const scoreArt = sumValues(json_objective_data.Animation);
-    const totalObjective = Math.round((scoreCharacters + scoreWriting + scoreSound + scoreArt) * 100) / 100;
-
-    const scoreEmotions = sumValues(json_subjective_data.Emotions);
-    const scoreStory = sumValues(json_subjective_data.Story);
-    const scoreSubjChars = sumValues(json_subjective_data.Characters);
-    const scoreMemory = sumValues(json_subjective_data.Memory);
-    const totalSubjective = Math.round((scoreEmotions + scoreStory + scoreSubjChars + scoreMemory) * 100) / 100;
-
-    const malRate = Math.round(((totalObjective + totalSubjective) / 10) * 100) / 100;
+    const totalObjective = round2decimals(getObjectiveScore(anime));
+    const totalSubjective = round2decimals(getSubjectiveScore(anime));
+    const malRate = getScore(anime);
 
     const renderSubCategory = (title, data, type) => {
         const isHeaderHighlighted = 
@@ -39,7 +26,7 @@ export default function AnimeCard({ anime, showAdvanced, onToggle, activeSort, c
                 <h4 className={isHeaderHighlighted ? 'highlight' : ''}>
                     {title.replace('_', ' ').toUpperCase()} 
                     <span className="cat-total-score">
-                        ({sumValues(data)}/{config[type][title].max_score})
+                        ({round2decimals(sumValues(data))}/{config[type][title].max_score})
                     </span>
                 </h4>
                 <ul>
@@ -61,22 +48,7 @@ export default function AnimeCard({ anime, showAdvanced, onToggle, activeSort, c
         );
     };
 
-    const getDynamicHue = (score) => {
-        const s = Math.max(0, Math.min(10, score));
-        const colorMap = {
-            0: 0, 1: 5, 2: 15, 3: 30, 4: 45, 
-            5: 60, 6: 90, 7: 120, 8: 150, 9: 220, 10: 265
-        };
-
-        const lower = Math.floor(s);
-        const upper = Math.ceil(s);
-        const fraction = s - lower;
-
-        return colorMap[lower] + (colorMap[upper] - colorMap[lower]) * fraction;
-    };
-
-    const hue = getDynamicHue(malRate);
-    const dynamicColor = `hsl(${hue}, 80%, 40%)`;
+    const dynamicColor = getDynamicHue(malRate);
 
     return (
     <div className={`anime-card ${isFlipped ? 'flipped' : ''} ${showAdvanced ? 'is-expanded' : ''}`}>

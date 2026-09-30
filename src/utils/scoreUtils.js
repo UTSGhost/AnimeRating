@@ -1,17 +1,17 @@
+export const sumValues = (object) => Object.values(object).reduce((a, b) => a + b, 0);
+export const round2decimals = (n) => Math.round(n * 100) / 100;
+
+export const getObjectiveScore = (anime) => {
+    return Object.values(anime.rating.objective).reduce((acc, cat) => acc + sumValues(cat), 0);
+};
+
+export const getSubjectiveScore = (anime) => {
+    return Object.values(anime.rating.subjective).reduce((acc, cat) => acc + sumValues(cat), 0);
+};
+
 export const getScore = (anime) => {
-        let total = 0;
+    const totalObjective = getObjectiveScore(anime);
+    const totalSubjective = getSubjectiveScore(anime);
 
-        Object.values(anime.rating.objective).forEach(sub => {
-            if (typeof sub === 'object') {
-                total += Object.values(sub).reduce((s, w) => s + w, 0);
-            }
-        });
-
-        Object.values(anime.rating.subjective).forEach(sub => {
-            if (typeof sub === 'object') {
-                total += Object.values(sub).reduce((s, w) => s + w, 0);
-            }
-        });
-
-        return total / 10;
-    };
+    return round2decimals((totalObjective + totalSubjective) / 10);
+};
