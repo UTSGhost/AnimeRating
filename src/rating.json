@@ -23,8 +23,7 @@
                 "criteria": [
                     "OST/BGM",
                     "Voiceacting",
-                    "OP/ED",
-                    "SFX"
+                    "OP/ED"
                 ]
             },
             "Animation": {
@@ -95,8 +94,7 @@
                     "Sound": {
                         "OST/BGM": 7,
                         "Voiceacting": 8,
-                        "OP/ED": 5,
-                        "SFX": 5
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 8,
@@ -152,8 +150,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 2,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": -1,
@@ -209,8 +206,7 @@
                     "Sound": {
                         "OST/BGM": 10,
                         "Voiceacting": 7,
-                        "OP/ED": 7,
-                        "SFX": 0
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 8,
@@ -266,8 +262,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -323,8 +318,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 0,
@@ -380,8 +374,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 0,
@@ -437,8 +430,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 0,
@@ -494,8 +486,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 0,
@@ -551,8 +542,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 0,
@@ -608,8 +598,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 1,
@@ -665,8 +654,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 0,
@@ -722,8 +710,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 1,
@@ -779,8 +766,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -836,8 +822,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -893,8 +878,7 @@
                     "Sound": {
                         "OST/BGM": 8,
                         "Voiceacting": 6,
-                        "OP/ED": 8,
-                        "SFX": 0
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 3,
@@ -950,8 +934,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -1007,8 +990,7 @@
                     "Sound": {
                         "OST/BGM": 10,
                         "Voiceacting": 8,
-                        "OP/ED": 8,
-                        "SFX": 0
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 3,
@@ -1064,8 +1046,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 1,
@@ -1121,8 +1102,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -1165,48 +1145,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 4,
-                        "Antagonist": 2,
-                        "Side Characters": 3,
-                        "Realistic": 2
+                        "Protagonist": 7,
+                        "Antagonist": 7,
+                        "Side Characters": 8,
+                        "Realistic": 6
                     },
                     "Writing": {
-                        "Ending": 2,
-                        "Logical": 3,
-                        "Plot": 3
+                        "Ending": 6,
+                        "Logical": 7,
+                        "Plot": 7
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 1,
-                        "OP/ED": 5,
-                        "SFX": 2
+                        "OST/BGM": 5,
+                        "Voiceacting": 6,
+                        "OP/ED": 6
                     },
                     "Animation": {
-                        "Animation": 1,
-                        "Character Design": 3,
-                        "Worldbuilding": 4
+                        "Animation": 6,
+                        "Character Design": 7,
+                        "Worldbuilding": 10
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 3,
-                        "Vibe": 4,
-                        "Climax": 3
+                        "Strong emotions": 7,
+                        "Vibe": 8,
+                        "Climax": 8
                     },
                     "Story": {
-                        "Satisfying Ending": 2,
-                        "No unnecessary scenes": 3,
-                        "Enjoyable Content": 4
+                        "Satisfying Ending": 5,
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 7
                     },
                     "Characters": {
-                        "Likeable": 3,
-                        "Standouts": 2,
-                        "Synergy": 1
+                        "Likeable": 8,
+                        "Standouts": 7,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 2,
-                        "Addictiveness": 3,
-                        "Nostalgia": 2
+                        "Aftertaste": 6,
+                        "Addictiveness": 6,
+                        "Nostalgia": 7
                     }
                 },
                 "explain": "No review written yet"
@@ -1235,8 +1214,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 2,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -1292,8 +1270,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 1,
@@ -1336,48 +1313,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
+                        "Protagonist": 7,
                         "Antagonist": 0,
-                        "Side Characters": 5,
-                        "Realistic": 1
+                        "Side Characters": 9,
+                        "Realistic": 7
                     },
                     "Writing": {
-                        "Ending": 3,
-                        "Logical": 4,
-                        "Plot": 4
+                        "Ending": 9,
+                        "Logical": 8,
+                        "Plot": 8
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 3,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OST/BGM": 8,
+                        "Voiceacting": 7,
+                        "OP/ED": 8
                     },
                     "Animation": {
-                        "Animation": 1,
-                        "Character Design": 2,
-                        "Worldbuilding": 3
+                        "Animation": 8,
+                        "Character Design": 8,
+                        "Worldbuilding": 8
                     }
                 },
                 "subjective": {
                     "Emotions": {
                         "Strong emotions": 8,
-                        "Vibe": 2,
-                        "Climax": 2
+                        "Vibe": 7,
+                        "Climax": 8
                     },
                     "Story": {
-                        "Satisfying Ending": 3,
-                        "No unnecessary scenes": 4,
-                        "Enjoyable Content": 3
+                        "Satisfying Ending": 9,
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 8
                     },
                     "Characters": {
-                        "Likeable": 7,
-                        "Standouts": 2,
-                        "Synergy": 2
+                        "Likeable": 8,
+                        "Standouts": 8,
+                        "Synergy": 8
                     },
                     "Memory": {
-                        "Aftertaste": 2,
-                        "Addictiveness": 2,
-                        "Nostalgia": 6
+                        "Aftertaste": 7,
+                        "Addictiveness": 7,
+                        "Nostalgia": 7
                     }
                 },
                 "explain": "No review written yet"
@@ -1406,8 +1382,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 1,
@@ -1450,48 +1425,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
+                        "Protagonist": 8,
                         "Antagonist": 1,
-                        "Side Characters": 3,
+                        "Side Characters": 8,
                         "Realistic": 2
                     },
                     "Writing": {
-                        "Ending": 4,
-                        "Logical": 1,
-                        "Plot": 2
+                        "Ending": 5,
+                        "Logical": 7,
+                        "Plot": 8
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 0,
-                        "OP/ED": 7.5,
-                        "SFX": 0
+                        "OST/BGM": 6,
+                        "Voiceacting": 7,
+                        "OP/ED": 8
                     },
                     "Animation": {
-                        "Animation": 3,
-                        "Character Design": 0,
-                        "Worldbuilding": 5
+                        "Animation": 7,
+                        "Character Design": 7,
+                        "Worldbuilding": 10
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 3,
-                        "Vibe": 3,
-                        "Climax": 3
+                        "Strong emotions": 7,
+                        "Vibe": 8,
+                        "Climax": 7
                     },
                     "Story": {
-                        "Satisfying Ending": 7,
-                        "No unnecessary scenes": 0,
-                        "Enjoyable Content": 2
+                        "Satisfying Ending": 6,
+                        "No unnecessary scenes": 5,
+                        "Enjoyable Content": 7
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 2,
-                        "Synergy": 3
+                        "Likeable": 8,
+                        "Standouts": 7,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 3,
-                        "Addictiveness": 1,
-                        "Nostalgia": 4
+                        "Aftertaste": 6,
+                        "Addictiveness": 8,
+                        "Nostalgia": 8
                     }
                 },
                 "explain": "No review written yet"
@@ -1520,8 +1494,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -1577,8 +1550,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": -1,
@@ -1621,48 +1593,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
+                        "Protagonist": 7,
                         "Antagonist": 0,
-                        "Side Characters": 5,
-                        "Realistic": 3
+                        "Side Characters": 7,
+                        "Realistic": 7
                     },
                     "Writing": {
-                        "Ending": 5,
-                        "Logical": 1,
-                        "Plot": 3
+                        "Ending": 7,
+                        "Logical": 7,
+                        "Plot": 6
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 3,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OST/BGM": 7,
+                        "Voiceacting": 7,
+                        "OP/ED": 8
                     },
                     "Animation": {
-                        "Animation": 3,
-                        "Character Design": 3,
-                        "Worldbuilding": 2
+                        "Animation": 8,
+                        "Character Design": 8,
+                        "Worldbuilding": 8
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 4,
-                        "Vibe": 3,
-                        "Climax": 3
+                        "Strong emotions": 7,
+                        "Vibe": 7,
+                        "Climax": 6
                     },
                     "Story": {
-                        "Satisfying Ending": 5,
-                        "No unnecessary scenes": 5,
-                        "Enjoyable Content": 2
+                        "Satisfying Ending": 6,
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 6
                     },
                     "Characters": {
-                        "Likeable": 7,
-                        "Standouts": 2,
-                        "Synergy": 0
+                        "Likeable": 8,
+                        "Standouts": 7,
+                        "Synergy": 8
                     },
                     "Memory": {
-                        "Aftertaste": 1,
-                        "Addictiveness": 1,
-                        "Nostalgia": 3
+                        "Aftertaste": 7,
+                        "Addictiveness": 7,
+                        "Nostalgia": 5
                     }
                 },
                 "explain": "No review written yet"
@@ -1691,8 +1662,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 1,
@@ -1748,8 +1718,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 4.5,
-                        "SFX": 0
+                        "OP/ED": 4.5
                     },
                     "Animation": {
                         "Animation": 3,
@@ -1805,8 +1774,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -1862,12 +1830,11 @@
                     "Sound": {
                         "OST/BGM": 9,
                         "Voiceacting": 9,
-                        "OP/ED": 8,
-                        "SFX": 0
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 8,
-                        "Character Design": 10,
+                        "Character Design": 8,
                         "Worldbuilding": 8
                     }
                 },
@@ -1919,8 +1886,7 @@
                     "Sound": {
                         "OST/BGM": 10,
                         "Voiceacting": 6,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 5,
@@ -1963,48 +1929,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 4,
-                        "Antagonist": 3,
-                        "Side Characters": 3,
-                        "Realistic": 1
+                        "Protagonist": 8,
+                        "Antagonist": 7,
+                        "Side Characters": 7,
+                        "Realistic": 6
                     },
                     "Writing": {
-                        "Ending": 4,
-                        "Logical": 2,
-                        "Plot": 4
+                        "Ending": 6,
+                        "Logical": 7,
+                        "Plot": 7
                     },
                     "Sound": {
-                        "OST/BGM": 1,
-                        "Voiceacting": 1,
-                        "OP/ED": 5,
-                        "SFX": 2
+                        "OST/BGM": 5,
+                        "Voiceacting": 6,
+                        "OP/ED": 6
                     },
                     "Animation": {
-                        "Animation": 1,
-                        "Character Design": 3,
-                        "Worldbuilding": 4
+                        "Animation": 6,
+                        "Character Design": 7,
+                        "Worldbuilding": 10
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 4,
-                        "Vibe": 3,
-                        "Climax": 3
+                        "Strong emotions": 7,
+                        "Vibe": 8,
+                        "Climax": 8
                     },
                     "Story": {
                         "Satisfying Ending": 5,
-                        "No unnecessary scenes": 0,
-                        "Enjoyable Content": 4
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 7
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 2,
-                        "Synergy": 3
+                        "Likeable": 8,
+                        "Standouts": 7,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 2,
-                        "Addictiveness": 1,
-                        "Nostalgia": 4
+                        "Aftertaste": 6,
+                        "Addictiveness": 6,
+                        "Nostalgia": 7
                     }
                 },
                 "explain": "No review written yet"
@@ -2033,8 +1998,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 1,
-                        "OP/ED": 8,
-                        "SFX": 0
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 1,
@@ -2077,48 +2041,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
-                        "Antagonist": 0,
-                        "Side Characters": 2,
-                        "Realistic": 1
+                        "Protagonist": 8,
+                        "Antagonist": 1,
+                        "Side Characters": 8,
+                        "Realistic": 2
                     },
                     "Writing": {
-                        "Ending": 4,
-                        "Logical": 4,
-                        "Plot": 4
+                        "Ending": 6,
+                        "Logical": 6,
+                        "Plot": 6
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 0,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OST/BGM": 6,
+                        "Voiceacting": 7,
+                        "OP/ED": 8
                     },
                     "Animation": {
-                        "Animation": 1,
-                        "Character Design": 0,
-                        "Worldbuilding": 4
+                        "Animation": 7,
+                        "Character Design": 7,
+                        "Worldbuilding": 10
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 4,
-                        "Vibe": 2,
-                        "Climax": 5
+                        "Strong emotions": 6,
+                        "Vibe": 7,
+                        "Climax": 7
                     },
                     "Story": {
-                        "Satisfying Ending": 5,
-                        "No unnecessary scenes": 2,
-                        "Enjoyable Content": 4
+                        "Satisfying Ending": 6,
+                        "No unnecessary scenes": 5,
+                        "Enjoyable Content": 6
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 2,
-                        "Synergy": 0
+                        "Likeable": 8,
+                        "Standouts": 7,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 0,
-                        "Addictiveness": 2,
-                        "Nostalgia": 3
+                        "Aftertaste": 6,
+                        "Addictiveness": 8,
+                        "Nostalgia": 6
                     }
                 },
                 "explain": "No review written yet"
@@ -2147,8 +2110,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 2,
-                        "OP/ED": 0,
-                        "SFX": 2
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 4,
@@ -2204,8 +2166,7 @@
                     "Sound": {
                         "OST/BGM": 10,
                         "Voiceacting": 9,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 9,
@@ -2248,47 +2209,46 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
+                        "Protagonist": 7,
                         "Antagonist": 0,
-                        "Side Characters": 5,
-                        "Realistic": 2
+                        "Side Characters": 9,
+                        "Realistic": 7
                     },
                     "Writing": {
-                        "Ending": 6,
-                        "Logical": 2,
-                        "Plot": 3
+                        "Ending": 8,
+                        "Logical": 7,
+                        "Plot": 6
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 3,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OST/BGM": 8,
+                        "Voiceacting": 7,
+                        "OP/ED": 8
                     },
                     "Animation": {
-                        "Animation": 2,
-                        "Character Design": 2,
-                        "Worldbuilding": 3
+                        "Animation": 8,
+                        "Character Design": 8,
+                        "Worldbuilding": 8
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 5,
-                        "Vibe": 0,
-                        "Climax": 3
+                        "Strong emotions": 7,
+                        "Vibe": 7,
+                        "Climax": 6
                     },
                     "Story": {
-                        "Satisfying Ending": 3,
-                        "No unnecessary scenes": 4,
-                        "Enjoyable Content": 3
+                        "Satisfying Ending": 7,
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 7
                     },
                     "Characters": {
-                        "Likeable": 6,
-                        "Standouts": 2,
-                        "Synergy": 3
+                        "Likeable": 8,
+                        "Standouts": 8,
+                        "Synergy": 8
                     },
                     "Memory": {
-                        "Aftertaste": 3,
-                        "Addictiveness": 0,
+                        "Aftertaste": 7,
+                        "Addictiveness": 7,
                         "Nostalgia": 5
                     }
                 },
@@ -2318,8 +2278,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 4,
@@ -2375,8 +2334,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -2432,8 +2390,7 @@
                     "Sound": {
                         "OST/BGM": 10,
                         "Voiceacting": 7,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 6,
@@ -2489,8 +2446,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 5,
-                        "SFX": 2
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 4,
@@ -2546,8 +2502,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 1,
@@ -2603,8 +2558,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 2,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 1,
@@ -2660,8 +2614,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 3,
-                        "SFX": 1
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -2717,8 +2670,7 @@
                     "Sound": {
                         "OST/BGM": 5,
                         "Voiceacting": 6,
-                        "OP/ED": 7,
-                        "SFX": 0
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 9,
@@ -2774,8 +2726,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -2831,8 +2782,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 3,
-                        "SFX": 1
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -2888,8 +2838,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 0,
-                        "OP/ED": 5,
-                        "SFX": 2
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 6,
@@ -2932,47 +2881,46 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 4,
-                        "Antagonist": 1,
-                        "Side Characters": 2,
-                        "Realistic": 0
+                        "Protagonist": 8,
+                        "Antagonist": 4,
+                        "Side Characters": 8,
+                        "Realistic": 5
                     },
                     "Writing": {
                         "Ending": 4,
-                        "Logical": 2,
-                        "Plot": 4
+                        "Logical": 6,
+                        "Plot": 5
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 1,
-                        "OP/ED": 0,
-                        "SFX": 2
+                        "OST/BGM": 5,
+                        "Voiceacting": 6,
+                        "OP/ED": 5
                     },
                     "Animation": {
-                        "Animation": 3,
-                        "Character Design": 2,
-                        "Worldbuilding": 4
+                        "Animation": 9,
+                        "Character Design": 7,
+                        "Worldbuilding": 10
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 4,
-                        "Vibe": 2,
-                        "Climax": 4
+                        "Strong emotions": 7,
+                        "Vibe": 8,
+                        "Climax": 7
                     },
                     "Story": {
-                        "Satisfying Ending": 3,
-                        "No unnecessary scenes": 3,
-                        "Enjoyable Content": 4
+                        "Satisfying Ending": 5,
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 7
                     },
                     "Characters": {
-                        "Likeable": 3,
-                        "Standouts": 2,
-                        "Synergy": 2
+                        "Likeable": 8,
+                        "Standouts": 7,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 1,
-                        "Addictiveness": 2,
+                        "Aftertaste": 5,
+                        "Addictiveness": 6,
                         "Nostalgia": 4
                     }
                 },
@@ -3002,8 +2950,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 3,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -3059,8 +3006,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 4,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 2,
@@ -3116,8 +3062,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3,
@@ -3173,8 +3118,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 2,
@@ -3230,8 +3174,7 @@
                     "Sound": {
                         "OST/BGM": 10,
                         "Voiceacting": 9,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 9,
@@ -3287,8 +3230,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -3344,8 +3286,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 3,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -3401,8 +3342,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -3458,8 +3398,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 2,
@@ -3515,8 +3454,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3,
@@ -3572,8 +3510,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 3,
-                        "SFX": 2
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 4,
@@ -3629,8 +3566,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 0,
@@ -3686,8 +3622,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 4,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -3743,8 +3678,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 6,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 6,
@@ -3800,8 +3734,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 1,
@@ -3857,8 +3790,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 6,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 6,
@@ -3914,8 +3846,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 3,
-                        "OP/ED": 5,
-                        "SFX": 1
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 3,
@@ -3971,8 +3902,7 @@
                     "Sound": {
                         "OST/BGM": 7,
                         "Voiceacting": 1,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 3,
@@ -4028,8 +3958,7 @@
                     "Sound": {
                         "OST/BGM": 8,
                         "Voiceacting": 7,
-                        "OP/ED": 8,
-                        "SFX": 7
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 6,
@@ -4085,8 +4014,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 1,
-                        "SFX": 1
+                        "OP/ED": 1
                     },
                     "Animation": {
                         "Animation": 2,
@@ -4129,48 +4057,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
-                        "Antagonist": 3,
-                        "Side Characters": 2,
-                        "Realistic": 1
+                        "Protagonist": 8,
+                        "Antagonist": 8,
+                        "Side Characters": 9,
+                        "Realistic": 6
                     },
                     "Writing": {
-                        "Ending": 4,
-                        "Logical": 2,
-                        "Plot": 7
+                        "Ending": 6,
+                        "Logical": 7,
+                        "Plot": 9
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 1,
-                        "OP/ED": 7.5,
-                        "SFX": 0
+                        "OST/BGM": 6,
+                        "Voiceacting": 6,
+                        "OP/ED": 9
                     },
                     "Animation": {
-                        "Animation": 3,
-                        "Character Design": 3,
-                        "Worldbuilding": 3
+                        "Animation": 8,
+                        "Character Design": 8,
+                        "Worldbuilding": 10
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 3,
-                        "Vibe": 4,
-                        "Climax": 6
+                        "Strong emotions": 9,
+                        "Vibe": 9,
+                        "Climax": 9
                     },
                     "Story": {
-                        "Satisfying Ending": 4,
-                        "No unnecessary scenes": 0,
-                        "Enjoyable Content": 6
+                        "Satisfying Ending": 7,
+                        "No unnecessary scenes": 8,
+                        "Enjoyable Content": 9
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 5,
-                        "Synergy": 2
+                        "Likeable": 8,
+                        "Standouts": 10,
+                        "Synergy": 8
                     },
                     "Memory": {
-                        "Aftertaste": 3,
-                        "Addictiveness": 2,
-                        "Nostalgia": 4
+                        "Aftertaste": 8,
+                        "Addictiveness": 9,
+                        "Nostalgia": 9
                     }
                 },
                 "explain": "No review written yet"
@@ -4199,8 +4126,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -4256,8 +4182,7 @@
                     "Sound": {
                         "OST/BGM": 10,
                         "Voiceacting": 7,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 6,
@@ -4313,8 +4238,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 1,
-                        "SFX": 0
+                        "OP/ED": 1
                     },
                     "Animation": {
                         "Animation": 2,
@@ -4370,8 +4294,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -4427,8 +4350,7 @@
                     "Sound": {
                         "OST/BGM": 8,
                         "Voiceacting": 7,
-                        "OP/ED": 8,
-                        "SFX": 0
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 6,
@@ -4484,8 +4406,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 2,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -4541,8 +4462,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 3,
-                        "OP/ED": 1,
-                        "SFX": 0
+                        "OP/ED": 1
                     },
                     "Animation": {
                         "Animation": 2,
@@ -4598,8 +4518,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 2,
-                        "SFX": 1
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 4,
@@ -4655,8 +4574,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 0,
-                        "OP/ED": 7.6,
-                        "SFX": 0
+                        "OP/ED": 7.6
                     },
                     "Animation": {
                         "Animation": 2,
@@ -4712,8 +4630,7 @@
                     "Sound": {
                         "OST/BGM": 4,
                         "Voiceacting": 2,
-                        "OP/ED": 0,
-                        "SFX": 1
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 3,
@@ -4769,8 +4686,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 1
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 4,
@@ -4826,8 +4742,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -4883,8 +4798,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 3,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 4,
@@ -4940,8 +4854,7 @@
                     "Sound": {
                         "OST/BGM": 8,
                         "Voiceacting": 7,
-                        "OP/ED": 9,
-                        "SFX": 7
+                        "OP/ED": 9
                     },
                     "Animation": {
                         "Animation": 6,
@@ -4997,8 +4910,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 3,
@@ -5054,8 +4966,7 @@
                     "Sound": {
                         "OST/BGM": 7,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 1,
@@ -5111,8 +5022,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 2,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 2,
@@ -5168,8 +5078,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 0,
-                        "SFX": 3
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 2,
@@ -5225,8 +5134,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 3,
@@ -5282,8 +5190,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3,
@@ -5339,8 +5246,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 0,
-                        "OP/ED": 6.8,
-                        "SFX": 0
+                        "OP/ED": 6.8
                     },
                     "Animation": {
                         "Animation": 2,
@@ -5396,8 +5302,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 3,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -5453,8 +5358,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -5510,8 +5414,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 2,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 7,
@@ -5567,8 +5470,7 @@
                     "Sound": {
                         "OST/BGM": 4,
                         "Voiceacting": 0,
-                        "OP/ED": 6.5,
-                        "SFX": 0
+                        "OP/ED": 6.5
                     },
                     "Animation": {
                         "Animation": 0,
@@ -5624,8 +5526,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 3,
-                        "OP/ED": 7,
-                        "SFX": 0
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 2,
@@ -5681,8 +5582,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 1,
@@ -5738,8 +5638,7 @@
                     "Sound": {
                         "OST/BGM": 7,
                         "Voiceacting": 7,
-                        "OP/ED": 7,
-                        "SFX": 5
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 5,
@@ -5795,8 +5694,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -5852,8 +5750,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 7,
-                        "OP/ED": 8,
-                        "SFX": 0
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 7,
@@ -5909,8 +5806,7 @@
                     "Sound": {
                         "OST/BGM": 5,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -5966,8 +5862,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 1,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 3,
@@ -6023,8 +5918,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 3,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 3,
@@ -6080,8 +5974,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -6137,8 +6030,7 @@
                     "Sound": {
                         "OST/BGM": 8,
                         "Voiceacting": 6,
-                        "OP/ED": 6,
-                        "SFX": 5
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 6,
@@ -6194,8 +6086,7 @@
                     "Sound": {
                         "OST/BGM": 7,
                         "Voiceacting": 1,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 2,
@@ -6251,8 +6142,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 1,
@@ -6308,8 +6198,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -6365,8 +6254,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 0,
@@ -6422,8 +6310,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 3,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 8,
@@ -6479,8 +6366,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -6536,8 +6422,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 2,
@@ -6593,8 +6478,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -6650,8 +6534,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 3,
@@ -6707,8 +6590,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -6764,8 +6646,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -6821,8 +6702,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3,
@@ -6878,8 +6758,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 2,
-                        "OP/ED": 1,
-                        "SFX": 0
+                        "OP/ED": 1
                     },
                     "Animation": {
                         "Animation": 7,
@@ -6935,8 +6814,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -6992,8 +6870,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 3,
@@ -7049,8 +6926,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -7106,8 +6982,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -7163,8 +7038,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -7220,8 +7094,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -7277,8 +7150,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 3,
@@ -7334,8 +7206,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -7391,8 +7262,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -7448,8 +7318,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 7,
-                        "OP/ED": 9,
-                        "SFX": 0
+                        "OP/ED": 9
                     },
                     "Animation": {
                         "Animation": 7,
@@ -7505,8 +7374,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -7562,8 +7430,7 @@
                     "Sound": {
                         "OST/BGM": 5,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 5,
@@ -7619,8 +7486,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -7676,8 +7542,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 1,
@@ -7733,8 +7598,7 @@
                     "Sound": {
                         "OST/BGM": 5,
                         "Voiceacting": 7,
-                        "OP/ED": 7,
-                        "SFX": 0
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 6,
@@ -7790,8 +7654,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 5,
-                        "OP/ED": 3,
-                        "SFX": 2
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -7847,8 +7710,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 3,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -7904,8 +7766,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -7961,8 +7822,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8018,8 +7878,7 @@
                     "Sound": {
                         "OST/BGM": 7,
                         "Voiceacting": 10,
-                        "OP/ED": 8,
-                        "SFX": 7
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 8,
@@ -8075,8 +7934,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8132,8 +7990,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 1,
@@ -8189,8 +8046,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8246,8 +8102,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8303,8 +8158,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8360,8 +8214,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8417,8 +8270,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8474,8 +8326,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8531,8 +8382,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8588,8 +8438,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 1,
-                        "OP/ED": 5.3,
-                        "SFX": 0
+                        "OP/ED": 5.3
                     },
                     "Animation": {
                         "Animation": 1,
@@ -8645,8 +8494,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8702,8 +8550,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 6.4,
-                        "SFX": 0
+                        "OP/ED": 6.4
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8759,8 +8606,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8816,8 +8662,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8873,8 +8718,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -8930,8 +8774,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -8987,8 +8830,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9044,8 +8886,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9101,8 +8942,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 2
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 8,
@@ -9158,8 +8998,7 @@
                     "Sound": {
                         "OST/BGM": 10,
                         "Voiceacting": 8,
-                        "OP/ED": 6,
-                        "SFX": 10
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 10,
@@ -9215,8 +9054,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9272,8 +9110,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9329,8 +9166,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9386,8 +9222,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9443,8 +9278,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9500,8 +9334,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9557,8 +9390,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9614,8 +9446,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -9671,8 +9502,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9728,8 +9558,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9785,8 +9614,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9842,8 +9670,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -9899,8 +9726,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -9956,8 +9782,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 3,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -10013,8 +9838,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10070,8 +9894,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10127,8 +9950,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10184,8 +10006,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10241,8 +10062,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10298,8 +10118,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 7,
-                        "OP/ED": 9,
-                        "SFX": 0
+                        "OP/ED": 9
                     },
                     "Animation": {
                         "Animation": 7,
@@ -10355,8 +10174,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10412,8 +10230,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10469,8 +10286,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10526,8 +10342,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10583,8 +10398,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10640,8 +10454,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -10697,8 +10510,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10754,8 +10566,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10811,8 +10622,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10868,8 +10678,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -10912,48 +10721,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
-                        "Antagonist": 3,
-                        "Side Characters": 3,
-                        "Realistic": 0
+                        "Protagonist": 8,
+                        "Antagonist": 7,
+                        "Side Characters": 7,
+                        "Realistic": 6
                     },
                     "Writing": {
-                        "Ending": 3,
-                        "Logical": 2,
-                        "Plot": 3
+                        "Ending": 7,
+                        "Logical": 6,
+                        "Plot": 7
                     },
                     "Sound": {
-                        "OST/BGM": 0,
-                        "Voiceacting": 1,
-                        "OP/ED": 4,
-                        "SFX": 1
+                        "OST/BGM": 5,
+                        "Voiceacting": 6,
+                        "OP/ED": 6
                     },
                     "Animation": {
-                        "Animation": 1,
-                        "Character Design": 3,
-                        "Worldbuilding": 3
+                        "Animation": 6,
+                        "Character Design": 7,
+                        "Worldbuilding": 10
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 6,
-                        "Vibe": 0,
-                        "Climax": 5
+                        "Strong emotions": 7,
+                        "Vibe": 7,
+                        "Climax": 8
                     },
                     "Story": {
-                        "Satisfying Ending": 3,
-                        "No unnecessary scenes": 4,
+                        "Satisfying Ending": 6,
+                        "No unnecessary scenes": 6,
                         "Enjoyable Content": 6
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 2,
-                        "Synergy": 3
+                        "Likeable": 8,
+                        "Standouts": 7,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 1,
-                        "Addictiveness": 3,
-                        "Nostalgia": 3
+                        "Aftertaste": 6,
+                        "Addictiveness": 6,
+                        "Nostalgia": 6
                     }
                 },
                 "explain": "No review written yet"
@@ -10982,8 +10790,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -11039,8 +10846,7 @@
                     "Sound": {
                         "OST/BGM": 8,
                         "Voiceacting": 7,
-                        "OP/ED": 7,
-                        "SFX": 6
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 6,
@@ -11096,8 +10902,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -11153,8 +10958,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -11210,8 +11014,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 8,
-                        "OP/ED": 7,
-                        "SFX": 0
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 9,
@@ -11267,8 +11070,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 0,
-                        "OP/ED": 6.7,
-                        "SFX": 0
+                        "OP/ED": 6.7
                     },
                     "Animation": {
                         "Animation": 1,
@@ -11324,8 +11126,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 3,
@@ -11381,8 +11182,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -11438,8 +11238,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -11495,8 +11294,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -11552,8 +11350,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 2,
-                        "OP/ED": 1,
-                        "SFX": 0
+                        "OP/ED": 1
                     },
                     "Animation": {
                         "Animation": 3,
@@ -11609,8 +11406,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -11666,8 +11462,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0.5,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -11723,8 +11518,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -11780,8 +11574,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -11837,8 +11630,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -11894,8 +11686,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -11951,8 +11742,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12008,8 +11798,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 3,
-                        "SFX": 2
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -12065,8 +11854,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12122,8 +11910,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 3,
-                        "OP/ED": 6.1,
-                        "SFX": 0
+                        "OP/ED": 6.1
                     },
                     "Animation": {
                         "Animation": 2,
@@ -12179,8 +11966,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12236,8 +12022,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 0,
-                        "OP/ED": 6.7,
-                        "SFX": 0
+                        "OP/ED": 6.7
                     },
                     "Animation": {
                         "Animation": 3,
@@ -12280,48 +12065,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 7,
+                        "Protagonist": 9,
                         "Antagonist": 3,
-                        "Side Characters": 0,
-                        "Realistic": 3
+                        "Side Characters": 7,
+                        "Realistic": 5
                     },
                     "Writing": {
-                        "Ending": 2,
-                        "Logical": 4,
-                        "Plot": 3
+                        "Ending": 4,
+                        "Logical": 5,
+                        "Plot": 4
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 1,
-                        "OP/ED": 7,
-                        "SFX": 1
+                        "OST/BGM": 6,
+                        "Voiceacting": 7,
+                        "OP/ED": 10
                     },
                     "Animation": {
-                        "Animation": 2,
-                        "Character Design": 2,
-                        "Worldbuilding": 4
+                        "Animation": 6,
+                        "Character Design": 6,
+                        "Worldbuilding": 10
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 3,
-                        "Vibe": 2,
-                        "Climax": 3
+                        "Strong emotions": 5,
+                        "Vibe": 7,
+                        "Climax": 6
                     },
                     "Story": {
-                        "Satisfying Ending": 2,
-                        "No unnecessary scenes": 4,
-                        "Enjoyable Content": 5
+                        "Satisfying Ending": 5,
+                        "No unnecessary scenes": 7,
+                        "Enjoyable Content": 8
                     },
                     "Characters": {
-                        "Likeable": 0,
-                        "Standouts": 0,
-                        "Synergy": 3
+                        "Likeable": 6,
+                        "Standouts": 8,
+                        "Synergy": 6
                     },
                     "Memory": {
-                        "Aftertaste": 3,
-                        "Addictiveness": 2,
-                        "Nostalgia": 4
+                        "Aftertaste": 5,
+                        "Addictiveness": 6,
+                        "Nostalgia": 5
                     }
                 },
                 "explain": "No review written yet"
@@ -12337,48 +12121,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
-                        "Antagonist": 2,
-                        "Side Characters": 4,
-                        "Realistic": 2
+                        "Protagonist": 9,
+                        "Antagonist": 8,
+                        "Side Characters": 10,
+                        "Realistic": 7
                     },
                     "Writing": {
-                        "Ending": 4,
-                        "Logical": 3,
-                        "Plot": 6
+                        "Ending": 6,
+                        "Logical": 8,
+                        "Plot": 9
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 1,
-                        "OP/ED": 7.5,
-                        "SFX": 0
+                        "OST/BGM": 7,
+                        "Voiceacting": 8,
+                        "OP/ED": 9
                     },
                     "Animation": {
-                        "Animation": 4,
-                        "Character Design": 3,
-                        "Worldbuilding": 4
+                        "Animation": 9,
+                        "Character Design": 9,
+                        "Worldbuilding": 10
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 6,
-                        "Vibe": 3,
-                        "Climax": 4
+                        "Strong emotions": 9,
+                        "Vibe": 9,
+                        "Climax": 9
                     },
                     "Story": {
-                        "Satisfying Ending": 3,
-                        "No unnecessary scenes": 3,
-                        "Enjoyable Content": 6
+                        "Satisfying Ending": 7,
+                        "No unnecessary scenes": 8,
+                        "Enjoyable Content": 9
                     },
                     "Characters": {
-                        "Likeable": 5,
-                        "Standouts": 5,
-                        "Synergy": 1
+                        "Likeable": 9,
+                        "Standouts": 10,
+                        "Synergy": 8
                     },
                     "Memory": {
-                        "Aftertaste": 3,
-                        "Addictiveness": 1,
-                        "Nostalgia": 5
+                        "Aftertaste": 8,
+                        "Addictiveness": 9,
+                        "Nostalgia": 9
                     }
                 },
                 "explain": "No review written yet"
@@ -12407,8 +12190,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12464,8 +12246,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -12521,8 +12302,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12578,8 +12358,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12635,8 +12414,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12692,8 +12470,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12749,8 +12526,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12806,8 +12582,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12863,8 +12638,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -12920,8 +12694,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -12977,8 +12750,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -13034,8 +12806,7 @@
                     "Sound": {
                         "OST/BGM": 4,
                         "Voiceacting": 0,
-                        "OP/ED": 8,
-                        "SFX": 0
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 4,
@@ -13091,8 +12862,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 0,
@@ -13148,8 +12918,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -13205,8 +12974,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -13262,8 +13030,7 @@
                     "Sound": {
                         "OST/BGM": 1.5,
                         "Voiceacting": 1.5,
-                        "OP/ED": 0,
-                        "SFX": 2
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 3,
@@ -13319,8 +13086,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -13376,8 +13142,7 @@
                     "Sound": {
                         "OST/BGM": 5,
                         "Voiceacting": 10,
-                        "OP/ED": 8,
-                        "SFX": 5
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 7,
@@ -13433,8 +13198,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -13490,8 +13254,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 1,
@@ -13547,8 +13310,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 4,
@@ -13604,8 +13366,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 3,
-                        "OP/ED": 6.3,
-                        "SFX": 0
+                        "OP/ED": 6.3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -13661,8 +13422,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 0.5,
@@ -13718,8 +13478,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -13775,8 +13534,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 7,
-                        "OP/ED": 4,
-                        "SFX": 5
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 8,
@@ -13832,8 +13590,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -13889,8 +13646,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -13946,8 +13702,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14003,8 +13758,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14047,48 +13801,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
-                        "Antagonist": 3,
-                        "Side Characters": 3,
-                        "Realistic": 5
+                        "Protagonist": 10,
+                        "Antagonist": 0,
+                        "Side Characters": 7,
+                        "Realistic": 9
                     },
                     "Writing": {
-                        "Ending": 2,
-                        "Logical": 6,
-                        "Plot": 7
+                        "Ending": 7,
+                        "Logical": 8,
+                        "Plot": 9
                     },
                     "Sound": {
-                        "OST/BGM": 0,
-                        "Voiceacting": 0,
-                        "OP/ED": 7,
-                        "SFX": 0
+                        "OST/BGM": 6,
+                        "Voiceacting": 8,
+                        "OP/ED": 9
                     },
                     "Animation": {
-                        "Animation": 3,
-                        "Character Design": 2,
-                        "Worldbuilding": 4
+                        "Animation": 8,
+                        "Character Design": 10,
+                        "Worldbuilding": 10
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 4,
-                        "Vibe": 7,
-                        "Climax": 3
+                        "Strong emotions": 7,
+                        "Vibe": 10,
+                        "Climax": 8
                     },
                     "Story": {
-                        "Satisfying Ending": 2,
-                        "No unnecessary scenes": 5,
-                        "Enjoyable Content": 5
+                        "Satisfying Ending": 7,
+                        "No unnecessary scenes": 7,
+                        "Enjoyable Content": 10
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 0,
-                        "Synergy": 2
+                        "Likeable": 10,
+                        "Standouts": 10,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 4,
-                        "Addictiveness": 3,
-                        "Nostalgia": 2
+                        "Aftertaste": 8,
+                        "Addictiveness": 7,
+                        "Nostalgia": 9
                     }
                 },
                 "explain": "No review written yet"
@@ -14117,8 +13870,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14174,8 +13926,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14231,8 +13982,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 6.4,
-                        "SFX": 0.5
+                        "OP/ED": 6.4
                     },
                     "Animation": {
                         "Animation": 5,
@@ -14288,8 +14038,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14345,8 +14094,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 3,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 4,
@@ -14402,8 +14150,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14459,8 +14206,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14516,8 +14262,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14573,8 +14318,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14630,8 +14374,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14687,8 +14430,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14744,8 +14486,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14801,8 +14542,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -14858,8 +14598,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -14915,8 +14654,7 @@
                     "Sound": {
                         "OST/BGM": 7,
                         "Voiceacting": 7,
-                        "OP/ED": 7,
-                        "SFX": 7
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 6,
@@ -14972,8 +14710,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 2,
-                        "OP/ED": 1,
-                        "SFX": 2
+                        "OP/ED": 1
                     },
                     "Animation": {
                         "Animation": 3,
@@ -15029,8 +14766,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 2,
-                        "OP/ED": 2.2,
-                        "SFX": 0
+                        "OP/ED": 2.2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -15086,8 +14822,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 7,
-                        "SFX": 0
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 1.4,
@@ -15143,8 +14878,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 4.5,
-                        "SFX": 0
+                        "OP/ED": 4.5
                     },
                     "Animation": {
                         "Animation": 3,
@@ -15200,8 +14934,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -15257,8 +14990,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -15314,8 +15046,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -15371,8 +15102,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -15428,8 +15158,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -15485,8 +15214,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -15542,8 +15270,7 @@
                     "Sound": {
                         "OST/BGM": 5,
                         "Voiceacting": 10,
-                        "OP/ED": 8,
-                        "SFX": 5
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 7,
@@ -15599,8 +15326,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 3.9,
-                        "SFX": 0
+                        "OP/ED": 3.9
                     },
                     "Animation": {
                         "Animation": 3,
@@ -15656,8 +15382,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 3.3,
-                        "SFX": 2
+                        "OP/ED": 3.3
                     },
                     "Animation": {
                         "Animation": 5,
@@ -15713,8 +15438,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -15770,8 +15494,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -15827,8 +15550,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 7,
-                        "OP/ED": 4,
-                        "SFX": 5
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 8,
@@ -15884,8 +15606,7 @@
                     "Sound": {
                         "OST/BGM": 9,
                         "Voiceacting": 7,
-                        "OP/ED": 10,
-                        "SFX": 8
+                        "OP/ED": 10
                     },
                     "Animation": {
                         "Animation": 10,
@@ -15941,8 +15662,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -15998,8 +15718,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16055,8 +15774,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 2,
-                        "OP/ED": 3,
-                        "SFX": 2
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 5,
@@ -16112,8 +15830,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16169,8 +15886,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 0,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 2,
@@ -16226,8 +15942,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16283,8 +15998,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16340,8 +16054,7 @@
                     "Sound": {
                         "OST/BGM": 7,
                         "Voiceacting": 9,
-                        "OP/ED": 8,
-                        "SFX": 0
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 9,
@@ -16397,8 +16110,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16454,8 +16166,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16511,8 +16222,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16568,8 +16278,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16625,8 +16334,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16682,8 +16390,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16739,8 +16446,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 5.8,
-                        "SFX": 2
+                        "OP/ED": 5.8
                     },
                     "Animation": {
                         "Animation": 4,
@@ -16796,8 +16502,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -16853,8 +16558,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -16910,8 +16614,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -16967,8 +16670,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 3.4,
-                        "SFX": 1
+                        "OP/ED": 3.4
                     },
                     "Animation": {
                         "Animation": 4,
@@ -17024,8 +16726,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 1,
@@ -17081,8 +16782,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 1,
-                        "SFX": 0
+                        "OP/ED": 1
                     },
                     "Animation": {
                         "Animation": 1,
@@ -17125,48 +16825,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 4,
-                        "Antagonist": 4,
-                        "Side Characters": 3,
-                        "Realistic": 2
+                        "Protagonist": 8,
+                        "Antagonist": 8,
+                        "Side Characters": 7,
+                        "Realistic": 9
                     },
                     "Writing": {
-                        "Ending": 7,
-                        "Logical": 4,
-                        "Plot": 5
+                        "Ending": 8,
+                        "Logical": 9,
+                        "Plot": 9
                     },
                     "Sound": {
-                        "OST/BGM": 2,
-                        "Voiceacting": 0,
-                        "OP/ED": 5,
-                        "SFX": 2
+                        "OST/BGM": 8,
+                        "Voiceacting": 7,
+                        "OP/ED": 9
                     },
                     "Animation": {
-                        "Animation": 6,
-                        "Character Design": 3,
-                        "Worldbuilding": 2
+                        "Animation": 9,
+                        "Character Design": 8,
+                        "Worldbuilding": 9
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 7,
-                        "Vibe": 6,
-                        "Climax": 3
+                        "Strong emotions": 9,
+                        "Vibe": 9,
+                        "Climax": 8
                     },
                     "Story": {
-                        "Satisfying Ending": 5,
-                        "No unnecessary scenes": 3,
-                        "Enjoyable Content": 4
+                        "Satisfying Ending": 7,
+                        "No unnecessary scenes": 7,
+                        "Enjoyable Content": 9
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 0,
-                        "Synergy": 3
+                        "Likeable": 8,
+                        "Standouts": 7,
+                        "Synergy": 8
                     },
                     "Memory": {
-                        "Aftertaste": 5,
-                        "Addictiveness": 5,
-                        "Nostalgia": 0
+                        "Aftertaste": 9,
+                        "Addictiveness": 10,
+                        "Nostalgia": 5
                     }
                 },
                 "explain": "No review written yet"
@@ -17195,8 +16894,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -17252,8 +16950,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -17309,8 +17006,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 6.7,
-                        "SFX": 2
+                        "OP/ED": 6.7
                     },
                     "Animation": {
                         "Animation": 4,
@@ -17366,8 +17062,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -17423,8 +17118,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 6,
-                        "SFX": 1
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 3,
@@ -17480,8 +17174,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -17537,8 +17230,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -17594,8 +17286,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -17651,8 +17342,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 7.1,
-                        "SFX": 0
+                        "OP/ED": 7.1
                     },
                     "Animation": {
                         "Animation": 2,
@@ -17708,8 +17398,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 5.1,
-                        "SFX": 0
+                        "OP/ED": 5.1
                     },
                     "Animation": {
                         "Animation": 0,
@@ -17765,8 +17454,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -17822,8 +17510,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -17879,8 +17566,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 1.5,
-                        "SFX": 2
+                        "OP/ED": 1.5
                     },
                     "Animation": {
                         "Animation": 3.3,
@@ -17936,8 +17622,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -17993,8 +17678,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -18050,8 +17734,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -18107,8 +17790,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 7.9,
-                        "SFX": 0
+                        "OP/ED": 7.9
                     },
                     "Animation": {
                         "Animation": 3,
@@ -18164,8 +17846,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -18221,8 +17902,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -18278,8 +17958,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 5.1,
-                        "SFX": 0
+                        "OP/ED": 5.1
                     },
                     "Animation": {
                         "Animation": 2.8,
@@ -18335,8 +18014,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 2,
@@ -18392,8 +18070,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -18449,8 +18126,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -18506,8 +18182,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3,
@@ -18563,8 +18238,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -18620,8 +18294,7 @@
                     "Sound": {
                         "OST/BGM": 5,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3,
@@ -18677,8 +18350,7 @@
                     "Sound": {
                         "OST/BGM": 4,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3,
@@ -18734,8 +18406,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 2,
-                        "OP/ED": 0,
-                        "SFX": 0.9
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 3.1,
@@ -18791,8 +18462,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 0,
@@ -18848,8 +18518,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -18905,8 +18574,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -18962,8 +18630,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -19019,8 +18686,7 @@
                     "Sound": {
                         "OST/BGM": 4,
                         "Voiceacting": 1,
-                        "OP/ED": 1,
-                        "SFX": 0
+                        "OP/ED": 1
                     },
                     "Animation": {
                         "Animation": 5,
@@ -19076,8 +18742,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -19133,8 +18798,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 1,
@@ -19190,8 +18854,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -19247,8 +18910,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 0,
-                        "OP/ED": 6.5,
-                        "SFX": 0
+                        "OP/ED": 6.5
                     },
                     "Animation": {
                         "Animation": 4,
@@ -19304,8 +18966,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -19361,8 +19022,7 @@
                     "Sound": {
                         "OST/BGM": 4,
                         "Voiceacting": 0,
-                        "OP/ED": 4.4,
-                        "SFX": 0
+                        "OP/ED": 4.4
                     },
                     "Animation": {
                         "Animation": 5,
@@ -19418,8 +19078,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 2,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -19475,8 +19134,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -19532,8 +19190,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 4,
@@ -19589,8 +19246,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 2,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 2,
@@ -19646,8 +19302,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 1,
@@ -19703,8 +19358,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 1,
-                        "OP/ED": 0,
-                        "SFX": 2
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 7.6,
@@ -19760,8 +19414,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 0.9,
@@ -19817,8 +19470,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -19874,8 +19526,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 4.8,
-                        "SFX": 0
+                        "OP/ED": 4.8
                     },
                     "Animation": {
                         "Animation": 2,
@@ -19931,8 +19582,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 3,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 1,
@@ -19988,8 +19638,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 2,
@@ -20045,8 +19694,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 6.2,
-                        "SFX": 0
+                        "OP/ED": 6.2
                     },
                     "Animation": {
                         "Animation": 0,
@@ -20102,8 +19750,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 0,
-                        "OP/ED": 3.9,
-                        "SFX": 0
+                        "OP/ED": 3.9
                     },
                     "Animation": {
                         "Animation": 3,
@@ -20159,8 +19806,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3,
@@ -20216,8 +19862,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 0,
-                        "OP/ED": 6.6,
-                        "SFX": 1
+                        "OP/ED": 6.6
                     },
                     "Animation": {
                         "Animation": 6,
@@ -20273,8 +19918,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 6.2,
-                        "SFX": 0
+                        "OP/ED": 6.2
                     },
                     "Animation": {
                         "Animation": 1.2,
@@ -20330,8 +19974,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 6.5,
-                        "SFX": 0
+                        "OP/ED": 6.5
                     },
                     "Animation": {
                         "Animation": 2,
@@ -20387,8 +20030,7 @@
                     "Sound": {
                         "OST/BGM": 7,
                         "Voiceacting": 8,
-                        "OP/ED": 10,
-                        "SFX": 0
+                        "OP/ED": 10
                     },
                     "Animation": {
                         "Animation": 6,
@@ -20444,8 +20086,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 3,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 4,
@@ -20501,8 +20142,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 7,
-                        "SFX": 0
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 5,
@@ -20558,8 +20198,7 @@
                     "Sound": {
                         "OST/BGM": 7,
                         "Voiceacting": 6,
-                        "OP/ED": 7,
-                        "SFX": 7
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 6,
@@ -20615,8 +20254,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 4,
-                        "SFX": 1
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 4,
@@ -20672,8 +20310,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 3,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 3,
@@ -20729,8 +20366,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 0,
-                        "OP/ED": 6.5,
-                        "SFX": 0
+                        "OP/ED": 6.5
                     },
                     "Animation": {
                         "Animation": 2.5,
@@ -20786,8 +20422,7 @@
                     "Sound": {
                         "OST/BGM": 10,
                         "Voiceacting": 8,
-                        "OP/ED": 10,
-                        "SFX": 7
+                        "OP/ED": 10
                     },
                     "Animation": {
                         "Animation": 9,
@@ -20843,8 +20478,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 0,
@@ -20900,8 +20534,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 3,
-                        "OP/ED": 0,
-                        "SFX": 3
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 6,
@@ -20957,8 +20590,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 6.8,
-                        "SFX": 0
+                        "OP/ED": 6.8
                     },
                     "Animation": {
                         "Animation": 3,
@@ -21014,8 +20646,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 4,
@@ -21071,8 +20702,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 3,
@@ -21128,8 +20758,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -21185,8 +20814,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 4.5,
-                        "SFX": 0
+                        "OP/ED": 4.5
                     },
                     "Animation": {
                         "Animation": 3,
@@ -21242,8 +20870,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 5.5,
-                        "SFX": 0
+                        "OP/ED": 5.5
                     },
                     "Animation": {
                         "Animation": 2.8,
@@ -21299,8 +20926,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -21356,8 +20982,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 1,
-                        "OP/ED": 4.1,
-                        "SFX": 0
+                        "OP/ED": 4.1
                     },
                     "Animation": {
                         "Animation": 2.1,
@@ -21413,8 +21038,7 @@
                     "Sound": {
                         "OST/BGM": 5,
                         "Voiceacting": 10,
-                        "OP/ED": 7,
-                        "SFX": 7
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 9,
@@ -21470,8 +21094,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OP/ED": 4
                     },
                     "Animation": {
                         "Animation": 1,
@@ -21527,8 +21150,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 2,
-                        "OP/ED": 7.6,
-                        "SFX": 0
+                        "OP/ED": 7.6
                     },
                     "Animation": {
                         "Animation": 5,
@@ -21584,8 +21206,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 7,
-                        "SFX": 1
+                        "OP/ED": 7
                     },
                     "Animation": {
                         "Animation": 3,
@@ -21641,8 +21262,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 3,
-                        "SFX": 0
+                        "OP/ED": 3
                     },
                     "Animation": {
                         "Animation": 2,
@@ -21698,8 +21318,7 @@
                     "Sound": {
                         "OST/BGM": 4,
                         "Voiceacting": 2,
-                        "OP/ED": 1,
-                        "SFX": 3
+                        "OP/ED": 1
                     },
                     "Animation": {
                         "Animation": 7.5,
@@ -21755,8 +21374,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 2,
-                        "OP/ED": 4.5,
-                        "SFX": 0
+                        "OP/ED": 4.5
                     },
                     "Animation": {
                         "Animation": 4,
@@ -21812,8 +21430,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3,
@@ -21869,8 +21486,7 @@
                     "Sound": {
                         "OST/BGM": 3,
                         "Voiceacting": 0,
-                        "OP/ED": 1.5,
-                        "SFX": 0
+                        "OP/ED": 1.5
                     },
                     "Animation": {
                         "Animation": 2,
@@ -21926,8 +21542,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 2,
-                        "OP/ED": 6,
-                        "SFX": 0
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 4,
@@ -21983,8 +21598,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 8,
-                        "OP/ED": 8,
-                        "SFX": 0
+                        "OP/ED": 8
                     },
                     "Animation": {
                         "Animation": 9,
@@ -22040,8 +21654,7 @@
                     "Sound": {
                         "OST/BGM": 0,
                         "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OP/ED": 0
                     },
                     "Animation": {
                         "Animation": 0,
@@ -22097,8 +21710,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 2,
-                        "SFX": 2
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 6,
@@ -22154,8 +21766,7 @@
                     "Sound": {
                         "OST/BGM": 2,
                         "Voiceacting": 2,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3.5,
@@ -22211,8 +21822,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 2,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OP/ED": 5
                     },
                     "Animation": {
                         "Animation": 3,
@@ -22268,8 +21878,7 @@
                     "Sound": {
                         "OST/BGM": 1,
                         "Voiceacting": 1,
-                        "OP/ED": 6.2,
-                        "SFX": 0
+                        "OP/ED": 6.2
                     },
                     "Animation": {
                         "Animation": 2,
@@ -22325,8 +21934,7 @@
                     "Sound": {
                         "OST/BGM": 5,
                         "Voiceacting": 5,
-                        "OP/ED": 6,
-                        "SFX": 5
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 5,
@@ -22382,8 +21990,7 @@
                     "Sound": {
                         "OST/BGM": 10,
                         "Voiceacting": 8,
-                        "OP/ED": 10,
-                        "SFX": 8
+                        "OP/ED": 10
                     },
                     "Animation": {
                         "Animation": 9,
@@ -22439,8 +22046,7 @@
                     "Sound": {
                         "OST/BGM": 9,
                         "Voiceacting": 7,
-                        "OP/ED": 10,
-                        "SFX": 0
+                        "OP/ED": 10
                     },
                     "Animation": {
                         "Animation": 8,
@@ -22496,8 +22102,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 0,
-                        "OP/ED": 2,
-                        "SFX": 0
+                        "OP/ED": 2
                     },
                     "Animation": {
                         "Animation": 3,
@@ -22553,8 +22158,7 @@
                     "Sound": {
                         "OST/BGM": 5,
                         "Voiceacting": 8,
-                        "OP/ED": 9,
-                        "SFX": 7
+                        "OP/ED": 9
                     },
                     "Animation": {
                         "Animation": 9,
@@ -22610,8 +22214,7 @@
                     "Sound": {
                         "OST/BGM": 6,
                         "Voiceacting": 10,
-                        "OP/ED": 6,
-                        "SFX": 6
+                        "OP/ED": 6
                     },
                     "Animation": {
                         "Animation": 10,
@@ -22667,8 +22270,7 @@
                     "Sound": {
                         "OST/BGM": 9,
                         "Voiceacting": 8,
-                        "OP/ED": 10,
-                        "SFX": 8
+                        "OP/ED": 10
                     },
                     "Animation": {
                         "Animation": 8,
