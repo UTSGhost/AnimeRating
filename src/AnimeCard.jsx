@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { sumValues, round2decimals, getObjectiveScore, getSubjectiveScore, getScore } from './utils/scoreUtils.js';
+import { getCategoryScaledScore, round2decimals, getObjectiveScore, getSubjectiveScore, getScore } from './utils/scoreUtils.js';
 import { getDynamicHue } from './utils/colorUtils.js';
 import DOMPurify from 'dompurify';
 
@@ -21,12 +21,14 @@ export default function AnimeCard({ anime, showAdvanced, onToggle, activeSort, c
         activeSort[1] === title && 
         activeSort[2] === "all";
 
+        const scaledScore = getCategoryScaledScore(data, type, title);
+
         return (
             <div className="sub-cat-block" key={title}>
                 <h4 className={isHeaderHighlighted ? 'highlight' : ''}>
                     {title.replace('_', ' ').toUpperCase()} 
                     <span className="cat-total-score">
-                        ({round2decimals(sumValues(data))}/{config[type][title].max_score})
+                        ({round2decimals(scaledScore)}/{config[type][title].max_score})
                     </span>
                 </h4>
                 <ul>

@@ -5,11 +5,11 @@ export default function Infobox() {
     const [isOpen, setIsOpen] = useState(false);
 
     const infoBlocks = [
-        `Every anime is rated in two main areas: "Objective" and "Subjective," which both contribute 50% to the final score. Of course, a truly objective rating is impossible—especially for things like sound and music—but it serves as a baseline. These two main parts are divided into four mid-layer categories (two worth up to 15 points, two up to 10 points), which are then broken down into specific sub-criteria.`,
+        `Every anime is rated in two main areas: "Objective" and "Subjective," which both contribute 50% to the final score. Of course, a truly objective rating is impossible, but it serves as a baseline. These two main areas are divided into four mid-layer categories, which are then broken down into specific sub-criteria.`,
         
-        `These sub-criteria share a point pool. For example, if an anime gets a 10 in "Animation," it might have to get a 0 in "Character Design" just so the overarching "Art" category doesn't exceed its 10-point limit. Since an "average" sub-criteria score is 2, a completely average anime would end up with an overall rating of 6.5—which feels a bit too high. To balance this, some criteria naturally score lower or don't apply at all (like an "Antagonist" in a wholesome rom-com).`,
+        `Each sub-criterion is rated independently on a simple 1-10 scale. If a sub-criterion does not apply to a specific anime (like an "Antagonist" in a wholesome rom-com), a value of 0 or null is automatically ignored by the calculation, ensuring it does not unfairly drag down the overall score.`,
         
-        `I also use a flexible bonus/penalty system. I can give a category up to 2 points more or less than the strict max/min limits. This lets me reward an anime that absolutely excels in one specific area—or punish it for being outright trash. If "Animation" eats up the whole 10-point budget, I can still give "Character Design" 2 bonus points so it doesn't get completely ignored. This prevents shows from dominating the overall score just by having god-tier art, while keeping the ratings fair.`
+        `The system uses a Weighted RMS (Root Mean Square) calculation behind the scenes. This naturally rewards true excellence while heavily penalizing severe flaws. Finally, a dynamic range stretch factor is applied to ensure the final score utilizes the full 1-10 scale without clustering everything in a boring middle ground.`
     ];
 
     const handleDiscordClick = () => {

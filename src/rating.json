@@ -22620,48 +22620,48 @@
       "rating": {
         "objective": {
           "Characters": {
-            "Protagonist": 2,
+            "Protagonist": 4,
             "Antagonist": 0,
-            "Side Characters": 8,
-            "Realistic": 5
+            "Side Characters": 10,
+            "Realistic": 9
           },
           "Writing": {
-            "Ending": 3,
-            "Logical": 5,
-            "Plot": 4
+            "Ending": 6,
+            "Logical": 8,
+            "Plot": 9
           },
           "Sound": {
-            "OST/BGM": 3,
-            "Voiceacting": 0,
-            "OP/ED": 7.25,
-            "SFX": 0
+            "OST/BGM": 9,
+            "Voiceacting": 7,
+            "OP/ED": 10,
+            "SFX": 8
           },
           "Animation": {
-            "Animation": 3,
-            "Character Design": 3,
-            "Worldbuilding": 3
+            "Animation": 8,
+            "Character Design": 9,
+            "Worldbuilding": 8
           }
         },
         "subjective": {
           "Emotions": {
-            "Strong emotions": 5.5,
-            "Vibe": 5,
-            "Climax": 5
+            "Strong emotions": 10,
+            "Vibe": 10,
+            "Climax": 8
           },
           "Story": {
-            "Satisfying Ending": 0.5,
-            "No unnecessary scenes": 5,
-            "Enjoyable Content": 6
+            "Satisfying Ending": 3,
+            "No unnecessary scenes": 6,
+            "Enjoyable Content": 10
           },
           "Characters": {
-            "Likeable": 5,
-            "Standouts": 0,
-            "Synergy": 5
+            "Likeable": 8,
+            "Standouts": 10,
+            "Synergy": 10
           },
           "Memory": {
-            "Aftertaste": 3,
-            "Addictiveness": 2,
-            "Nostalgia": 4
+            "Aftertaste": 8,
+            "Addictiveness": 9,
+            "Nostalgia": 8
           }
         },
         "explain": "No review written yet"
