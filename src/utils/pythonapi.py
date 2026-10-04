@@ -131,7 +131,8 @@ def add_anime():
             existing_data['animes'][existing_anime_index] = new_anime_data
             feedback_message = f"Updated metadata for ID {new_anime_data['id']}."
         else:
-            feedback_message = f"Anime ID {new_anime_data['id']} already exists. No changes made."
+            messagebox.showinfo("Info", f"Anime ID {new_anime_data['id']} already exists. No changes made.")
+            return
     else:
         existing_data['animes'].append(new_anime_data)
         feedback_message = f"Added new anime: {new_anime_data['name']}"

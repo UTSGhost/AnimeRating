@@ -22626,8 +22626,8 @@
             "Realistic": 5
           },
           "Writing": {
-            "Ending": 2,
-            "Logical": 4,
+            "Ending": 3,
+            "Logical": 5,
             "Plot": 4
           },
           "Sound": {
@@ -22649,7 +22649,7 @@
             "Climax": 5
           },
           "Story": {
-            "Satisfying Ending": 3,
+            "Satisfying Ending": 0.5,
             "No unnecessary scenes": 5,
             "Enjoyable Content": 6
           },
