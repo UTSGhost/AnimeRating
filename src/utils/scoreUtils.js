@@ -40,13 +40,13 @@ export const getWeightedRMS = (categoryData) => {
     const { sumOfSquares, sumOfWeights } = validEntries.reduce((acc, [key, value]) => {
         // considers subweights if defined
         const weight = SUB_WEIGHTS[key] || 1.0;
-        
+
         return {
             sumOfSquares: acc.sumOfSquares + (weight * Math.pow(value, 2)),
             sumOfWeights: acc.sumOfWeights + weight
         };
     }, { sumOfSquares: 0, sumOfWeights: 0 });
-    
+
     // should be score between 1 and 10
     return Math.sqrt(sumOfSquares / sumOfWeights);
 };
@@ -62,7 +62,7 @@ export const getCategoryScaledScore = (categoryData, sectionType, categoryName) 
     // calculates rms and scales it up with the category multiplier
     const rmsScore = getWeightedRMS(categoryData);
     const multiplier = CATEGORY_MULTIPLIERS[sectionType][categoryName] || 1.0;
-    
+
     return rmsScore * multiplier;
 };
 
@@ -74,7 +74,7 @@ export const getCategoryScaledScore = (categoryData, sectionType, categoryName) 
  */
 export const getSectionScore = (sectionData, sectionType) => {
     // folds through all categories and calls function to calculate individual weighted scores before adding
-    return Object.entries(sectionData).reduce((total, [categoryName, categoryData]) => { 
+    return Object.entries(sectionData).reduce((total, [categoryName, categoryData]) => {
         return total + getCategoryScaledScore(categoryData, sectionType, categoryName);
     }, 0);
 };
@@ -91,17 +91,17 @@ export const getSubjectiveScore = (anime) => getSectionScore(anime.rating.subjec
 export const getScore = (anime) => {
     const totalObjective = getObjectiveScore(anime);
     const totalSubjective = getSubjectiveScore(anime);
-    
+
     const rawScore = (totalObjective + totalSubjective) / 10;
-    
+
     // --- SMART-STRETCH
     const center = 5.5;
     const deviation = rawScore - center;
-    
-    const strength = 0.02; 
+
+    const strength = 0.02;
 
     const stretchBoost = strength * deviation * (rawScore - 1) * (10 - rawScore);
-    
+
     const stretchedScore = rawScore + stretchBoost;
 
     return round2decimals(Math.max(1, Math.min(10, stretchedScore)));
