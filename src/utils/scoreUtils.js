@@ -83,28 +83,26 @@ export const getObjectiveScore = (anime) => getSectionScore(anime.rating.objecti
 export const getSubjectiveScore = (anime) => getSectionScore(anime.rating.subjective, 'subjective');
 
 /**
- * combines objective and subjective scores, stretches the dynamic range 
- * to fully utilize the 1-10 scale, and rounds the result
+ * combines objective and subjective scores, leaves the center (5.5) 
+ * mostly untouched, and stretches outwards towards the extremes
  * @param {*} anime anime object containing ratings
- * @returns {number} final stretched and rounded score on a 1-10 scale
+ * @returns {number} final smart-stretched and rounded score on a 1-10 scale
  */
 export const getScore = (anime) => {
-    const totalObjective = getObjectiveScore(anime); // Max 50
-    const totalSubjective = getSubjectiveScore(anime); // Max 50
+    const totalObjective = getObjectiveScore(anime);
+    const totalSubjective = getSubjectiveScore(anime);
     
-    // raw 0 - 10
     const rawScore = (totalObjective + totalSubjective) / 10;
     
-    // --- DYNAMIC RANGE EXPANSION ---
-    const targetMiddle = 5.5;
-    const distanceToMiddle = rawScore - targetMiddle;
+    // --- SMART-STRETCH
+    const center = 5.5;
+    const deviation = rawScore - center;
+    
+    const strength = 0.02; 
 
-    const stretchFactor = 0.8; 
+    const stretchBoost = strength * deviation * (rawScore - 1) * (10 - rawScore);
     
-    const stretchedScore = targetMiddle + Math.sign(distanceToMiddle) * Math.pow(Math.abs(distanceToMiddle) / 4.5, stretchFactor) * 4.5;
-    
+    const stretchedScore = rawScore + stretchBoost;
 
-    const finalScore = Math.max(1, Math.min(10, stretchedScore));
-    
-    return round2decimals(finalScore);
+    return round2decimals(Math.max(1, Math.min(10, stretchedScore)));
 };
