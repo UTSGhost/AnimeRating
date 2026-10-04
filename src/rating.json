@@ -29,7 +29,7 @@
       },
       "Characters": {
         "max_score": 10,
-        "criteria": ["Likeable", "Waifus", "Relationships"]
+        "criteria": ["Likeable", "Standouts", "Synergy"]
       },
       "Memory": {
         "max_score": 10,
@@ -83,8 +83,8 @@
           },
           "Characters": {
             "Likeable": -1,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -140,8 +140,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -197,8 +197,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 5
+            "Standouts": 0,
+            "Synergy": 5
           },
           "Memory": {
             "Aftertaste": 3,
@@ -254,8 +254,8 @@
           },
           "Characters": {
             "Likeable": -2,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": -2,
@@ -311,8 +311,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -368,8 +368,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -425,8 +425,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -482,8 +482,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 1,
@@ -539,8 +539,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -596,8 +596,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -653,8 +653,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 3,
@@ -710,8 +710,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 1,
@@ -767,8 +767,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -824,8 +824,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 1,
@@ -881,8 +881,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -938,8 +938,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -995,8 +995,8 @@
           },
           "Characters": {
             "Likeable": 9,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 5,
@@ -1052,8 +1052,8 @@
           },
           "Characters": {
             "Likeable": -1,
-            "Waifus": -1,
-            "Relationships": 0
+            "Standouts": -1,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": -1,
@@ -1109,8 +1109,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -1166,8 +1166,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 2,
-            "Relationships": 1
+            "Standouts": 2,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 2,
@@ -1223,8 +1223,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -1280,8 +1280,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 1,
@@ -1337,8 +1337,8 @@
           },
           "Characters": {
             "Likeable": 7,
-            "Waifus": 2,
-            "Relationships": 2
+            "Standouts": 2,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -1394,8 +1394,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 1,
@@ -1451,8 +1451,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 3
+            "Standouts": 2,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -1508,8 +1508,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -1565,8 +1565,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -1622,8 +1622,8 @@
           },
           "Characters": {
             "Likeable": 7,
-            "Waifus": 2,
-            "Relationships": 0
+            "Standouts": 2,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -1679,8 +1679,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -1736,8 +1736,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -1793,8 +1793,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -1850,8 +1850,8 @@
           },
           "Characters": {
             "Likeable": 7,
-            "Waifus": 2,
-            "Relationships": 2
+            "Standouts": 2,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 4,
@@ -1907,8 +1907,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 4,
@@ -1964,8 +1964,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 3
+            "Standouts": 2,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -2021,8 +2021,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 3,
-            "Relationships": 1
+            "Standouts": 3,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 4,
@@ -2078,8 +2078,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 0
+            "Standouts": 2,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -2135,8 +2135,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -2192,8 +2192,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 2,
-            "Relationships": 3
+            "Standouts": 2,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -2249,8 +2249,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 2,
-            "Relationships": 3
+            "Standouts": 2,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -2306,8 +2306,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -2363,8 +2363,8 @@
           },
           "Characters": {
             "Likeable": -1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": -1,
@@ -2420,8 +2420,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 4,
@@ -2477,8 +2477,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -2534,8 +2534,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 1,
-            "Relationships": 0
+            "Standouts": 1,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -2591,8 +2591,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 3,
-            "Relationships": 0
+            "Standouts": 3,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -2648,8 +2648,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 2,
@@ -2705,8 +2705,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 4
+            "Standouts": 2,
+            "Synergy": 4
           },
           "Memory": {
             "Addictiveness": 4,
@@ -2714,7 +2714,7 @@
             "Aftertaste": 5
           }
         },
-        "explain": "<p>Before you read this, remember: I love this Anime and I'm very biased towards it. Also go watch it now. Or atleast give me the chance to convince you doing so. Be careful though, you might get diabetes from cuteness overload.</p><p>Ano Natsu de Matteru or Waiting in the Summer or WITS, how I like to call it, like the Studio Wit, is a fantastic anime (this is the short version of the review, thank you for reading). There's barely anything more beautiful than a well-written romance with characters I can empathize with. Our Protagonist, 15 year old Kaito-kun with his glasses and fluffy hair. Also there's the main heroine Ichika-senpai, also with glasses, but we'll talk about her in another section, let's focus on main-character-kun for now. He loves filming with his camera. He literally records everything. And everyone without consent. He's a crimina- anyways, that's kinda foreshadowing a sad Ending, if you've watched enough Animes then you might get what I mean. Like, come on, how can he record literally everything and not show us a film at the end where everyone looks back and cries... (sorry for the potential spoiler but you'll still definitely tear up in the end). After a paragraph about how our 15 year old criminal is a cute Protagonist, let's take a look at our side characters and their Relationships, and oh wow, it's a love polygon. Each individual side character has a unique own personality which are even pretty rarely seen on Anime. Also I won't tell you why I gave 'Antagonist' 2 cheeky points because that'd for real be a spoiler this time, so go watch it now, or after reading my review. The story itself originates from the Anime Onegai Teacher, written by the same Author. I believe that it differs in some way, but since I've never actually watched Onegai Teacher, I should stay shut. Yeah 14/15 points for writing is fair, that's all. <br> The music, something that still makes me feel nostalgic, and probably will, for a long time. The opening theme as well as the Ending theme both represent the anime quite well (also bangers) and the OST is quite nice as well. Honestly nothing much more to say at this point, so let's move on, to the art. Animation was rather average even though it was definitely not bad. I liked the character designs and the world seems nice, especially since it was a leitmotif (aside from the camera and the glasses, if you count that too). </p><p> Phew, finally reached the 50% checkpoint. Now let's talk about the Emotions while watching and why I felt so. The whole Anime had a brilliant Vibe. It's Summer, we meet with our friends and do something nice. We meet a new girl, we Fall in love with her. Yes, <i>we</i>. Some parts made my heart melt because it was so cuteeeee <3, and even though I saw the conclusion from miles away, I still teared up. Story-wise, I liked it. I did hope for a more clear Ending (because the current one is kinda sneaky and only gives you a hint on the future), but overall, it was basically perfect. Your perfectly written Romance/Drama mixed with some Sci-Fi, so it's special in some way. I also enjoyed every bit of it. At least I cannot revise a boring scene on the spot. Nothing more to say. Now let's talk about the characters, or rather 2 specific ones. First up we have our Kaito-kun or Criminal-kun or whatever. I like him. He's a understandable main character. Not like in other romances, where your MC needs 3 season 2 OVAs and a movie to confess. He did it pretty early, if that's a spoiler. He also clearly decideds on one girl, arguebly the best girl. No, not just arguebly, but rather definitely. Let's switch to Takatsuki Ichika-senpai. The best girl. The one and only. The alien girl. I just love her. I cannot despise her. She's just too cute, and she and Kaito fit very well as a couple. They have such a Realistic chemistry. They seek each others nearth. They do romantic things. I have no idea what romantic things are and what couples normally do because I'm lonely, but that doesn't matter, because I get to watch this cute anime because escapism is a thing, and if you're also lonely, then go watch it. You'll feel better for a moment and then realize how lonely you are after watching it. Have fun. <br>-Ahem, I drifted off a bit. Anyways, this Anime will forever stay a cute core memory for me. Which is why it gets 10 points for the category Memory. Makes sense.</p><p>Go watch it, if you seek a cute romance. Go watch it, if you don't. Go watch it, if you already did. Go watch it, if you are right now (??). Bye.</p>"
+        "explain": "<p>Before you read this, remember: I love this Anime and I'm very biased towards it. Also go watch it now. Or atleast give me the chance to convince you doing so. Be careful though, you might get diabetes from cuteness overload.</p><p>Ano Natsu de Matteru or Waiting in the Summer or WITS, how I like to call it, like the Studio Wit, is a fantastic anime (this is the short version of the review, thank you for reading). There's barely anything more beautiful than a well-written romance with characters I can empathize with. Our Protagonist, 15 year old Kaito-kun with his glasses and fluffy hair. Also there's the main heroine Ichika-senpai, also with glasses, but we'll talk about her in another section, let's focus on main-character-kun for now. He loves filming with his camera. He literally records everything. And everyone without consent. He's a crimina- anyways, that's kinda foreshadowing a sad Ending, if you've watched enough Animes then you might get what I mean. Like, come on, how can he record literally everything and not show us a film at the end where everyone looks back and cries... (sorry for the potential spoiler but you'll still definitely tear up in the end). After a paragraph about how our 15 year old criminal is a cute Protagonist, let's take a look at our side characters and their Synergy, and oh wow, it's a love polygon. Each individual side character has a unique own personality which are even pretty rarely seen on Anime. Also I won't tell you why I gave 'Antagonist' 2 cheeky points because that'd for real be a spoiler this time, so go watch it now, or after reading my review. The story itself originates from the Anime Onegai Teacher, written by the same Author. I believe that it differs in some way, but since I've never actually watched Onegai Teacher, I should stay shut. Yeah 14/15 points for writing is fair, that's all. <br> The music, something that still makes me feel nostalgic, and probably will, for a long time. The opening theme as well as the Ending theme both represent the anime quite well (also bangers) and the OST is quite nice as well. Honestly nothing much more to say at this point, so let's move on, to the art. Animation was rather average even though it was definitely not bad. I liked the character designs and the world seems nice, especially since it was a leitmotif (aside from the camera and the glasses, if you count that too). </p><p> Phew, finally reached the 50% checkpoint. Now let's talk about the Emotions while watching and why I felt so. The whole Anime had a brilliant Vibe. It's Summer, we meet with our friends and do something nice. We meet a new girl, we Fall in love with her. Yes, <i>we</i>. Some parts made my heart melt because it was so cuteeeee <3, and even though I saw the conclusion from miles away, I still teared up. Story-wise, I liked it. I did hope for a more clear Ending (because the current one is kinda sneaky and only gives you a hint on the future), but overall, it was basically perfect. Your perfectly written Romance/Drama mixed with some Sci-Fi, so it's special in some way. I also enjoyed every bit of it. At least I cannot revise a boring scene on the spot. Nothing more to say. Now let's talk about the characters, or rather 2 specific ones. First up we have our Kaito-kun or Criminal-kun or whatever. I like him. He's a understandable main character. Not like in other romances, where your MC needs 3 season 2 OVAs and a movie to confess. He did it pretty early, if that's a spoiler. He also clearly decideds on one girl, arguebly the best girl. No, not just arguebly, but rather definitely. Let's switch to Takatsuki Ichika-senpai. The best girl. The one and only. The alien girl. I just love her. I cannot despise her. She's just too cute, and she and Kaito fit very well as a couple. They have such a Realistic chemistry. They seek each others nearth. They do romantic things. I have no idea what romantic things are and what couples normally do because I'm lonely, but that doesn't matter, because I get to watch this cute anime because escapism is a thing, and if you're also lonely, then go watch it. You'll feel better for a moment and then realize how lonely you are after watching it. Have fun. <br>-Ahem, I drifted off a bit. Anyways, this Anime will forever stay a cute core memory for me. Which is why it gets 10 points for the category Memory. Makes sense.</p><p>Go watch it, if you seek a cute romance. Go watch it, if you don't. Go watch it, if you already did. Go watch it, if you are right now (??). Bye.</p>"
       }
     },
     {
@@ -2762,8 +2762,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 3,
@@ -2819,8 +2819,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -2876,8 +2876,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -2933,8 +2933,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 2,
-            "Relationships": 2
+            "Standouts": 2,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 1,
@@ -2990,8 +2990,8 @@
           },
           "Characters": {
             "Likeable": 7,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 3,
@@ -3047,8 +3047,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -3104,8 +3104,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -3161,8 +3161,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 4,
@@ -3218,8 +3218,8 @@
           },
           "Characters": {
             "Likeable": 7,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 5,
@@ -3275,8 +3275,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -3332,8 +3332,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -3389,8 +3389,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -3446,8 +3446,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -3503,8 +3503,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -3560,8 +3560,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -3617,8 +3617,8 @@
           },
           "Characters": {
             "Likeable": -1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": -1,
@@ -3674,8 +3674,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -3731,8 +3731,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 1,
-            "Relationships": 3
+            "Standouts": 1,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 1,
@@ -3788,8 +3788,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 1,
-            "Relationships": 0
+            "Standouts": 1,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -3845,8 +3845,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 3,
@@ -3902,8 +3902,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -3959,8 +3959,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 2,
@@ -4016,8 +4016,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 2,
-            "Relationships": 2
+            "Standouts": 2,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 0,
@@ -4073,8 +4073,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -4130,8 +4130,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 5,
-            "Relationships": 2
+            "Standouts": 5,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -4187,8 +4187,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -4244,8 +4244,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 5,
@@ -4301,8 +4301,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -4358,8 +4358,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -4415,8 +4415,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 0
+            "Standouts": 2,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -4472,8 +4472,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -4529,8 +4529,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -4586,8 +4586,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -4643,8 +4643,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 5,
-            "Relationships": 2
+            "Standouts": 5,
+            "Synergy": 2
           },
           "Memory": {
             "Addictiveness": 2,
@@ -4700,8 +4700,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -4757,8 +4757,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -4814,8 +4814,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -4871,8 +4871,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -4928,8 +4928,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 2,
-            "Relationships": 2
+            "Standouts": 2,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 0,
@@ -4985,8 +4985,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 1,
-            "Relationships": 2
+            "Standouts": 1,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 1,
@@ -4994,7 +4994,7 @@
             "Nostalgia": 3
           }
         },
-        "explain": "<p>What a wild ride this was - Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru or just NouCome. After watching through all 10 episodes in just 4 hours or so, I surely have lots to say about this. I started to watch it after Renai Boukun and Rokujouma no Shinryakusha!?, and they all received my same treatment. I watched all three of them because of Youtube Compilations, they all have a similar genre, which is School/Harem/Romance/Comedy and maybe some Ecchi. I could bring some ERABE jokes, but I've already seen too many in the MAL top reviews, so I feel like that would be too unoriginal. So let's just start normally!</p><p>This Anime surely doesn't need to hide it's characters. They're all well written and they all love Amakusa Kanade, because that's just the genre. But maybe that is also the biggest problem about this type of Anime, anmely it's genre. But before I talk about the bad, let me explain my ratings for the characters. Our Protagonist Kanade seemed like a weirdo to me at first, before I knew anything about the gimmick. But after watching for a while, I could empathize really well with him. And after watching even more, I couldn't empathize at all with him. His decisions are mostly natural and he's quite smart for an Anime harem Protagonist. BUT SADLY he's also as dull as the average harem Protagonist. <span class='spoiler'>He does end up with Chocolat though, who I believe is the best girl, but wether you like her or any of the other girls more, at least we got an actual Ending istead of a harem Ending or an open Ending.</span> Nonetheless, I do think that he's mostly a good Protagonist, at least he got some balls. The Antagonist got points, even though there is none. You could argue that ERABE is the one, so I just gave it 2 points out of generosity. The side characters were great, we had our girls, who all were basically never seen before, at least the more important ones. I will not talk about all the generic stuff, because as already mentioned: simply based on the genre and tags, you already know half of the cast from memory of all the other same Animes... Writing-wise it wasn't anything too revolutionary, I liked the Plot but similar ones already existed, and they all tend to have the same genre and tags for some reason... (like fr, what's with the School/Harem/Romance/Comedy(/Ecchi) Combo? But that's what people like, myself included, because it's fun and easy to watch and might even stay in memory). I spoilered myself the Ending (of the LN) by reading a million different posts on a million different webpages, but nobody really knows it exactly (besides maybe <a href='https://myanimelist.net/forum/?topicid=1481614' target='_blank'>this</a>, edit: I also found <a href='https://www.reddit.com/r/NouCome/comments/ezue3i/light_novel_summaries/' target='_blank'>this</a> to be helpful), however, from what I've read, it seemed like we got a real conclusion! (Look at the spoiler above to... spoiler yourself) Logical was the only low score in that category because there were moments where you just thought: why? Ahem, but you can also blame the genre for that. Going on, the music was decent. The OP and ED were nice but not bangers, and the VAs were rather unfamous. I still loved Kanade's voice and all his voicecracks to it's fullest! The art was average, so it got an average score (which kinda seems pretty high, but trust me, it's actually average!)</p><p>Phew, I can feel that this review will be a long one. But after watching the same thing for 4 hours with very little breaks, I have lots more to talk about. Now we've come to the more fun part. And talking about fun, this Anime was fun. It was incredible comedic and had me cracking up way too often. I basically had a perma grin on my face. But maaaybe that's the fault of another emotional factor, which is the cringe. And oh dear, it was cringy af. I honestly don't know wether it's good or bad, but it <i>is</i>. I'd honestly give 'Strong Emotions' 8 points or more if they managed to keep it that funny without me literally needing to pause it and roll on the floor for a minute. Literally. I did that. I know. Subjectively, the story was weak in many parts. Especially the more serious ones. And that might be connected with the characters. But before I write another 200 words paragraph about the characters and the problems I had with them, it's time for my sponsor- I mean the explanation why I gave 'Enjoyable Content' a 7, which is simply because I enjoyed it a lot (because of funny).<br><br>(Wow, I never used that many paragraphs and line breaks in one review, might want to keep it this way, so my reviews look longer and are better structured, making it an easier read) <br>THE CHARACTERS and how I feel about their BEHAVIOUR (not good). The biggest problem I had was the cringe. I couldn't take things seriously, but to be fair, it wasn't a deadly serious Anime. Still, some parts hurt to watch, and the one to blame the most was probably Kanade. You see, he has a hard life, forced to do whatever bs. But at some moments, he could've taken the initiative better. But then the author is like:'Oh no he won't Fall in love for 11.9 volumes because I want to milk out more content with a virgin'. I don't think I explained that well. But if you watch the Anime, you most likely will understand. Sometimes, he just feels too much like the generic 'nice guy' MC, surrounded by girls even though he's weak af and getting beaten up by guy every 2 minutes (Oh also I want to mention the one guy who's in love with Kanade's ass. Best boy). And watching a pathetic guy is rather not fun. But not only that, the behaviour from some others were ilLogical too. Why is Yukihira like how she is? Well I shouldn't be too harsh to people with social anxiety or I'll get cancelled on twitter, instead I'd ask myself: why is Kanade fine getting punched by her rather hefty. Also why's the teacher a legal loli, but that's also to blame on the fact that this is a harem Anime. WHICH is also an exuse for the absence of Kanade's parents or almost any parents as well as the unimportance of background characters. The others don't even ask themselfs why everything only revolves around our main cast. But as I said, blame the genre. And the author. Some scenes, which were used as comedic factors, but also to give us more information about the story, mostly end in nothing. They are mysteriously gone because of ERABE or the 'forget-last-5-minutes' thing (which is basically violence) or some unlucky encounters. I'd wish to see Chocolat (MAYBE MINOR MINOR SPOILER) stay in her normal form in ep7, but no, she just turns back in the same episode. At least the spoiler tag above will tell you more. Same with the developement of the relationship between Yukihira and Kanade, or rather the Relationships between Kanade and everyone. It's just so <i>slow</i>, and for no good reason. But as I already mentioned, it's mostly to blame the genre. The difference is, that this time it could've been much better if there was more progress, while other Animes, such as Renai Boukun don't need that progress, because they simply don't progress (which is not a good solution, please). Or Animes like TWOGK, which might progress slowly, but the characters aren't just brain dead in love with some pathetic guy (Wow I surely wrote a lot in this paragraph).</p><p>To come to an end, I will now come to an end... My previously mentioned issues didn't contribute to the failure of the category 'Characters' under Subjective, but they demonstrate the problem within the whole Anime, which is why I couldn't bring myself to rate this any higher, even though the comedic factor was like a 9, way higher than the comedic factors of Renai Boukun or Rokujyouma. But hey, for the characters category, I still gave some points, especially because Chocolat is such a cutie. I honestly cannot even decide between her 2 states, but that only means that I'm fine with either of them, which is a good thing. And for the last category, it got a pretty high score just because of how Addictiveness it was, since I watched it all basically in one go. The Aftertaste I feel right now is huge, but sadly not positive enough for my taste. Even the LN Ending didn't fully satisfy me, regardless of how well or badly-written the Anime Ending was.</p><p>My final conclusion: I forgot what I wrote about for the past 40 minutes, lemme look it up again. Mhm. Oh, I remember again, just like how Chocolat did... which makes me sad. It makes me sad because this Anime was great. It was great because it was funny. It was great because it had great characters. It was great because you could watch it in one go without thinking. But I made a mistake. I thought about it, too deeply to be exact. And that ruined it for me. I cannot handle the cringe, if I know that it would just resolve in air. The romance was good, but again was it actually good or yet maybe bad, because it couldn't resolve in a satisfying Ending. Overall, you should watch it if you want to laugh. But please accept the stupid actions of the characters and don't ask too many questions like I did. Thank you. And bye (Oh that reminds me that I forgot about saying bye in my previous few reviews)."
+        "explain": "<p>What a wild ride this was - Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru or just NouCome. After watching through all 10 episodes in just 4 hours or so, I surely have lots to say about this. I started to watch it after Renai Boukun and Rokujouma no Shinryakusha!?, and they all received my same treatment. I watched all three of them because of Youtube Compilations, they all have a similar genre, which is School/Harem/Romance/Comedy and maybe some Ecchi. I could bring some ERABE jokes, but I've already seen too many in the MAL top reviews, so I feel like that would be too unoriginal. So let's just start normally!</p><p>This Anime surely doesn't need to hide it's characters. They're all well written and they all love Amakusa Kanade, because that's just the genre. But maybe that is also the biggest problem about this type of Anime, anmely it's genre. But before I talk about the bad, let me explain my ratings for the characters. Our Protagonist Kanade seemed like a weirdo to me at first, before I knew anything about the gimmick. But after watching for a while, I could empathize really well with him. And after watching even more, I couldn't empathize at all with him. His decisions are mostly natural and he's quite smart for an Anime harem Protagonist. BUT SADLY he's also as dull as the average harem Protagonist. <span class='spoiler'>He does end up with Chocolat though, who I believe is the best girl, but wether you like her or any of the other girls more, at least we got an actual Ending istead of a harem Ending or an open Ending.</span> Nonetheless, I do think that he's mostly a good Protagonist, at least he got some balls. The Antagonist got points, even though there is none. You could argue that ERABE is the one, so I just gave it 2 points out of generosity. The side characters were great, we had our girls, who all were basically never seen before, at least the more important ones. I will not talk about all the generic stuff, because as already mentioned: simply based on the genre and tags, you already know half of the cast from memory of all the other same Animes... Writing-wise it wasn't anything too revolutionary, I liked the Plot but similar ones already existed, and they all tend to have the same genre and tags for some reason... (like fr, what's with the School/Harem/Romance/Comedy(/Ecchi) Combo? But that's what people like, myself included, because it's fun and easy to watch and might even stay in memory). I spoilered myself the Ending (of the LN) by reading a million different posts on a million different webpages, but nobody really knows it exactly (besides maybe <a href='https://myanimelist.net/forum/?topicid=1481614' target='_blank'>this</a>, edit: I also found <a href='https://www.reddit.com/r/NouCome/comments/ezue3i/light_novel_summaries/' target='_blank'>this</a> to be helpful), however, from what I've read, it seemed like we got a real conclusion! (Look at the spoiler above to... spoiler yourself) Logical was the only low score in that category because there were moments where you just thought: why? Ahem, but you can also blame the genre for that. Going on, the music was decent. The OP and ED were nice but not bangers, and the VAs were rather unfamous. I still loved Kanade's voice and all his voicecracks to it's fullest! The art was average, so it got an average score (which kinda seems pretty high, but trust me, it's actually average!)</p><p>Phew, I can feel that this review will be a long one. But after watching the same thing for 4 hours with very little breaks, I have lots more to talk about. Now we've come to the more fun part. And talking about fun, this Anime was fun. It was incredible comedic and had me cracking up way too often. I basically had a perma grin on my face. But maaaybe that's the fault of another emotional factor, which is the cringe. And oh dear, it was cringy af. I honestly don't know wether it's good or bad, but it <i>is</i>. I'd honestly give 'Strong Emotions' 8 points or more if they managed to keep it that funny without me literally needing to pause it and roll on the floor for a minute. Literally. I did that. I know. Subjectively, the story was weak in many parts. Especially the more serious ones. And that might be connected with the characters. But before I write another 200 words paragraph about the characters and the problems I had with them, it's time for my sponsor- I mean the explanation why I gave 'Enjoyable Content' a 7, which is simply because I enjoyed it a lot (because of funny).<br><br>(Wow, I never used that many paragraphs and line breaks in one review, might want to keep it this way, so my reviews look longer and are better structured, making it an easier read) <br>THE CHARACTERS and how I feel about their BEHAVIOUR (not good). The biggest problem I had was the cringe. I couldn't take things seriously, but to be fair, it wasn't a deadly serious Anime. Still, some parts hurt to watch, and the one to blame the most was probably Kanade. You see, he has a hard life, forced to do whatever bs. But at some moments, he could've taken the initiative better. But then the author is like:'Oh no he won't Fall in love for 11.9 volumes because I want to milk out more content with a virgin'. I don't think I explained that well. But if you watch the Anime, you most likely will understand. Sometimes, he just feels too much like the generic 'nice guy' MC, surrounded by girls even though he's weak af and getting beaten up by guy every 2 minutes (Oh also I want to mention the one guy who's in love with Kanade's ass. Best boy). And watching a pathetic guy is rather not fun. But not only that, the behaviour from some others were ilLogical too. Why is Yukihira like how she is? Well I shouldn't be too harsh to people with social anxiety or I'll get cancelled on twitter, instead I'd ask myself: why is Kanade fine getting punched by her rather hefty. Also why's the teacher a legal loli, but that's also to blame on the fact that this is a harem Anime. WHICH is also an exuse for the absence of Kanade's parents or almost any parents as well as the unimportance of background characters. The others don't even ask themselfs why everything only revolves around our main cast. But as I said, blame the genre. And the author. Some scenes, which were used as comedic factors, but also to give us more information about the story, mostly end in nothing. They are mysteriously gone because of ERABE or the 'forget-last-5-minutes' thing (which is basically violence) or some unlucky encounters. I'd wish to see Chocolat (MAYBE MINOR MINOR SPOILER) stay in her normal form in ep7, but no, she just turns back in the same episode. At least the spoiler tag above will tell you more. Same with the developement of the relationship between Yukihira and Kanade, or rather the Synergy between Kanade and everyone. It's just so <i>slow</i>, and for no good reason. But as I already mentioned, it's mostly to blame the genre. The difference is, that this time it could've been much better if there was more progress, while other Animes, such as Renai Boukun don't need that progress, because they simply don't progress (which is not a good solution, please). Or Animes like TWOGK, which might progress slowly, but the characters aren't just brain dead in love with some pathetic guy (Wow I surely wrote a lot in this paragraph).</p><p>To come to an end, I will now come to an end... My previously mentioned issues didn't contribute to the failure of the category 'Characters' under Subjective, but they demonstrate the problem within the whole Anime, which is why I couldn't bring myself to rate this any higher, even though the comedic factor was like a 9, way higher than the comedic factors of Renai Boukun or Rokujyouma. But hey, for the characters category, I still gave some points, especially because Chocolat is such a cutie. I honestly cannot even decide between her 2 states, but that only means that I'm fine with either of them, which is a good thing. And for the last category, it got a pretty high score just because of how Addictiveness it was, since I watched it all basically in one go. The Aftertaste I feel right now is huge, but sadly not positive enough for my taste. Even the LN Ending didn't fully satisfy me, regardless of how well or badly-written the Anime Ending was.</p><p>My final conclusion: I forgot what I wrote about for the past 40 minutes, lemme look it up again. Mhm. Oh, I remember again, just like how Chocolat did... which makes me sad. It makes me sad because this Anime was great. It was great because it was funny. It was great because it had great characters. It was great because you could watch it in one go without thinking. But I made a mistake. I thought about it, too deeply to be exact. And that ruined it for me. I cannot handle the cringe, if I know that it would just resolve in air. The romance was good, but again was it actually good or yet maybe bad, because it couldn't resolve in a satisfying Ending. Overall, you should watch it if you want to laugh. But please accept the stupid actions of the characters and don't ask too many questions like I did. Thank you. And bye (Oh that reminds me that I forgot about saying bye in my previous few reviews)."
       }
     },
     {
@@ -5042,8 +5042,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -5099,8 +5099,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 1,
@@ -5156,8 +5156,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -5213,8 +5213,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 1,
-            "Relationships": 2
+            "Standouts": 1,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -5270,8 +5270,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 2,
@@ -5327,8 +5327,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 1,
-            "Relationships": 1
+            "Standouts": 1,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 2,
@@ -5384,8 +5384,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 0,
@@ -5441,8 +5441,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 4,
@@ -5498,8 +5498,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 1,
@@ -5555,8 +5555,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 2,
@@ -5612,8 +5612,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 1,
-            "Relationships": 4
+            "Standouts": 1,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 3,
@@ -5669,8 +5669,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 2,
@@ -5726,8 +5726,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 1
+            "Standouts": 2,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 2,
@@ -5783,8 +5783,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -5840,8 +5840,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -5897,8 +5897,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 3,
@@ -5954,8 +5954,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 0
+            "Standouts": 2,
+            "Synergy": 0
           },
           "Memory": {
             "Addictiveness": 1,
@@ -6011,8 +6011,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -6068,8 +6068,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 1,
-            "Relationships": 2
+            "Standouts": 1,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 1,
@@ -6125,8 +6125,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 2,
-            "Relationships": 0
+            "Standouts": 2,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -6182,8 +6182,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 1,
@@ -6239,8 +6239,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 2,
@@ -6296,8 +6296,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -6353,8 +6353,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -6410,8 +6410,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 4,
@@ -6467,8 +6467,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -6524,8 +6524,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 1,
-            "Relationships": 0
+            "Standouts": 1,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -6581,8 +6581,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -6638,8 +6638,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 4,
@@ -6695,8 +6695,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -6752,8 +6752,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -6809,8 +6809,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -6866,8 +6866,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -6923,8 +6923,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -6980,8 +6980,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -7037,8 +7037,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 1,
-            "Relationships": 1
+            "Standouts": 1,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 0,
@@ -7094,8 +7094,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -7151,8 +7151,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -7208,8 +7208,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 4,
@@ -7265,8 +7265,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -7322,8 +7322,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 0,
@@ -7379,8 +7379,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -7436,8 +7436,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 3,
-            "Relationships": 3
+            "Standouts": 3,
+            "Synergy": 3
           },
           "Memory": {
             "Addictiveness": 3,
@@ -7493,8 +7493,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -7550,8 +7550,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -7607,8 +7607,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -7664,8 +7664,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 1,
@@ -7721,8 +7721,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -7778,8 +7778,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -7835,8 +7835,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 4,
-            "Relationships": 0
+            "Standouts": 4,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -7892,8 +7892,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": -2
+            "Standouts": 0,
+            "Synergy": -2
           },
           "Memory": {
             "Aftertaste": -2,
@@ -7949,8 +7949,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8006,8 +8006,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 2,
@@ -8063,8 +8063,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8120,8 +8120,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -8177,8 +8177,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8234,8 +8234,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8291,8 +8291,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8348,8 +8348,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8405,8 +8405,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8462,8 +8462,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8519,8 +8519,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8576,8 +8576,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 1,
-            "Relationships": 3
+            "Standouts": 1,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -8633,8 +8633,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8690,8 +8690,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Addictiveness": 2,
@@ -8747,8 +8747,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8804,8 +8804,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8861,8 +8861,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8918,8 +8918,8 @@
           },
           "Characters": {
             "Likeable": -2,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -8975,8 +8975,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9032,8 +9032,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9089,8 +9089,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -9146,8 +9146,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -9203,8 +9203,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9260,8 +9260,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9317,8 +9317,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9374,8 +9374,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9431,8 +9431,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9488,8 +9488,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9545,8 +9545,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9602,8 +9602,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -9659,8 +9659,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9716,8 +9716,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9773,8 +9773,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9830,8 +9830,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -9887,8 +9887,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -9944,8 +9944,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 4,
@@ -10001,8 +10001,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10058,8 +10058,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10115,8 +10115,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10172,8 +10172,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10229,8 +10229,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10286,8 +10286,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 3,
-            "Relationships": 0
+            "Standouts": 3,
+            "Synergy": 0
           },
           "Memory": {
             "Addictiveness": 2,
@@ -10343,8 +10343,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10400,8 +10400,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10457,8 +10457,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10514,8 +10514,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10571,8 +10571,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10628,8 +10628,8 @@
           },
           "Characters": {
             "Likeable": -1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10685,8 +10685,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10742,8 +10742,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10799,8 +10799,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10856,8 +10856,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -10913,8 +10913,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 3
+            "Standouts": 2,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 1,
@@ -10970,8 +10970,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11027,8 +11027,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 2,
-            "Relationships": 2
+            "Standouts": 2,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11084,8 +11084,8 @@
           },
           "Characters": {
             "Likeable": -1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11141,8 +11141,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11198,8 +11198,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11255,8 +11255,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -11312,8 +11312,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11369,8 +11369,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11426,8 +11426,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11483,8 +11483,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11540,8 +11540,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2.5,
@@ -11597,8 +11597,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11654,8 +11654,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 2,
-            "Relationships": 3
+            "Standouts": 2,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 4,
@@ -11711,8 +11711,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11768,8 +11768,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11825,8 +11825,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11882,8 +11882,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11939,8 +11939,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -11996,8 +11996,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 4,
-            "Relationships": 1
+            "Standouts": 4,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 3,
@@ -12053,8 +12053,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12110,8 +12110,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 1,
-            "Relationships": 0
+            "Standouts": 1,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 4,
@@ -12167,8 +12167,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12224,8 +12224,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 1,
@@ -12281,8 +12281,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -12338,8 +12338,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 5,
-            "Relationships": 1
+            "Standouts": 5,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 3,
@@ -12395,8 +12395,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12452,8 +12452,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 4,
@@ -12509,8 +12509,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12566,8 +12566,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12623,8 +12623,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12680,8 +12680,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12737,8 +12737,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12794,8 +12794,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12851,8 +12851,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12908,8 +12908,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 0,
@@ -12965,8 +12965,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13022,8 +13022,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 1,
@@ -13079,8 +13079,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13136,8 +13136,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13193,8 +13193,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13250,8 +13250,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 4,
@@ -13307,8 +13307,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13364,8 +13364,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 2,
@@ -13421,8 +13421,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13478,8 +13478,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 1,
@@ -13535,8 +13535,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 2
+            "Standouts": 2,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -13592,8 +13592,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 1,
-            "Relationships": 1
+            "Standouts": 1,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 4,
@@ -13649,8 +13649,8 @@
           },
           "Characters": {
             "Likeable": 1.5,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -13706,8 +13706,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13763,8 +13763,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 2,
-            "Relationships": 2
+            "Standouts": 2,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13820,8 +13820,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13877,8 +13877,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13934,8 +13934,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -13991,8 +13991,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14048,8 +14048,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 4,
@@ -14105,8 +14105,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14162,8 +14162,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14219,8 +14219,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 3,
@@ -14276,8 +14276,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14333,8 +14333,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": -2,
@@ -14390,8 +14390,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14447,8 +14447,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14504,8 +14504,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14561,8 +14561,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14618,8 +14618,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14675,8 +14675,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14732,8 +14732,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14789,8 +14789,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 5
+            "Standouts": 0,
+            "Synergy": 5
           },
           "Memory": {
             "Aftertaste": 4,
@@ -14846,8 +14846,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -14903,8 +14903,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 2,
-            "Relationships": 2
+            "Standouts": 2,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -14960,8 +14960,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3.5,
@@ -15017,8 +15017,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 1.75,
@@ -15074,8 +15074,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -15131,8 +15131,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 1,
-            "Relationships": 5
+            "Standouts": 1,
+            "Synergy": 5
           },
           "Memory": {
             "Addictiveness": 4,
@@ -15188,8 +15188,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -15245,8 +15245,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -15302,8 +15302,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -15359,8 +15359,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -15416,8 +15416,8 @@
           },
           "Characters": {
             "Likeable": -1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -15473,8 +15473,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -15530,8 +15530,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 5,
@@ -15587,8 +15587,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -15644,8 +15644,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 2,
@@ -15701,8 +15701,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -15758,8 +15758,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -15815,8 +15815,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 3
+            "Standouts": 2,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 0,
@@ -15872,8 +15872,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -15929,8 +15929,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -15986,8 +15986,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16043,8 +16043,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 4,
@@ -16100,8 +16100,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16157,8 +16157,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -16214,8 +16214,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16271,8 +16271,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16328,8 +16328,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 4,
@@ -16385,8 +16385,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16442,8 +16442,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16499,8 +16499,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16556,8 +16556,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16613,8 +16613,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16670,8 +16670,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16727,8 +16727,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Addictiveness": 2,
@@ -16784,8 +16784,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Addictiveness": 0,
@@ -16841,8 +16841,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 5
+            "Standouts": 0,
+            "Synergy": 5
           },
           "Memory": {
             "Aftertaste": 3,
@@ -16898,8 +16898,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -16955,8 +16955,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -17012,8 +17012,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Addictiveness": 0,
@@ -17069,8 +17069,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 0,
@@ -17126,8 +17126,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 5,
@@ -17183,8 +17183,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -17240,8 +17240,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -17297,8 +17297,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Addictiveness": 3,
@@ -17354,8 +17354,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -17411,8 +17411,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Addictiveness": 2,
@@ -17468,8 +17468,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -17525,8 +17525,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Addictiveness": 0,
@@ -17582,8 +17582,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -17639,8 +17639,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2.7
+            "Standouts": 0,
+            "Synergy": 2.7
           },
           "Memory": {
             "Aftertaste": 3,
@@ -17696,8 +17696,8 @@
           },
           "Characters": {
             "Likeable": 1.8,
-            "Waifus": 0,
-            "Relationships": 0.75
+            "Standouts": 0,
+            "Synergy": 0.75
           },
           "Memory": {
             "Aftertaste": 1,
@@ -17753,8 +17753,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -17810,8 +17810,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -17867,8 +17867,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 1.5
+            "Standouts": 0,
+            "Synergy": 1.5
           },
           "Memory": {
             "Aftertaste": 0.6,
@@ -17924,8 +17924,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -17981,8 +17981,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -18038,8 +18038,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -18095,8 +18095,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Addictiveness": 3,
@@ -18152,8 +18152,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -18209,8 +18209,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -18266,8 +18266,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 4,
@@ -18323,8 +18323,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Addictiveness": 5,
@@ -18380,8 +18380,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -18437,8 +18437,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -18494,8 +18494,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 1,
-            "Relationships": 1
+            "Standouts": 1,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 2,
@@ -18551,8 +18551,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Addictiveness": 0,
@@ -18608,8 +18608,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 6
+            "Standouts": 0,
+            "Synergy": 6
           },
           "Memory": {
             "Aftertaste": 3,
@@ -18665,8 +18665,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 6
+            "Standouts": 0,
+            "Synergy": 6
           },
           "Memory": {
             "Aftertaste": 3,
@@ -18722,8 +18722,8 @@
           },
           "Characters": {
             "Likeable": 1.5,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2.2,
@@ -18779,8 +18779,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Addictiveness": 0,
@@ -18836,8 +18836,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -18893,8 +18893,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -18950,8 +18950,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Addictiveness": 1,
@@ -19007,8 +19007,8 @@
           },
           "Characters": {
             "Likeable": 6,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -19064,8 +19064,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -19121,8 +19121,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 2,
@@ -19178,8 +19178,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -19235,8 +19235,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Addictiveness": 1,
@@ -19292,8 +19292,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -19349,8 +19349,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -19406,8 +19406,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Addictiveness": 1,
@@ -19463,8 +19463,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -19520,8 +19520,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Addictiveness": 1,
@@ -19577,8 +19577,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -19634,8 +19634,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 3,
-            "Relationships": 0
+            "Standouts": 3,
+            "Synergy": 0
           },
           "Memory": {
             "Addictiveness": 3,
@@ -19691,8 +19691,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 4,
@@ -19748,8 +19748,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 1
+            "Standouts": 2,
+            "Synergy": 1
           },
           "Memory": {
             "Addictiveness": 7,
@@ -19805,8 +19805,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 1.18
+            "Standouts": 0,
+            "Synergy": 1.18
           },
           "Memory": {
             "Aftertaste": 2,
@@ -19862,8 +19862,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 3,
@@ -19919,8 +19919,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 2
+            "Standouts": 2,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 4,
@@ -19976,8 +19976,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 1,
@@ -20033,8 +20033,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Addictiveness": 0,
@@ -20090,8 +20090,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Addictiveness": 1,
@@ -20147,8 +20147,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 5
+            "Standouts": 0,
+            "Synergy": 5
           },
           "Memory": {
             "Addictiveness": 2,
@@ -20204,8 +20204,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 0.2,
@@ -20261,8 +20261,8 @@
           },
           "Characters": {
             "Likeable": 1.1,
-            "Waifus": 0,
-            "Relationships": 0.5
+            "Standouts": 0,
+            "Synergy": 0.5
           },
           "Memory": {
             "Aftertaste": 2,
@@ -20318,8 +20318,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 1,
@@ -20375,8 +20375,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 4,
-            "Relationships": 2
+            "Standouts": 4,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2.3,
@@ -20432,8 +20432,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 4,
-            "Relationships": 0
+            "Standouts": 4,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 3,
@@ -20489,8 +20489,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -20546,8 +20546,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 2,
-            "Relationships": 1.5
+            "Standouts": 2,
+            "Synergy": 1.5
           },
           "Memory": {
             "Aftertaste": 3,
@@ -20603,8 +20603,8 @@
           },
           "Characters": {
             "Likeable": 1,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 2,
@@ -20660,8 +20660,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 3,
@@ -20717,8 +20717,8 @@
           },
           "Characters": {
             "Likeable": 1.8,
-            "Waifus": 0,
-            "Relationships": 4.2
+            "Standouts": 0,
+            "Synergy": 4.2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -20774,8 +20774,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 2,
@@ -20831,8 +20831,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 1,
@@ -20888,8 +20888,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3.5
+            "Standouts": 0,
+            "Synergy": 3.5
           },
           "Memory": {
             "Aftertaste": 4,
@@ -20945,8 +20945,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -21002,8 +21002,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 1,
-            "Relationships": 3
+            "Standouts": 1,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -21059,8 +21059,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -21116,8 +21116,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -21173,8 +21173,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3.5
+            "Standouts": 0,
+            "Synergy": 3.5
           },
           "Memory": {
             "Aftertaste": 4,
@@ -21230,8 +21230,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -21287,8 +21287,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -21344,8 +21344,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 1.5,
@@ -21401,8 +21401,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 2,
@@ -21458,8 +21458,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -21515,8 +21515,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 5,
@@ -21572,8 +21572,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -21629,8 +21629,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 1.5
+            "Standouts": 0,
+            "Synergy": 1.5
           },
           "Memory": {
             "Aftertaste": 1,
@@ -21686,8 +21686,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 5
+            "Standouts": 0,
+            "Synergy": 5
           },
           "Memory": {
             "Aftertaste": 2.5,
@@ -21743,8 +21743,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3.1
+            "Standouts": 0,
+            "Synergy": 3.1
           },
           "Memory": {
             "Aftertaste": 3.15,
@@ -21800,8 +21800,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 3,
@@ -21857,8 +21857,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 2,
@@ -21914,8 +21914,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -21971,8 +21971,8 @@
           },
           "Characters": {
             "Likeable": 3.5,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -22028,8 +22028,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -22085,8 +22085,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 4,
@@ -22142,8 +22142,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 3,
@@ -22199,8 +22199,8 @@
           },
           "Characters": {
             "Likeable": 3.5,
-            "Waifus": 0,
-            "Relationships": 3
+            "Standouts": 0,
+            "Synergy": 3
           },
           "Memory": {
             "Aftertaste": 2,
@@ -22256,8 +22256,8 @@
           },
           "Characters": {
             "Likeable": 4,
-            "Waifus": 0,
-            "Relationships": 3.5
+            "Standouts": 0,
+            "Synergy": 3.5
           },
           "Memory": {
             "Aftertaste": 2,
@@ -22313,8 +22313,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 1
+            "Standouts": 0,
+            "Synergy": 1
           },
           "Memory": {
             "Aftertaste": 1,
@@ -22370,8 +22370,8 @@
           },
           "Characters": {
             "Likeable": 4.35,
-            "Waifus": 0,
-            "Relationships": 4
+            "Standouts": 0,
+            "Synergy": 4
           },
           "Memory": {
             "Aftertaste": 1,
@@ -22427,8 +22427,8 @@
           },
           "Characters": {
             "Likeable": 2,
-            "Waifus": 0,
-            "Relationships": 7
+            "Standouts": 0,
+            "Synergy": 7
           },
           "Memory": {
             "Aftertaste": 3,
@@ -22484,8 +22484,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 2
+            "Standouts": 0,
+            "Synergy": 2
           },
           "Memory": {
             "Aftertaste": 1.5,
@@ -22541,8 +22541,8 @@
           },
           "Characters": {
             "Likeable": 0,
-            "Waifus": 0,
-            "Relationships": 0
+            "Standouts": 0,
+            "Synergy": 0
           },
           "Memory": {
             "Aftertaste": 0,
@@ -22598,8 +22598,8 @@
           },
           "Characters": {
             "Likeable": 3,
-            "Waifus": 0,
-            "Relationships": 6
+            "Standouts": 0,
+            "Synergy": 6
           },
           "Memory": {
             "Aftertaste": 4,
@@ -22655,8 +22655,8 @@
           },
           "Characters": {
             "Likeable": 5,
-            "Waifus": 0,
-            "Relationships": 5
+            "Standouts": 0,
+            "Synergy": 5
           },
           "Memory": {
             "Aftertaste": 3,

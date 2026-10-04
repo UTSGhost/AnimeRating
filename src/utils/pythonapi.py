@@ -76,7 +76,7 @@ def get_anime_data(anime_id):
                     "Satisfying Ending": 0, "No unnecessary scenes": 0, "Enjoyable Content": 0
                 },
                 "Characters": {
-                    "Likeable": 0, "Waifus": 0, "Relationships": 0
+                    "Likeable": 0, "Standouts": 0, "Synergy": 0
                 },
                 "Memory": {
                     "Aftertaste": 0, "Addictiveness": 0, "Nostalgia": 0
