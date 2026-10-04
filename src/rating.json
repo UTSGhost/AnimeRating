@@ -4015,48 +4015,48 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 3,
-                        "Antagonist": 4,
-                        "Side Characters": 3,
-                        "Realistic": 1
+                        "Protagonist": 6,
+                        "Antagonist": 8,
+                        "Side Characters": 7,
+                        "Realistic": 5
                     },
                     "Writing": {
-                        "Ending": 3,
-                        "Logical": 2,
-                        "Plot": 4
+                        "Ending": 7,
+                        "Logical": 6,
+                        "Plot": 8
                     },
                     "Sound": {
-                        "OST/BGM": 3,
-                        "Voiceacting": 1,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OST/BGM": 8,
+                        "Voiceacting": 7,
+                        "OP/ED": 8,
+                        "SFX": 7
                     },
                     "Animation": {
-                        "Animation": 2,
-                        "Character Design": 3,
-                        "Worldbuilding": 2
+                        "Animation": 6,
+                        "Character Design": 8,
+                        "Worldbuilding": 7
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 6,
-                        "Vibe": 3,
-                        "Climax": 2
+                        "Strong emotions": 8,
+                        "Vibe": 6,
+                        "Climax": 6
                     },
                     "Story": {
-                        "Satisfying Ending": 3,
-                        "No unnecessary scenes": 3,
-                        "Enjoyable Content": 5
+                        "Satisfying Ending": 6,
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 8
                     },
                     "Characters": {
-                        "Likeable": 3,
-                        "Standouts": 2,
-                        "Synergy": 2
+                        "Likeable": 9,
+                        "Standouts": 8,
+                        "Synergy": 6
                     },
                     "Memory": {
-                        "Aftertaste": 0,
-                        "Addictiveness": 3,
-                        "Nostalgia": 3
+                        "Aftertaste": 5,
+                        "Addictiveness": 5,
+                        "Nostalgia": 8
                     }
                 },
                 "explain": "No review written yet"
@@ -4414,48 +4414,48 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 4,
+                        "Protagonist": 8,
                         "Antagonist": 0,
-                        "Side Characters": 3,
-                        "Realistic": 2
+                        "Side Characters": 8,
+                        "Realistic": 6
                     },
                     "Writing": {
-                        "Ending": 4,
-                        "Logical": 2,
-                        "Plot": 4
+                        "Ending": 8,
+                        "Logical": 5,
+                        "Plot": 8
                     },
                     "Sound": {
-                        "OST/BGM": 3,
-                        "Voiceacting": 1,
-                        "OP/ED": 5,
+                        "OST/BGM": 8,
+                        "Voiceacting": 7,
+                        "OP/ED": 8,
                         "SFX": 0
                     },
                     "Animation": {
-                        "Animation": 2,
-                        "Character Design": 3,
-                        "Worldbuilding": 2
+                        "Animation": 6,
+                        "Character Design": 6,
+                        "Worldbuilding": 6
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 5,
-                        "Vibe": 2,
-                        "Climax": 2
+                        "Strong emotions": 6,
+                        "Vibe": 4,
+                        "Climax": 5
                     },
                     "Story": {
-                        "Satisfying Ending": 3,
-                        "No unnecessary scenes": 4,
-                        "Enjoyable Content": 5
+                        "Satisfying Ending": 5,
+                        "No unnecessary scenes": 8,
+                        "Enjoyable Content": 8
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 2,
-                        "Synergy": 0
+                        "Likeable": 9,
+                        "Standouts": 8,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 3,
-                        "Addictiveness": 3,
-                        "Nostalgia": 2
+                        "Aftertaste": 7,
+                        "Addictiveness": 6,
+                        "Nostalgia": 5
                     }
                 },
                 "explain": "No review written yet"
@@ -4927,48 +4927,48 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 4,
-                        "Antagonist": 1,
-                        "Side Characters": 4,
-                        "Realistic": 0
+                        "Protagonist": 7,
+                        "Antagonist": 5,
+                        "Side Characters": 8,
+                        "Realistic": 5
                     },
                     "Writing": {
-                        "Ending": 4,
-                        "Logical": 3,
-                        "Plot": 3
+                        "Ending": 7,
+                        "Logical": 5,
+                        "Plot": 7
                     },
                     "Sound": {
-                        "OST/BGM": 3,
-                        "Voiceacting": 1,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OST/BGM": 8,
+                        "Voiceacting": 7,
+                        "OP/ED": 9,
+                        "SFX": 7
                     },
                     "Animation": {
-                        "Animation": 2,
-                        "Character Design": 3,
-                        "Worldbuilding": 2
+                        "Animation": 6,
+                        "Character Design": 8,
+                        "Worldbuilding": 7
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 5,
-                        "Vibe": 2,
-                        "Climax": 4
+                        "Strong emotions": 8,
+                        "Vibe": 7,
+                        "Climax": 7
                     },
                     "Story": {
-                        "Satisfying Ending": 4,
-                        "No unnecessary scenes": 3,
-                        "Enjoyable Content": 3
+                        "Satisfying Ending": 7,
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 7
                     },
                     "Characters": {
-                        "Likeable": 2,
-                        "Standouts": 2,
-                        "Synergy": 2
+                        "Likeable": 7,
+                        "Standouts": 8,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 0,
-                        "Addictiveness": 4,
-                        "Nostalgia": 4
+                        "Aftertaste": 7,
+                        "Addictiveness": 6,
+                        "Nostalgia": 7
                     }
                 },
                 "explain": "No review written yet"
@@ -5725,48 +5725,48 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 4,
-                        "Antagonist": 3,
-                        "Side Characters": 2,
-                        "Realistic": 0
+                        "Protagonist": 8,
+                        "Antagonist": 7,
+                        "Side Characters": 7,
+                        "Realistic": 6
                     },
                     "Writing": {
-                        "Ending": 5,
-                        "Logical": 5,
-                        "Plot": 2
+                        "Ending": 7,
+                        "Logical": 6,
+                        "Plot": 7
                     },
                     "Sound": {
-                        "OST/BGM": 3,
-                        "Voiceacting": 0,
-                        "OP/ED": 5,
-                        "SFX": 1
+                        "OST/BGM": 7,
+                        "Voiceacting": 7,
+                        "OP/ED": 7,
+                        "SFX": 5
                     },
                     "Animation": {
-                        "Animation": 2,
-                        "Character Design": 3,
-                        "Worldbuilding": 2
+                        "Animation": 5,
+                        "Character Design": 7,
+                        "Worldbuilding": 7
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 4,
-                        "Vibe": 2,
-                        "Climax": 5
+                        "Strong emotions": 7,
+                        "Vibe": 6,
+                        "Climax": 8
                     },
                     "Story": {
-                        "Satisfying Ending": 5,
-                        "No unnecessary scenes": 3,
-                        "Enjoyable Content": 3
+                        "Satisfying Ending": 8,
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 6
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 2,
-                        "Synergy": 1
+                        "Likeable": 8,
+                        "Standouts": 7,
+                        "Synergy": 8
                     },
                     "Memory": {
-                        "Aftertaste": 2,
-                        "Addictiveness": 4,
-                        "Nostalgia": 2
+                        "Aftertaste": 6,
+                        "Addictiveness": 8,
+                        "Nostalgia": 5
                     }
                 },
                 "explain": "No review written yet"
@@ -6124,48 +6124,48 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 4,
-                        "Antagonist": 2,
-                        "Side Characters": 4,
-                        "Realistic": 0
+                        "Protagonist": 7,
+                        "Antagonist": 4,
+                        "Side Characters": 7,
+                        "Realistic": 6
                     },
                     "Writing": {
-                        "Ending": 4,
-                        "Logical": 1,
-                        "Plot": 4
+                        "Ending": 7,
+                        "Logical": 5,
+                        "Plot": 6
                     },
                     "Sound": {
-                        "OST/BGM": 6,
-                        "Voiceacting": 0,
-                        "OP/ED": 0,
-                        "SFX": 0
+                        "OST/BGM": 8,
+                        "Voiceacting": 6,
+                        "OP/ED": 6,
+                        "SFX": 5
                     },
                     "Animation": {
-                        "Animation": 3,
-                        "Character Design": 2,
-                        "Worldbuilding": 3
+                        "Animation": 6,
+                        "Character Design": 7,
+                        "Worldbuilding": 6
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 5,
-                        "Vibe": 3,
-                        "Climax": 3
+                        "Strong emotions": 7,
+                        "Vibe": 6,
+                        "Climax": 6
                     },
                     "Story": {
-                        "Satisfying Ending": 3,
-                        "No unnecessary scenes": 4,
-                        "Enjoyable Content": 5
+                        "Satisfying Ending": 6,
+                        "No unnecessary scenes": 7,
+                        "Enjoyable Content": 8
                     },
                     "Characters": {
-                        "Likeable": 5,
-                        "Standouts": 2,
-                        "Synergy": 0
+                        "Likeable": 8,
+                        "Standouts": 8,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 1,
-                        "Addictiveness": 3,
-                        "Nostalgia": 3
+                        "Aftertaste": 3,
+                        "Addictiveness": 5,
+                        "Nostalgia": 4
                     }
                 },
                 "explain": "No review written yet"
@@ -11026,47 +11026,47 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 4,
-                        "Antagonist": 3,
-                        "Side Characters": 3,
-                        "Realistic": 3
+                        "Protagonist": 8,
+                        "Antagonist": 6,
+                        "Side Characters": 8,
+                        "Realistic": 6
                     },
                     "Writing": {
-                        "Ending": 2,
-                        "Logical": 2,
-                        "Plot": 3
+                        "Ending": 7,
+                        "Logical": 6,
+                        "Plot": 8
                     },
                     "Sound": {
-                        "OST/BGM": 3,
-                        "Voiceacting": 1,
-                        "OP/ED": 5,
-                        "SFX": 0
+                        "OST/BGM": 8,
+                        "Voiceacting": 7,
+                        "OP/ED": 7,
+                        "SFX": 6
                     },
                     "Animation": {
-                        "Animation": 1,
-                        "Character Design": 2,
-                        "Worldbuilding": 3
+                        "Animation": 6,
+                        "Character Design": 8,
+                        "Worldbuilding": 7
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 5,
-                        "Vibe": 4,
-                        "Climax": 4
+                        "Strong emotions": 8,
+                        "Vibe": 7,
+                        "Climax": 7
                     },
                     "Story": {
-                        "Satisfying Ending": 3,
-                        "No unnecessary scenes": 2,
-                        "Enjoyable Content": 5
+                        "Satisfying Ending": 7,
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 8
                     },
                     "Characters": {
-                        "Likeable": 2,
-                        "Standouts": 2,
-                        "Synergy": 2
+                        "Likeable": 8,
+                        "Standouts": 8,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 0,
-                        "Addictiveness": 2,
+                        "Aftertaste": 5,
+                        "Addictiveness": 6,
                         "Nostalgia": 5
                     }
                 },
@@ -14902,48 +14902,48 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 3,
-                        "Antagonist": 2,
-                        "Side Characters": 5,
-                        "Realistic": 2
+                        "Protagonist": 8,
+                        "Antagonist": 7,
+                        "Side Characters": 8,
+                        "Realistic": 5
                     },
                     "Writing": {
-                        "Ending": 6,
-                        "Logical": 2,
-                        "Plot": 3
+                        "Ending": 8,
+                        "Logical": 6,
+                        "Plot": 8
                     },
                     "Sound": {
-                        "OST/BGM": 3,
-                        "Voiceacting": 1,
-                        "OP/ED": 4,
-                        "SFX": 0
+                        "OST/BGM": 7,
+                        "Voiceacting": 7,
+                        "OP/ED": 7,
+                        "SFX": 7
                     },
                     "Animation": {
-                        "Animation": 1,
-                        "Character Design": 3,
-                        "Worldbuilding": 3
+                        "Animation": 6,
+                        "Character Design": 8,
+                        "Worldbuilding": 7
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 7,
-                        "Vibe": 1,
-                        "Climax": 4
+                        "Strong emotions": 9,
+                        "Vibe": 6,
+                        "Climax": 8
                     },
                     "Story": {
-                        "Satisfying Ending": 5,
-                        "No unnecessary scenes": 3,
-                        "Enjoyable Content": 6.8
+                        "Satisfying Ending": 8,
+                        "No unnecessary scenes": 6,
+                        "Enjoyable Content": 8
                     },
                     "Characters": {
-                        "Likeable": 5,
-                        "Standouts": 2,
-                        "Synergy": 2
+                        "Likeable": 8,
+                        "Standouts": 7,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 3,
-                        "Addictiveness": 3,
-                        "Nostalgia": 4
+                        "Aftertaste": 7,
+                        "Addictiveness": 7,
+                        "Nostalgia": 6
                     }
                 },
                 "explain": "No review written yet"
@@ -20545,48 +20545,48 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
-                        "Antagonist": 5,
-                        "Side Characters": 3.75,
-                        "Realistic": 0
+                        "Protagonist": 8,
+                        "Antagonist": 8,
+                        "Side Characters": 8,
+                        "Realistic": 6
                     },
                     "Writing": {
-                        "Ending": 4.9,
-                        "Logical": 3.5,
-                        "Plot": 5.7
+                        "Ending": 8,
+                        "Logical": 7,
+                        "Plot": 8
                     },
                     "Sound": {
-                        "OST/BGM": 3,
-                        "Voiceacting": 2,
-                        "OP/ED": 4.5,
-                        "SFX": 0
+                        "OST/BGM": 7,
+                        "Voiceacting": 6,
+                        "OP/ED": 7,
+                        "SFX": 7
                     },
                     "Animation": {
-                        "Animation": 1.8,
-                        "Character Design": 3,
-                        "Worldbuilding": 2
+                        "Animation": 6,
+                        "Character Design": 7,
+                        "Worldbuilding": 7
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 4,
-                        "Vibe": 5,
-                        "Climax": 4
+                        "Strong emotions": 8,
+                        "Vibe": 9,
+                        "Climax": 8
                     },
                     "Story": {
-                        "Satisfying Ending": 5,
-                        "No unnecessary scenes": 3,
-                        "Enjoyable Content": 5
+                        "Satisfying Ending": 8,
+                        "No unnecessary scenes": 7,
+                        "Enjoyable Content": 8
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 2,
-                        "Synergy": 1.5
+                        "Likeable": 8,
+                        "Standouts": 8,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 3,
-                        "Addictiveness": 1,
-                        "Nostalgia": 3
+                        "Aftertaste": 7,
+                        "Addictiveness": 4,
+                        "Nostalgia": 5
                     }
                 },
                 "explain": "No review written yet"
