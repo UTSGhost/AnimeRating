@@ -21137,50 +21137,50 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 5,
-                        "Antagonist": 3,
-                        "Side Characters": 5,
-                        "Realistic": 0
+                        "Protagonist": 7,
+                        "Antagonist": 7,
+                        "Side Characters": 7,
+                        "Realistic": 7
                     },
                     "Writing": {
-                        "Ending": 3,
-                        "Logical": 3,
-                        "Plot": 3
+                        "Ending": 7,
+                        "Logical": 7,
+                        "Plot": 7
                     },
                     "Sound": {
-                        "OST/BGM": 1,
-                        "Voiceacting": 2,
-                        "OP/ED": 7.6
+                        "OST/BGM": 10,
+                        "Voiceacting": 7,
+                        "OP/ED": 10
                     },
                     "Animation": {
-                        "Animation": 5,
-                        "Character Design": 5,
-                        "Worldbuilding": 0
+                        "Animation": 10,
+                        "Character Design": 8,
+                        "Worldbuilding": 7
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 3,
-                        "Vibe": 6,
-                        "Climax": 6
+                        "Strong emotions": 7,
+                        "Vibe": 7,
+                        "Climax": 7
                     },
                     "Story": {
-                        "Satisfying Ending": 0,
-                        "No unnecessary scenes": 2,
-                        "Enjoyable Content": 5
+                        "Satisfying Ending": 7,
+                        "No unnecessary scenes": 7,
+                        "Enjoyable Content": 7
                     },
                     "Characters": {
-                        "Likeable": 4,
-                        "Standouts": 0,
-                        "Synergy": 3
+                        "Likeable": 7,
+                        "Standouts": 7,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 5,
-                        "Addictiveness": 5,
-                        "Nostalgia": 0
+                        "Aftertaste": 7,
+                        "Addictiveness": 7,
+                        "Nostalgia": 7
                     }
                 },
-                "explain": "Note that this is a music video, so my ratings either are based on ep1, ep2-11 or from the MV."
+                "explain": "Rating for Music and Animation. Rest is filler for score"
             }
         },
         {
