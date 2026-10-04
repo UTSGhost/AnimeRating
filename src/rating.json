@@ -21193,50 +21193,50 @@
             "rating": {
                 "objective": {
                     "Characters": {
-                        "Protagonist": 3,
-                        "Antagonist": 0,
-                        "Side Characters": 3,
-                        "Realistic": 3
+                        "Protagonist": 7,
+                        "Antagonist": 7,
+                        "Side Characters": 7,
+                        "Realistic": 7
                     },
                     "Writing": {
-                        "Ending": 3,
-                        "Logical": 3,
-                        "Plot": 3
+                        "Ending": 7,
+                        "Logical": 7,
+                        "Plot": 7
                     },
                     "Sound": {
-                        "OST/BGM": 1,
-                        "Voiceacting": 1,
-                        "OP/ED": 7
+                        "OST/BGM": 8,
+                        "Voiceacting": 7,
+                        "OP/ED": 8
                     },
                     "Animation": {
-                        "Animation": 3,
-                        "Character Design": 3,
-                        "Worldbuilding": 3
+                        "Animation": 9,
+                        "Character Design": 7,
+                        "Worldbuilding": 7
                     }
                 },
                 "subjective": {
                     "Emotions": {
-                        "Strong emotions": 5,
-                        "Vibe": 5,
-                        "Climax": 5
+                        "Strong emotions": 7,
+                        "Vibe": 7,
+                        "Climax": 7
                     },
                     "Story": {
-                        "Satisfying Ending": 3,
-                        "No unnecessary scenes": 3,
-                        "Enjoyable Content": 3
+                        "Satisfying Ending": 7,
+                        "No unnecessary scenes": 7,
+                        "Enjoyable Content": 7
                     },
                     "Characters": {
-                        "Likeable": 2,
-                        "Standouts": 0,
-                        "Synergy": 3
+                        "Likeable": 7,
+                        "Standouts": 7,
+                        "Synergy": 7
                     },
                     "Memory": {
-                        "Aftertaste": 3,
-                        "Addictiveness": 3,
-                        "Nostalgia": 3
+                        "Aftertaste": 7,
+                        "Addictiveness": 7,
+                        "Nostalgia": 7
                     }
                 },
-                "explain": "Just adding some random scores so it reaches my desired rating (having mvs in this list is really stupid)"
+                "explain": "Rating for Music and Animation. Rest is filler for score"
             }
         },
         {
