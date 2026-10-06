@@ -13,6 +13,7 @@
     --button-hover: #33373b;
     --score-text: #ffffff;
     --highlight-color: #a487f4;
+    --sort-highlight-bg: #6d7aebd7;
     --review-background: #18202f;
     --sticky-bg: rgba(30, 41, 59, 0.9); 
     font-family: 'Nunito Variable', sans-serif;
@@ -23,13 +24,14 @@
     --card-bg: #ffffff;       
     --text-color: #0f172a;  
     --text-muted: #64748b;  
-    --text-dimmed: #b3b4b0;   
+    --text-dimmed: #b0b0b0;   
     --accent-color: #322f64; 
     --border-color: #e2e8f0;   
     --button-bg: #f1f5f9;
     --button-hover: #322f64a7;
     --review-background: #dfdcd981;
     --highlight-color: #443178;
+    --sort-highlight-bg: #b1b9ff;
     --sticky-bg: rgba(255, 255, 255, 0.9); 
 }
 
@@ -309,7 +311,7 @@ select:focus {
 }
 
 .highlight {
-    background-color: var(--accent-color);
+    background-color: var(--sort-highlight-bg);
     font-weight: bold;
     padding: 2px 6px;
     border-radius: 4px;
