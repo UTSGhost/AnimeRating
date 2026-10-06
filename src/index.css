@@ -13,6 +13,7 @@
     --button-hover: #33373b;
     --score-text: #ffffff;
     --highlight-color: #a487f4;
+    --review-background: #18202f;
     --sticky-bg: rgba(30, 41, 59, 0.9); 
     font-family: 'Nunito Variable', sans-serif;
 }
@@ -27,6 +28,7 @@
     --border-color: #e2e8f0;   
     --button-bg: #f1f5f9;
     --button-hover: #322f64a7;
+    --review-background: #dfdcd981;
     --highlight-color: #443178;
     --sticky-bg: rgba(255, 255, 255, 0.9); 
 }
@@ -376,7 +378,7 @@ select:focus {
 
 .review-text {
     padding: 15px;
-    background: rgba(0, 0, 0, 0.2);
+    background: var(--review-background);
     border-radius: 8px;
     overflow-y: auto;
     font-size: 0.95rem;
