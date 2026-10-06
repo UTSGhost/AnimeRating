@@ -6,10 +6,11 @@
     --card-bg: #1e293b;      
     --text-color: #f1f5f9;   
     --text-muted: #94a3b8;    
+    --text-dimmed: #4f5a69;    
     --accent-color: #6d79eb;   
     --border-color: #334155;  
     --button-bg: #334155;
-    --button-hover: #475569;
+    --button-hover: #33373b;
     --score-text: #ffffff;
     --highlight-color: #a487f4;
     --sticky-bg: rgba(30, 41, 59, 0.9); 
@@ -21,6 +22,7 @@
     --card-bg: #ffffff;       
     --text-color: #0f172a;  
     --text-muted: #64748b;  
+    --text-dimmed: #b3b4b0;   
     --accent-color: #322f64; 
     --border-color: #e2e8f0;   
     --button-bg: #f1f5f9;
@@ -313,6 +315,9 @@ select:focus {
 .subcategory-row {
     padding-left: 5px !important;
     padding-right: 5px !important;
+}
+.dimmed {
+    color: var(--text-dimmed);
 }
 /* =========================================
    5. DETAILS & REVIEW

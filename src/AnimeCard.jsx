@@ -39,7 +39,7 @@ export default function AnimeCard({ anime, showAdvanced, onToggle, activeSort, c
                         activeSort[1] === title && 
                         activeSort[2] === key;
                         return (
-                            <li key={key} className={isItemHighlighted ? 'highlight subcategory-row' : 'subcategory-row'}>
+                            <li key={key} className={`${isItemHighlighted ? 'highlight ' : ''}${value === 0 ? 'dimmed ' : ''}subcategory-row`}>
                                 <span className="attr-name">{key.replace(/_/g, ' ')}:</span>
                                 <span className="attr-value">{value}</span>
                             </li>
